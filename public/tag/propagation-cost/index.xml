@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Propagation cost | RCODI</title>
+    <link>/tag/propagation-cost/</link>
+      <atom:link href="/tag/propagation-cost/index.xml" rel="self" type="application/rss+xml" />
+    <description>Propagation cost</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>Purdue Research Center for Open Digital Innovation © 2022</copyright><lastBuildDate>Sun, 01 Dec 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/media/logo_hue831a1547d228cf33d75a995b069998a_11256_300x300_fit_lanczos_2.png</url>
+      <title>Propagation cost</title>
+      <link>/tag/propagation-cost/</link>
+    </image>
+    
+    <item>
+      <title>The Microstructure of Complex Architectures in Open Collaboration: A Theory of Design Network Motifs</title>
+      <link>/publication/brunswicker-microstructure-2019/</link>
+      <pubDate>Sun, 01 Dec 2019 00:00:00 +0000</pubDate>
+      <guid>/publication/brunswicker-microstructure-2019/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

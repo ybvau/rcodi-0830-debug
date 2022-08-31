@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Markus Schimmer | RCODI</title>
+    <link>/people/markus-schimmer/</link>
+      <atom:link href="/people/markus-schimmer/index.xml" rel="self" type="application/rss+xml" />
+    <description>Markus Schimmer</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>Purdue Research Center for Open Digital Innovation © 2022</copyright>
+    <image>
+      <url>/people/markus-schimmer/avatar_hu3d1bd35b124dcc830b1980df6e91210e_32081_270x270_fill_q75_lanczos_center.jpg</url>
+      <title>Markus Schimmer</title>
+      <link>/people/markus-schimmer/</link>
+    </image>
+    
+  </channel>
+</rss>

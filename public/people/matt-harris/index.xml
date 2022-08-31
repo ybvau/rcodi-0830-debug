@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Matt Harris | RCODI</title>
+    <link>/people/matt-harris/</link>
+      <atom:link href="/people/matt-harris/index.xml" rel="self" type="application/rss+xml" />
+    <description>Matt Harris</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>Purdue Research Center for Open Digital Innovation © 2022</copyright>
+    <image>
+      <url>/people/matt-harris/avatar_hu0730d104c956da6f5c2bb0f03977cd41_24836_270x270_fill_q75_lanczos_center.jpg</url>
+      <title>Matt Harris</title>
+      <link>/people/matt-harris/</link>
+    </image>
+    
+  </channel>
+</rss>

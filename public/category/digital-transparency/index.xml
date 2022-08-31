@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>digital-transparency | RCODI</title>
+    <link>/category/digital-transparency/</link>
+      <atom:link href="/category/digital-transparency/index.xml" rel="self" type="application/rss+xml" />
+    <description>digital-transparency</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>Purdue Research Center for Open Digital Innovation © 2022</copyright><lastBuildDate>Fri, 29 Jan 2010 00:11:56 +0000</lastBuildDate>
+    <image>
+      <url>/media/logo_hue831a1547d228cf33d75a995b069998a_11256_300x300_fit_lanczos_2.png</url>
+      <title>digital-transparency</title>
+      <link>/category/digital-transparency/</link>
+    </image>
+    
+    <item>
+      <title>Blockchain Networks and Transparency</title>
+      <link>/project/blockchain-networks-and-transparency/</link>
+      <pubDate>Fri, 29 Jan 2010 00:11:56 +0000</pubDate>
+      <guid>/project/blockchain-networks-and-transparency/</guid>
+      <description>&lt;p&gt;This project aims to identify how new ways of constructing exchange are emerging in society&lt;/p&gt;
+&lt;h3 id=&#34;blockchain-networks-and-transparency&#34;&gt;Blockchain Networks and Transparency&lt;/h3&gt;
+&lt;p&gt;&lt;strong&gt;Intellectual Merit and Broader Impact&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;From an interdisciplinary perspective, the research aim is to explore and develop the interlinkage between network science and blockchain technology. One question is how network science can be used to study the blockchain industry and vice versa. This means applying network science concepts and methods to the study and experimental investigation of the blockchain industry. This also includes using blockchain as a technology platform to study the network behavior of the blockchain industry.&lt;/li&gt;
+&lt;li&gt;From an economic perspective, the research aim is to identify how new ways of constructing exchange are emerging in society. The hypothesis to test is that blockchain technology allows a new form of peer-to-peer service provision and exchange between parties, which leads to new conceptualizations, sensibilities, and practices regarding exchange.&lt;/li&gt;
+&lt;li&gt;From a social perspective, the research program seeks to quantify the amount of intangible social goods produced by the blockchain economy such as freedom, autonomy, dignity, choice, and trust.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;Investigators: Melanie Swan, Dr. Sabine Brunswicker&lt;/strong&gt;&lt;/p&gt;
+&lt;h3 id=&#34;related-research&#34;&gt;Related Research&lt;/h3&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,541 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Our Projects | RCODI</title>
+    <link>/project/</link>
+      <atom:link href="/project/index.xml" rel="self" type="application/rss+xml" />
+    <description>Our Projects</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>Purdue Research Center for Open Digital Innovation © 2022</copyright>
+    <image>
+      <url>/media/logo_hue831a1547d228cf33d75a995b069998a_11256_300x300_fit_lanczos_2.png</url>
+      <title>Our Projects</title>
+      <link>/project/</link>
+    </image>
+    
+    <item>
+      <title>Music Challenge for Social Change</title>
+      <link>/project/music-challenge-for-social-change/</link>
+      <pubDate>Sun, 09 Feb 2020 18:24:12 +0000</pubDate>
+      <guid>/project/music-challenge-for-social-change/</guid>
+      <description>&lt;h2 id=&#34;the-tipping-point-community-platform-for-a-x201cmusic-for-social-changex201d-challenge&#34;&gt;The Tipping Point Community Platform for a “Music for Social Change” Challenge&lt;/h2&gt;
+&lt;p&gt;&lt;em&gt;Powered by RCODI IronHacks&lt;/em&gt;&lt;/p&gt;
+&lt;h2 id=&#34;why-do-we-need-it&#34;&gt;Why do we need it?&lt;/h2&gt;
+&lt;p&gt;Science has shown that music can bond people together and motivate them to act collectively. What if during this time of potential ecological and societal collapse, we can use the potential of music to save our future? What if music could trigger &lt;em&gt;&lt;strong&gt;social tipping points&lt;/strong&gt;&lt;/em&gt;, thresholds at which the actions of a few artists and their fan base engage the masses to act actively in order to realize social change?&lt;/p&gt;
+&lt;p&gt;And there are young artists who want their art to go beyond “feel good music” and inspire meaningful actions from and with their followers. However, popular metrics such as Billboard Top 100 do not give them sufficient capacity for their songs to become a &lt;strong&gt;Call to Action&lt;/strong&gt;.&lt;/p&gt;
+&lt;p&gt;We, the &lt;a href=&#34;http://www.rcodi.org&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Research Center for Open Digital Innovation  (RCODI)&lt;/a&gt; and its members and fellows, have joined forces with the &lt;a href=&#34;http://www.earthwisecenter.org&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;EARTHwise Centre&lt;/a&gt; to change this.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;OUR VISION:&lt;/strong&gt;  Every artist should have access to a community platform to co-create songs that ignite collective action for a thrivable world.&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;for-whom-is-it&#34;&gt;&lt;strong&gt;For whom is it?&lt;/strong&gt;&lt;/h2&gt;
+&lt;p&gt;Our digital platform connects three key actors to co-create a playlist of songs that call a global audience to take action for social change.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;./globe-black-and-white-world-clip-art-earth-black-and-white.png&#34; alt=&#34;for block on &amp;apos;who uses the platform&amp;apos;&#34;&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Artists&lt;/strong&gt;
+(musicians, cultural creatives) who co-create songs throughout an iterative process&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Advisors&lt;/strong&gt;
+(experts in “thrivability” focused not only on sustainability but also social and human capital to regenerate planetary, social, cognitive as well as spiritual resources) who advise artists in defining their call for action&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Listeners&lt;/strong&gt;
+(you, me, and people around the world) who help artists to learn about the potential of their lyrics and sounds to motivate others to follow their call for action&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;the-key-features&#34;&gt;&lt;strong&gt;The key features&lt;/strong&gt;&lt;/h2&gt;
+&lt;p&gt;The community platform offers artists a range of novel features to create songs that ignite action:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;OUR SONGS&lt;/strong&gt;: Access to the community’s co-created songs prior to the global release of the tipping point playlist (e.g. via Spotify)&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;MY STUDIO:&lt;/strong&gt; A space to create and upload different versions of an artist’s song (its audio, its narrative) with features to implement the song’s call for actions (e.g. donations related to the song)&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;MY RESULTS:&lt;/strong&gt; Access to feedback from advisors and listeners as well as access to song analytics (e.g.
+“danceability”, listener engagement)&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;MY SOCIAL NETWORK&lt;/strong&gt;: Access to a discussion forum to engage in the dialogue with like-minded artists who want to thrive&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;MY LAB:&lt;/strong&gt; Tools and tutorials to learn about digital music production, “thrivability,” and more&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;the-benefits-for-artists&#34;&gt;The benefits for artists&lt;/h2&gt;
+&lt;p&gt;&lt;img src=&#34;./thrive-spotify.png&#34; alt=&#34;benefits&#34;&gt;&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;Join a community of creatives for social change&lt;/li&gt;
+&lt;li&gt;Co-create a song that calls for action&lt;/li&gt;
+&lt;li&gt;Select a curated global initiatives  (e.g. charity or fund) to implement your song’s call for action&lt;/li&gt;
+&lt;li&gt;Have your song featured in the Tipping Point channels and playlists&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;&lt;img src=&#34;./bg-pattern-blue-dots.jpg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+&lt;h2 id=&#34;the-research-and-tech-development&#34;&gt;The research and tech development&lt;/h2&gt;
+&lt;p&gt;Our interdisciplinary team of scientists, designers, artists, and platform engineers (more details&lt;a href=&#34;https://docs.google.com/presentation/d/1n-Fgy11di6IUmD8QZKqbZMjFCTDsacnTp8DyCqJSbhc/edit?usp=sharing&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt; here&lt;/a&gt;) can build upon several years of scientific research and practical development experiences on how to design digital platforms for co-creation and collective action. We have worked with thousands of individuals and hackers around the world to scientifically validate platform features, incentive systems, social technologies, and interface designs for co-creation. Such efforts were supported by the &lt;a href=&#34;http://www.nsf.org&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;National Science Foundation&lt;/a&gt; and donations from industry leaders who are convinced that digital technologies can democratize innovation.&lt;/p&gt;
+&lt;p&gt;In the next few months, we build upon these foundations to design and built the first version of the tipping point community platform. It will use state of the art of web technologies (MERN stack), data science techniques, and AI models (e.g. natural language processing, deep learning, network analytics, agent-based modeling). Our goal is to launch it in summer/fall 2020 along with a global call for the music for social change challenge. This platform will also be the foundation of a multi-year research program focused on the 1) role of music for collective action, 2) the nature of social tipping points in the context of thrivability, and 3) the constituting tole of digital technologies and information design for enabling collective action. You can learn more about the research program &lt;a href=&#34;https://docs.google.com/presentation/d/1n-Fgy11di6IUmD8QZKqbZMjFCTDsacnTp8DyCqJSbhc/edit?usp=sharing&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;here&lt;/a&gt;.&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;our-intended-impact&#34;&gt;Our intended impact&lt;/h2&gt;
+&lt;p&gt;Our goal is that with the launch of a music for social change challenge in fall 2020, we can make impact and:&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;Involve thousands of artists in the co-creation challenge&lt;/li&gt;
+&lt;li&gt;Create and release a final Spotify playlist with 100 songs calling for collective action across multiple dimensions of social change (e.g. related to different &lt;a href=&#34;https://sustainabledevelopment.un.org/sdgs&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;sustainability development goals&lt;/a&gt; of the United Nations)&lt;/li&gt;
+&lt;li&gt;Develop new sound and text analytics features (based on machine and deep learning methods) measuring the the latent properties of songs that explains the songs’ potential to enable coherent actions for social change&lt;/li&gt;
+&lt;li&gt;Use the platform as a “living lab” to understand what features of the platform can &lt;em&gt;unify&lt;/em&gt; the emotions and actions of thousands of people (despite their geographic, cultural, and social differences)&lt;/li&gt;
+&lt;li&gt;Enable and predict social tipping points – thresholds at which songs become viral and motivate the masses to take actions for the social good&lt;/li&gt;
+&lt;/ol&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;support-our-vision&#34;&gt;Support our vision&lt;/h2&gt;
+&lt;p&gt;RCODI and the &lt;a href=&#34;http://www.earthwise.org&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;EARTHwise Centre&lt;/a&gt; calls for your support to make this vision reality. Every donation counts so that we can launch the global music for social change challenge soon. Visit &lt;a href=&#34;https://www.earthwisecentre.org/music-for-change&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;earthwisecentre.org/music-for-change&lt;/a&gt; to support our efforts to use science and music to transform our future.&lt;/p&gt;
+&lt;p&gt;Join people around the world and create Your Song of Action. Creating actionable lyrics, melodies, and songs for regenerating Mother Earth and co-creating a world that works for all.&lt;/p&gt;
+&lt;p&gt;For more information visit &lt;a href=&#34;https://www.earthwisecentre.org/music-for-change&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;earthwisecentre.org/music-for-change&lt;/strong&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;hr&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>FACT</title>
+      <link>/project/fact/</link>
+      <pubDate>Mon, 03 Dec 2018 18:33:16 +0000</pubDate>
+      <guid>/project/fact/</guid>
+      <description>&lt;h2 id=&#34;what-is-fact&#34;&gt;What is FACT?&lt;/h2&gt;
+&lt;p&gt;The Federated-AI for Communication and Trust (FACT) platform is envisioned to be an open, federated AI that will continuously evaluate professional and civic news streams, assign trust rating to content and sources, and progressively adjust their ratings as new and also untold stories are generated and shared.&lt;/p&gt;
+&lt;h2 id=&#34;how-does-it-work&#34;&gt;How does it work?&lt;/h2&gt;
+&lt;p&gt;FACT integrates an assemble of AI models that augment the memory and the &amp;ldquo;intelligence&amp;rdquo; of users. It&amp;rsquo;s a distributed AI platform that federates through self-organization and novel human-AI interaction design&lt;/p&gt;
+&lt;p&gt;FACT episodic memory engine&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Stores historical facts and sources of news&lt;/li&gt;
+&lt;li&gt;Traces news content and degree of distortion over time&lt;/li&gt;
+&lt;li&gt;Assigns trust rating&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;FACT intelligence engine&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Generates narratives based on facts&lt;/li&gt;
+&lt;li&gt;Produces counterfactuals and &amp;ldquo;untold&amp;rdquo; stories&lt;/li&gt;
+&lt;li&gt;Rates trust rating of new articles&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;facts-impact&#34;&gt;FACT&amp;rsquo;S Impact&lt;/h2&gt;
+&lt;p&gt;The primary audience of FACT are ~ 30 % of the citizens living in the U.S, who are active on the social media. Using  textual, chart-based as well as conversational interactive feedback, FACT&amp;rsquo;s interface can influence end-user interpretations as well news creation, prompting continued action (such as further propagation of fact-based retweets and stories, or writing of news article).&lt;/p&gt;
+&lt;p&gt;Consumers&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Literacy about AI and distortion of news content&lt;/li&gt;
+&lt;li&gt;Increased trust in news&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Civic and Professional Journalists&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Confidence in writing trustworthy stories&lt;/li&gt;
+&lt;li&gt;Attention to untold stories&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;AI Community&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;New models for federated AI combining agent-based modeling, GAN, and human-AI interaction/design&lt;/li&gt;
+&lt;li&gt;Behavioral studies/insights&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;facts-deliverables&#34;&gt;FACT&amp;rsquo;s Deliverables&lt;/h2&gt;
+&lt;p&gt;&lt;strong&gt;Novel FACT platform distributed AI with novel human-AI interaction design:&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Memory engine (Hebbian learning &amp;amp; agent-based simulation)&lt;/li&gt;
+&lt;li&gt;Intelligence engine (generative adversarial networks &amp;amp; agent-based modeling)&lt;/li&gt;
+&lt;li&gt;Human-AI interaction design&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;Data and evaluation from controlled experiments with 500+ citizens:&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Lab &amp;amp; field experiments&lt;/li&gt;
+&lt;li&gt;Testing effect of FACT for citizens vis-à-vis professional writers&lt;/li&gt;
+&lt;li&gt;Impact measures: literacy, perceived trust, confidence, and behavioral change&lt;/li&gt;
+&lt;li&gt;~250 new FACT-based stories&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;FACT channel reporting to broader audience:&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;News produced with FACT by citizen journalists&lt;/li&gt;
+&lt;li&gt;Co-authored work with advisory board&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Energy Project</title>
+      <link>/project/energy-project/</link>
+      <pubDate>Thu, 22 Feb 2018 02:05:32 +0000</pubDate>
+      <guid>/project/energy-project/</guid>
+      <description>
+&lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
+  &lt;iframe src=&#34;https://www.youtube.com/embed/kqKnGQuLmIw&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; allowfullscreen title=&#34;YouTube Video&#34;&gt;&lt;/iframe&gt;
+&lt;/div&gt;
+
+&lt;hr&gt;
+&lt;h2 id=&#34;energyvis&#34;&gt;ENERGY/Vis&lt;/h2&gt;
+&lt;h4 id=&#34;social-perceptions-in-home-energy-graphs&#34;&gt;Social Perceptions in Home Energy Graphs&lt;/h4&gt;
+&lt;p&gt;Our information is increasingly data based and our decisions are increasingly guided by data graphs, charts and visualizations. Yet, the dominantly individualist data presentation perspectives utilized in current feedback systems have failed to leverage social behavioral theories to design technologically mediated feedback that could enhance individuals&#39; awareness of and their willingness to cooperate with the digitally interconnected others.&lt;/p&gt;
+&lt;p&gt;The ENERGYVIS Project was created to gain deeper insight into how the visual structure of a data graph affects the interpretation and comprehension of the data the chart represents and how they might nudge us to more cooperative choices. Little research has examined the role data visualization design plays in shaping behavior in the context of collective action (e.g., recycling, energy conservation, public protest, juries or organizational committees) that require cooperation and pooling of efforts of individual members, often on a voluntary basis. In such dilemmas, everybody is better off if individuals align with the group goal; however, these tasks typically fail because many do not align with the group&amp;rsquo;s goal. In addition to visual encoding patterns to enhance individuals&#39; social awareness and cooperation, this project will offer resources for new cognitive and perceptual experiments.&lt;/p&gt;
+&lt;h2 id=&#34;products-and&#34;&gt;Products and&lt;/h2&gt;
+&lt;h4 id=&#34;contributions&#34;&gt;Contributions:&lt;/h4&gt;
+&lt;p&gt;&lt;img src=&#34;./Product-1-demo-app.jpg&#34; alt=&#34;Product 1 - demo app&#34;&gt;&lt;/p&gt;
+&lt;p&gt;1 home energy monitoring app.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;./Product-2-gestalt-placeholder.gif&#34; alt=&#34;Product 2 - gestalt placeholder&#34;&gt;&lt;/p&gt;
+&lt;p&gt;1 set of unifying design patterns.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;./Product-3-vis-game.png&#34; alt=&#34;Product 3 - vis game&#34;&gt;&lt;/p&gt;
+&lt;p&gt;1 new infovis game model.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;./Product-4-D3-graphs.gif&#34; alt=&#34;Product 4 - D3 graphs&#34;&gt;&lt;/p&gt;
+&lt;p&gt;10s of new D3.js graphs.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;./Product-5-many-games.png&#34; alt=&#34;Product 5 - many games&#34;&gt;&lt;/p&gt;
+&lt;p&gt;10s of behavioral games.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;./Product-6-lab-study.jpg&#34; alt=&#34;Product 6 - lab study&#34;&gt;&lt;/p&gt;
+&lt;p&gt;10s of lab studies.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;./Product-7-Amazon-Turk.png&#34; alt=&#34;Product 7 - Amazon Turk&#34;&gt;&lt;/p&gt;
+&lt;p&gt;100s of on Amazon Mechanical Turk workers.&lt;/p&gt;
+&lt;h4 id=&#34;data&#34;&gt;Data:&lt;/h4&gt;
+&lt;p&gt;&lt;img src=&#34;./Product-8-annotations.png&#34; alt=&#34;Product 8 - annotations&#34;&gt;&lt;/p&gt;
+&lt;p&gt;100s of annotations.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;./Product-9-unity-measurements.png&#34; alt=&#34;Product 9 - unity measurements&#34;&gt;&lt;/p&gt;
+&lt;p&gt;100s of perceived group unity measurements.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;./Product-10-descriptions.png&#34; alt=&#34;Product 10 - descriptions&#34;&gt;&lt;/p&gt;
+&lt;p&gt;1,000s of graph descriptions.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;./Product-11-decisions.png&#34; alt=&#34;Product 11 - decisions&#34;&gt;&lt;/p&gt;
+&lt;p&gt;1,000s of graph based decisions&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;./Product-12-eyetracking-data.png&#34; alt=&#34;Product 12 - eyetracking data&#34;&gt;&lt;/p&gt;
+&lt;p&gt;10,000 of eye fixations&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;./Product-13-code.png&#34; alt=&#34;Product 13 - code&#34;&gt;&lt;/p&gt;
+&lt;p&gt;10,000s of code lines( see our Github)&lt;/p&gt;
+&lt;p&gt;Request our data&lt;/p&gt;
+&lt;h2 id=&#34;our-experiments&#34;&gt;Our Experiments&lt;/h2&gt;
+&lt;p&gt;Research has shown that data based feedback has the potential to make people more aware and cognizant of their synergy decisions. What is lacking is the consideration of the subtle ways in which design details of data based charts frame how people perceive, understand and act in response to the feedback charts.&lt;/p&gt;
+&lt;p&gt;We extend visual perception theory by borrowing from group identity literature, which suggests that perceiving a unified group is required for group alignment and continued commitment. So, we hypothesize that seeing and identifying with a perceivably unified group can sustain users&#39; energy conservation efforts. We use social computational methods to study the effects of visual graph structures and motion effects on graph perceptions, interpretations and user actions and consolidate a set of design patterns.&lt;/p&gt;
+&lt;h2 id=&#34;perception-and-interpretation-experiments&#34;&gt;Perception and Interpretation Experiments.&lt;/h2&gt;
+&lt;p&gt;We marry theories of visual perception and group identity to deliver theory driven chart designs that support collective awareness. Our perceptual experiments explore how these visual graph structures increase the perception of group unity.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://smartenergygame.github.io/EnergyCharts/index.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Explore our Gestalt Graphs&lt;/a&gt;&lt;/p&gt;
+&lt;h2 id=&#34;behavioural-game-studies-focused-on-action&#34;&gt;Behavioural Game Studies Focused on Action.&lt;/h2&gt;
+&lt;p&gt;We build on existing behavioral game literature and propose a new visualization oriented game framework. We use the behavioral game to explore how the visual graph structures nudge individuals to more cooperative behaviors.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://smart-energy-game.herokuapp.com/demo/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Demo our behavioral game&lt;/a&gt;&lt;/p&gt;
+&lt;h2 id=&#34;lab-studies-with-eye-tracking&#34;&gt;Lab Studies with Eye Tracking.&lt;/h2&gt;
+&lt;p&gt;We seek to better understand the link between perceiveinng a data visualization and how interpretinng the unnderlying data is mediated by visual graph structures.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://smartenergygame.github.io/EnergyMonitorDemo/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Explore our Motion Graphs&lt;/a&gt;&lt;/p&gt;
+&lt;h2 id=&#34;publications&#34;&gt;Publications&lt;/h2&gt;
+&lt;h4 id=&#34;when-using-our-work-please-cite-our-papers&#34;&gt;When using our work please cite our papers&lt;/h4&gt;
+&lt;p&gt;&lt;strong&gt;JOURNAL&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;A Framework for Eco-Feedback Design For Home Energy Interactions&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Marlen Promann, and Sabine Brunswicker (2018) ACM Transactions on Computer-Human Interaction, (forthcoming).&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;CONFERENCES&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;The Effect of Enclosure in Group Charts on Perceived Unity.&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Marlen Promann, and Sabine Brunswicker (forthcoming) CSCW, New Jersey, NY, USA, November 3-7&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;The Effect of Proximal Data Structure on Perceived Group Unity&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Marlen Promann, and Sabine Brunswicker (forthcoming) IEEEVis VAST, Berlin, Germany, October.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Affordances of Eco-Feedback Design in Home Energy Context&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Marlen Promann, and Sabine Brunswicker (2017) AMCIS, Boston, MA, USA, 10-12 August.&lt;/p&gt;
+&lt;h2 id=&#34;say-hi&#34;&gt;Say, Hi!&lt;/h2&gt;
+&lt;p&gt;Please reach out to us with feedback, suggestions, data and collaboration requests.&lt;/p&gt;
+&lt;p&gt;We love this inspiring track of civic design work and look forward to hearing from you.&lt;/p&gt;
+&lt;h4 id=&#34;dr-sabine-brunswicker&#34;&gt;Dr. Sabine Brunswicker&lt;/h4&gt;
+&lt;p&gt;Associate Professor, Director Research Center for Digital Innovation (RCODI)&lt;/p&gt;
+&lt;p&gt;sabine.brunswicker at gmail dot com&lt;/p&gt;
+&lt;h4 id=&#34;marlen-promman&#34;&gt;Marlen Promman&lt;/h4&gt;
+&lt;p&gt;PhD Design Researcher, RCODI Research Fellow&lt;/p&gt;
+&lt;p&gt;marlen.promann at gmail dot com&lt;/p&gt;
+&lt;h4 id=&#34;jesus-enrique&#34;&gt;Jesus Enrique&lt;/h4&gt;
+&lt;p&gt;Aldana Sigona&lt;/p&gt;
+&lt;p&gt;Game Developer&lt;/p&gt;
+&lt;p&gt;RCODI Research Fellow&lt;/p&gt;
+&lt;p&gt;aldana.sigona at gmail dot com&lt;/p&gt;
+&lt;h4 id=&#34;daniel-fernando&#34;&gt;Daniel Fernando&lt;/h4&gt;
+&lt;p&gt;Santos Bustos&lt;/p&gt;
+&lt;p&gt;Software Engineer&lt;/p&gt;
+&lt;p&gt;RCODI Research Fellow&lt;/p&gt;
+&lt;p&gt;dfsantosbu at unal dot edu dot co&lt;/p&gt;
+&lt;p&gt;Note: For graph and game codes, please visit out &lt;a href=&#34;https://github.com/SmartEnergyGame&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;GitHub repository &lt;/a&gt;&lt;/p&gt;
+&lt;h3 id=&#34;acknowledgements&#34;&gt;Acknowledgements&lt;/h3&gt;
+&lt;p&gt;This work has been supported in part by the National Science Foundation (NSF) under Smart and Connected Communities grant, Office of the Executive Vice President for Research at Purdue University, and Purdue Discovery Park&amp;rsquo;s Big Idea Challenge awards. This work has also been made possible by the critical feedback of RCODI team at large.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Reinforcement Learning</title>
+      <link>/project/reinforcement-learning/</link>
+      <pubDate>Sat, 06 Jan 2018 04:47:12 +0000</pubDate>
+      <guid>/project/reinforcement-learning/</guid>
+      <description>&lt;h3 id=&#34;how-would-you-teach-a-child-to-play-a-video-game&#34;&gt;How would you teach a child to play a video game?&lt;/h3&gt;
+&lt;p&gt;You might sit down with them, put the controller in their hands, and push buttons with them. You might do the first level with them, and have them copy what you do until they get it down exactly right. They’ll learn pretty quickly - if they have the right aptitude - and they’d be able to teach their friends.&lt;/p&gt;
+&lt;p&gt;However, it’s pretty unlikely that they’ll be better than you by the time you’re done teaching them. If they choose to seek out different teachers - Twitch streamers, that kid at school - then odds are low they’ll get better than them.&lt;/p&gt;
+&lt;p&gt;Fortunately, there is another approach. It only requires the kid having an unrealistically large amount of time and no real needs.&lt;/p&gt;
+&lt;p&gt;Just lock them in the room and tell them to leave once they get a perfect score.&lt;/p&gt;
+&lt;p&gt;They’ll start off by trying random things, hoping to stumble across some strategies that yield positive outcomes. Over time, they’ll develop some balance between doing things they know work well and trying new things. Eventually, by the time they get their perfect score, the tactics they use will be entirely original, unsullied by the influence of you or any of their friends.&lt;/p&gt;
+&lt;p&gt;This is the basis of reinforcement learning.&lt;/p&gt;
+&lt;p&gt;While a parent should never lock their kid in a room under such circumstances, having computers play a game millions of times without telling them how to go about it has led to groundbreaking developments. The famous AlphaGo and AlphaZero agents used reinforcement learning to develop the world’s best Go AI and beat top-ranked human player Lee Sedol. Google uses this same technique to manage their data center’s energy consumption. Scientists have been harnessing the power of reinforcement learning to study protein synthesis, advertisement placement, and robots. Reinforcement learning does not learn from humans; as a result, it is free to explore beyond the bounds of our limited creativities.&lt;/p&gt;
+&lt;p&gt;It works by having the person define four key components:
+The environment
+The rewards
+The actions
+When the game ends&lt;/p&gt;
+&lt;p&gt;From there, the reinforcement learning agent will play the game by itself many, many times (up to billions!) until it has figured out a strategy. What does that strategy look like? Internally, the agent will have figured out an expected value for each state it will encounter based on its experiences. It will then choose the actions that lead to the best future outcomes for it.&lt;/p&gt;
+&lt;p&gt;At RCODI, my research revolves around using a variant of reinforcement learning - one where multiple agents learn to compete against one another - to model human behavior in the public goods game.&lt;/p&gt;
+&lt;hr&gt;
+&lt;h3 id=&#34;project-description&#34;&gt;Project Description&lt;/h3&gt;
+&lt;p&gt;The collective action game is a social experiment designed to illustrate how people behave in groups.&lt;/p&gt;
+&lt;p&gt;Each round, every player is given $10. They can contribute some amount (none, any, or a partial amount) to a group pool or they can pocket some themselves. After the rounds are over, the amount of money in the pool is multiplied by a constant and evenly distributed to each player. The amount of money a player has at the end of the game is the sum of however much they saved and their portion from the group pot.&lt;/p&gt;
+&lt;p&gt;If everyone could coordinate, then they would all donate $10 each round to make a lot of money. However, it turns out that one would make more money if they convinced everyone else to donate each round but they saved their own money. Moreover, in practice, nobody wants to be the sucker donating everything while others save.&lt;/p&gt;
+&lt;p&gt;In practice, most people will act based on how the others playing the game will act. They will donate a lot if others are contributing a lot, and they will donate little if others are donating a little. This is called conditional cooperation. About 70% of people will play this game in this manner.&lt;/p&gt;
+&lt;p&gt;My research involves studying how the information available to the player influences their behavior. I model a conditionally cooperative agent using a rules-based model and two reinforcement learning agents. The rules-based model simulates whether or not the agent should be competitive or cooperative, and then the reinforcement learning agent will take over.&lt;/p&gt;
+&lt;p&gt;The reinforcement learning agent will analyze the given situation and recommend a contribution. The recommendations are based on the reinforcement learning agent having played the collective action game millions and millions of times until it figures out how to maximize its own balance or the group’s (for competitive and cooperative respectively).&lt;/p&gt;
+&lt;p&gt;The results are still under way.&lt;/p&gt;
+&lt;hr&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Transparency in Open Data Contest</title>
+      <link>/project/transparency-in-open-data-contest/</link>
+      <pubDate>Sun, 11 Jul 2010 22:24:09 +0000</pubDate>
+      <guid>/project/transparency-in-open-data-contest/</guid>
+      <description>&lt;p&gt;This study measures the degree of &lt;em&gt;innovation performance transparency&lt;/em&gt; and &lt;em&gt;solution transparency&lt;/em&gt; to determine the effect of transparency on participation and innovation.&lt;/p&gt;
+&lt;h3 id=&#34;transparency-in-open-data-contest&#34;&gt;Transparency in Open Data Contest&lt;/h3&gt;
+&lt;p&gt;&lt;strong&gt;Primary Research Questions:&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;What are the effects of &lt;em&gt;innovation performance transparency&lt;/em&gt; and solution &lt;em&gt;transparency&lt;/em&gt; on participation and innovativeness of Open Data solutions in Open Data contests?&lt;/li&gt;
+&lt;li&gt;How does transparency in open data contests affect civic participation?&lt;/li&gt;
+&lt;li&gt;How does transparency influence the novelty, usefulness, and popularity of open data solutions?&lt;/li&gt;
+&lt;li&gt;Are there differences in the way agencies and citizens evaluate the innovativeness of these solutions?&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;p&gt;In a series of &amp;lsquo;first-of-its-kind&amp;rsquo; 3 weeks fully virtual hacks known as &amp;ldquo;&lt;a href=&#34;https://www.purdue.edu/opendigital/purdue-ironhacks/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;The Purdue IronHacks&lt;/a&gt;&amp;rdquo;, we explore &lt;em&gt;transparency&lt;/em&gt; and &lt;em&gt;participation&lt;/em&gt; in Open Data (OD) solutions in OD contests. The OD project introduces the concept of &lt;em&gt;innovation performance transparency&lt;/em&gt; and &lt;em&gt;solution transparency&lt;/em&gt; in OD contests. We draw upon the theory of private-collective innovation, self-organizing governance and our previous research in organizing innovation contests, collective action, and open public policy and problem solving. The goal of this project is to provide a new perspective on how to promote impact from governmental OD. Using machine readable open datasets from &lt;a href=&#34;http://www.data.gov/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Data.gov&lt;/a&gt; focusing on the areas of: Health, Energy, Climate, Education, Finance, Public Safety, and Global Development, we conduct an empirical quantitative study to explain the effect of &lt;em&gt;innovation performance transparency&lt;/em&gt; and &lt;em&gt;solution transparency&lt;/em&gt; on governmental OD impact.&lt;/p&gt;
+&lt;p&gt;Following a data driven and computational research approach, in a series of quasi-experimental OD contests, several hundred citizens, developers, and students will participate in a ‘virtual’ lab environment. Non-expert citizens and developers will collaborate to identify problems, share different perspectives, critical decisions, and seek solutions. The degree of &lt;em&gt;innovation performance transparency&lt;/em&gt; and &lt;em&gt;solution transparency&lt;/em&gt; will be measured in order to determine the effect of transparency on participation and innovation. Findings from these experiments will be implemented in larger national OD contests, such as the &lt;a href=&#34;http://hackforchange.org/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;National Day of Civic Hacking&lt;/a&gt;. In sum, this study will provide evidence-based guidelines for the design of OD contests and how to utilize transparency and knowledge sharing to increase the impact of governmental OD.&lt;/p&gt;
+&lt;p&gt;Duration: 24 months&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Investigators: &lt;a href=&#34;https://www.purdue.edu/opendigital/about/sabine/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Sabine Brunswicker&lt;/a&gt;, &lt;a href=&#34;https://www.purdue.edu/opendigital/about/research-team/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Ann Majchrzak&lt;/a&gt;, &lt;a href=&#34;https://www.purdue.edu/opendigital/about/research-team/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Esteve Almirall.&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;
+&lt;h3 id=&#34;partners--sponsorship&#34;&gt;&lt;strong&gt;Partners &amp;amp; Sponsorship&lt;/strong&gt;&lt;/h3&gt;
+&lt;p&gt;Partners: &lt;a href=&#34;http://www.redhat.com/en&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;RedHat&lt;/a&gt;, &lt;a href=&#34;https://www.socrata.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Socrata&lt;/a&gt;, &lt;a href=&#34;http://www.westlafayette.in.gov/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;City of West Lafayette&lt;/a&gt;, &amp;amp; &lt;a href=&#34;http://purduehackers.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Purdue Hackers&lt;br&gt;
+&lt;/a&gt;Sponsor(s): &lt;a href=&#34;http://www.nsf.gov/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;NSF&lt;/a&gt;, &lt;a href=&#34;http://www.nsf.gov/funding/pgm_summ.jsp?pims_id=501084&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Science of Science and Innovation Policy (SciSPI)&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Home Energy Monitoring, Visual Analytics and Collective-Action</title>
+      <link>/project/home-energy-monitoring-visual-analytics-and-collective-action/</link>
+      <pubDate>Sat, 10 Jul 2010 22:24:06 +0000</pubDate>
+      <guid>/project/home-energy-monitoring-visual-analytics-and-collective-action/</guid>
+      <description>&lt;p&gt;This project extracts granular perceptual, behavioral and interaction data.&lt;/p&gt;
+&lt;h3 id=&#34;graph-based-feedback-for-collaborative-energy-consumption&#34;&gt;Graph Based Feedback for Collaborative Energy Consumption&lt;/h3&gt;
+&lt;p&gt;Data-driven feedback and interactions with personal devices are changing the way we make decisions. They increasingly use visual interactive graphs (e.g. bar charts) that allow us to explore variability in our own behaviors and those of others. They aim to motivate behavioral change, for example through greater self-awareness and review of personal progress. However, today’s visual graphs often fail to facilitate the fundamental tasks of collective action, such as preserving the environment and saving energy. Yet, cooperation is needed to overcome problems of social loafing and our tendency to act selfishly. This project explores how visual data-driven graphs may lead to sustained cooperative behavior if they frame our choices from a group’s perspective. A graph’s content, its data and metrics, but also the way this content is visually presented may elicit cooperative behavior. The goal is to develop a visual graph theory that articulates how fundamental visual graph features lead to collective-oriented perceptions and actions through a unifying visual graph grammar. To do so, we conduct a series of controlled perceptual experiments using human computational methods and public good games, in which individuals interact with visual graphs. The goal is to move beyond design heuristics and furnish causal relationships between visual graph features and perceptions. This project will extract granular perceptual, behavioral and interaction data using new data collection techniques, empirical and experimental studies, and will create tangible artifacts.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Intellectual Merit and Broader Impact&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;New human-centric visual graph grammar.&lt;/li&gt;
+&lt;li&gt;New graph grammar encoded in actual software code, for the context of collective action.&lt;/li&gt;
+&lt;li&gt;Causal relationships between visual graph feature on perceived unity and cooperative behavior.&lt;/li&gt;
+&lt;li&gt;Using controlled experiments we overcome the limitation of design heuristics in guiding graph design.&lt;/li&gt;
+&lt;li&gt;Results will contribute to fields of &lt;em&gt;data visualization&lt;/em&gt; and &lt;em&gt;Human Computer Interaction (HCI)&lt;/em&gt;, but also to the work on &lt;em&gt;collective action&lt;/em&gt; that still ignores the role of graph-based interaction using digital devices.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;Investigators:&lt;/strong&gt; Marlen Promann, Daniel Bustos, Enrique Aldana, Sabine Brunswicker&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Keywords:&lt;/strong&gt; Data visualization, visual grammar, sustainable HCI, collective action, perceptual studies, controlled behavioral experiments&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Related Publications and News&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;[zotpress items=&amp;ldquo;89F6VH4B,R65UNHPT&amp;rdquo; style=&amp;ldquo;apa&amp;rdquo; cite=&amp;ldquo;yes&amp;rdquo;]&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Related Data and Software&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;GitHub Repo “SmartEnergyGame” &lt;a href=&#34;https://github.com/SmartEnergyGame&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://github.com/SmartEnergyGame&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;GitHub &amp;ldquo;SmartEnergyGame&amp;rdquo; demo page: &lt;a href=&#34;https://smartenergygame.github.io/EnergyMonitorDemo/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://smartenergygame.github.io/EnergyMonitorDemo/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Graph Design Explorations: &lt;a href=&#34;https://xdanielsb.github.io/Energy/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://xdanielsb.github.io/Energy/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Partners &amp;amp; Sponsorship&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;National Science Foundation (NSF): S&amp;amp;CC-IRG Preliminary Proposal Track 1: Socio-technical systems to enable smart and connected energy-aware residential communities&lt;/p&gt;
+&lt;p&gt;Purdue Discovery Park Research Award: Big Idea Challenge: Net-zero Affordable Housing &lt;/p&gt;
+&lt;p&gt;Purdue Polytechnic: Dean’s Award of Excellence, 2016: Digital Innovation in Home Energy Monitoring Collective Information Visualization for Collective Awareness&lt;/p&gt;
+&lt;h3 id=&#34;related-research&#34;&gt;Related Research&lt;/h3&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Open Source Software practices</title>
+      <link>/project/open-source-software-practices/</link>
+      <pubDate>Fri, 09 Jul 2010 22:24:08 +0000</pubDate>
+      <guid>/project/open-source-software-practices/</guid>
+      <description>&lt;p&gt;&lt;img src=&#34;./OSS-graph.jpg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+&lt;p&gt;The study aims to understand how Open Source Software practices are evolving by focusing on studying a prominent community &amp;lsquo;OpenStack&amp;rsquo; that is effectively using the latest practices.&lt;/p&gt;
+&lt;h3 id=&#34;modeling-complex-open-source-software-structures-as-networks&#34;&gt;Modeling Complex Open Source Software Structures as Networks&lt;/h3&gt;
+&lt;p&gt;Reflecting the commitment to foster and build Open Source Software practices, Red Hat Inc. sponsors a two-year Red Hat fellowship for Discovery Park&amp;rsquo;s Research Center for Open Digital Innovation (RCODI).&lt;/p&gt;
+&lt;p&gt;Red Hat Inc. provided a 100,000$ gift to Purdue to advance in this field led by technology and innovation professor Sabine Brunswicker. The objective of Red Hat funding this fellowship is to establish itself as a &amp;ldquo;significant catalyst of open-digital innovation ecosystems and communities research intended to answer questions critical to the sustainable impact of open standards and open-source and novel open forms of innovation and production in a broader sense,&amp;rdquo; Brunswicker said. Open Source Software is lately gaining traction in fields that traditionally were considered to be close as telecommunication, health care, or even banking. Therefore, this fellowship is divided in two different stages. The first stage is to understand how Open Source Software practices are evolving by focusing on studying a prominent community &amp;lsquo;OpenStack&amp;rsquo; that is effectively using the latest practices.&lt;/p&gt;
+&lt;p&gt;OpenStack is a set of software tools for managing and building public and private cloud computing platform. The second stage is researching how these practices can be applied to other fields as telecommunications. Through the fellowship research on architecture, governance and behaviors of heterogeneous open-innovation communities as OpenStack will be examined. Research results will be shared with Red Hat as part of a collaborative dialogue between these two groups.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Global Open Innovation Executive Study 2014/2015</title>
+      <link>/project/2014-2015-global-open-innovation-executive-study/</link>
+      <pubDate>Sun, 14 Mar 2010 22:24:09 +0000</pubDate>
+      <guid>/project/2014-2015-global-open-innovation-executive-study/</guid>
+      <description>&lt;p&gt;Open innovation is growing into a mainstream phenomenon of increasing business relevance in large firms where 78 percent of large firms in the sample had been applying open innovation.&lt;/p&gt;
+&lt;h3 id=&#34;global-open-innovation-executive-study&#34;&gt;Global Open Innovation Executive Study&lt;/h3&gt;
+&lt;p&gt;In 2012, a large-scale Open Innovation Executive Survey was conducted by UC- Berkeley and Fraunhofer-Society to explore to what extent open innovation was applied in large firms in the USA and Europe. &lt;/p&gt;
+&lt;p&gt;Results show, open innovation is growing into a mainstream phenomenon of increasing business relevance in large firms where 78 percent of large firms in the sample had been applying open innovation, although they were in the early stage of practicing and understanding open innovation. To access the survey report, please click &lt;a href=&#34;http://goo.gl/wC6qRT&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;here&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;Building upon these results, there is a need to advance our understanding of adoption of open innovation at project level. Existing academic literature and theories on open innovation have regularly focused on firm-level aggregates to understand the role of open innovation in firm performance; they have not provided sufficient insights into the adoption of open innovation at a project level. The Research Center for Open Digital Innovation (RCODI) at the Purdue University and the &lt;a href=&#34;http://corporateinnovation.berkeley.edu/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Garwood Center for Corporate Innovation&lt;/a&gt; at the University of California-Berkeley in collaboration with &lt;a href=&#34;https://www.fraunhofer.de/en.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Fraunhofer-Society&lt;/a&gt; want to address this gap by conducting this research. We implemented the second Open Innovation Executive Survey in order to deepen our understanding of adoption of open innovation not only at firm-level but also at project level. In a nutshell, in this research project, we aim to implement a quantitative survey study on open innovation among senior executives in large firms in the USA, Europe and Japan with the main focus on different open innovation practices, new practices, ways to deal with managing and sharing know-how and IP, and new ways to measure open innovation performance.&lt;/p&gt;
+&lt;p&gt;Duration: 22 months (3/2014-1/2016)&lt;/p&gt;
+&lt;h3 id=&#34;related-research&#34;&gt;Related Research&lt;/h3&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Managing Open Innovation with Business Impact in the Digital Age</title>
+      <link>/project/managing-open-innovation-with-business-impact-in-the-digital-age/</link>
+      <pubDate>Sun, 14 Mar 2010 22:24:08 +0000</pubDate>
+      <guid>/project/managing-open-innovation-with-business-impact-in-the-digital-age/</guid>
+      <description>&lt;p&gt;&lt;img src=&#34;./acc-logo.png&#34; alt=&#34;featured&#34;&gt;
+This study aims to create a guided open innovation framework to help companies leverage optimal value from open innovation.&lt;/p&gt;
+&lt;h3 id=&#34;managing-open-innovation-with-business-impact-in-the-digital-age&#34;&gt;&lt;strong&gt;Managing Open Innovation with Business Impact in the Digital Age&lt;/strong&gt;&lt;/h3&gt;
+&lt;p&gt;In collaboration with the Accenture Institute for High Performance (AIHP), we have implemented a series of open innovation (OI) case studies to generate new insights on how large, innovative firms use open innovation to solve their strategic innovation problems. One particular example concluded in 2017 is that of Samsung, and its endeavor to seek IoT prototypes created by communities participating in an open innovatoin challenge. Read about it &lt;a href=&#34;https://www.accenture.com/t00010101t000000__w__/gb-en/_acnmedia/pdf-43/accenture-open-innovation-at-samsung.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;here&lt;/a&gt;. Dr. Brunswicker and&lt;/p&gt;
+&lt;p&gt;With the increased digital transformation of many sectors, such problems are increasingly difficult to address. Our preliminary research suggests that one of the keys to running a successful open innovation program is choosing the correct operational mode of open innovation for the business problem at hand. This requires evaluating problem complexity and knowledge uncertainty associated with a business problem.&lt;/p&gt;
+&lt;p&gt;A number of companies who have chosen to integrate open innovation have realized that there are specific management practices required to effectively execute open innovation. Open innovation problems can involve a high level of uncertainty and technological complexity and require firms to move from traditional modes of collaboration (such as alliances) towards more open interactions with deeper exchanges of know-how and greater ambiguity such as crowds and communities. There are management challenges specific to open innovation that require a unique set of strategies and processes to be in place in order to overcome these challenges and be able to achieve higher business value through open innovation.&lt;/p&gt;
+&lt;p&gt;This study aims to create a guided open innovation framework to help companies leverage optimal value from open innovation by selecting the appropriate open innovation model, and integrating successful management strategies to balance the tensions of knowledge sharing and protection in the midst of strategic and operational ambiguity. This framework will also equip open innovation leaders with new insights into successful practices for creating business impact from open innovation.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Intellectual Merit and Broader Impacts&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Develop a guided open innovation framework to help leverage optimal value.&lt;/li&gt;
+&lt;li&gt;Proposed successful management strategies to balance the tension between knowledge sharing and protection from the strategic and operational perspective.&lt;/li&gt;
+&lt;li&gt;Insight into successful practices for creating business impact from open innovation.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;Investigators:&lt;/strong&gt; Sabine Brunswicker, Mehdi Bagherzadeh&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Partners &amp;amp; Sponsorship&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Accenture Institute for High Performance (AIHP)&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Designing Future Megacities with the Crowd: Wicked Urban Problems and Firm-sponsored Civic Innovation Crowdsourcing 2015</title>
+      <link>/project/2015-designing-future-megacities-with-crowdsourcing/</link>
+      <pubDate>Sun, 14 Mar 2010 22:24:07 +0000</pubDate>
+      <guid>/project/2015-designing-future-megacities-with-crowdsourcing/</guid>
+      <description>&lt;p&gt;This project presents a successful civic innovation crowdsourcing project case study to co-create visionary solutions to the challenge of future mobility in crowded cities around the world.&lt;/p&gt;
+&lt;h3 id=&#34;designing-future-megacities-with-the-crowd-wicked-urban-problems-and-firm-sponsored-civic-innovation-crowdsourcing-2015&#34;&gt;Designing Future Megacities with the Crowd: Wicked Urban Problems and Firm-sponsored Civic Innovation Crowdsourcing 2015&lt;/h3&gt;
+&lt;p&gt;With the rise of megacities, urban innovators are exposed to increasingly ‘wicked’ societal problems, such as urban mobility. Looking beyond traditional modes for solving these problems, this research sheds light on civic innovation crowdsourcing; a new open model of innovation for solving societal problems in the public and government sector. Through a unique case study, a civic innovation contest sponsored by Bombardier was examined using content analysis. Civic innovation crowdsourcing and how team submissions and geographic contextualization shape the problem solving process was examined in three major cities, Belo Horizonte, Vientiane, and London.&lt;/p&gt;
+&lt;p&gt;Researchers found that: 1.: Civic Innovation Crowdsourcing creates a diverse set of comprehensive solutions and highlights key complexity attributes from a citizen’s perspective, 2: crowd members tackle complexity at the level of each problem dimension and collectively highlight critical attributes and novel solutions, 3.: Civic Innovation Crowdsourcing furnishes an alternative mode of urban problem solving and affords addressing complexity breadth, and 4.: team and individual submissions differ in the way they address complexity, with teams addressing more attributes of a problem than individuals. This case suggests that designing with the crowd may overcome a central ‘tragedy’ of urban Mobility: While mobility is a greater good that is fundamental for cities to flourish, it puts other public good at risk. Thus, only jointly with the citizens, can businesses, city councils, and NGOs design future mobile urban ecosystems that will ‘evolve’ towards greater economic, social, and ecological performance.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Investigators: &lt;a href=&#34;http://www.time.rwth-aachen.de/cms/TIME/Die-Research-Area/Team/TIM-Team/Externe-Doktoranden/~eepc/Bilgram-Volker/?lidx=1&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Volker Bilgram,&lt;/a&gt; &lt;a href=&#34;https://www.purdue.edu/opendigital/about/sabine/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Sabine Brunswicker&lt;/a&gt;, &lt;a href=&#34;https://www.uibk.ac.at/smt/innovation-entrepreneurship/team/vita.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Johann Fueller&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Keywords:&lt;/strong&gt; Crowdsource; Wicked problems; Civic innovation; Crowdsourcing innovation; Innovation facilitation; Bombardier Inc.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Related Publications and News&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Brunswicker, S., V. Bilgrim, and J. Fueller. “Taming Wicked Civic Challenges with an Innovation Crowd.” &lt;em&gt;Business Horizons&lt;/em&gt;, 2017. &lt;a href=&#34;https://goo.gl/Y5X5NU&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://goo.gl/Y5X5NU&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Partners:&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.hyve.net/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;HYVE AG&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.bombardier.com/en/home.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Bombardier&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Increasing Creativity through Anonymous Dissent 2015</title>
+      <link>/project/2015-increasing-creativity-through-anonymous-dissent/</link>
+      <pubDate>Sun, 14 Mar 2010 22:24:07 +0000</pubDate>
+      <guid>/project/2015-increasing-creativity-through-anonymous-dissent/</guid>
+      <description>&lt;p&gt;Working in conjunction with &lt;a href=&#34;http://www.brightidea.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Bright Idea&lt;/a&gt;, a leading Open Innovation Platform provider, we are testing the impact of selective anonymity, where participants can flag their contributions to be displayed anonymously.&lt;/p&gt;
+&lt;h3 id=&#34;increasing-creativity-through-anonymous-dissent-2015&#34;&gt;Increasing Creativity through Anonymous Dissent 2015&lt;/h3&gt;
+&lt;p&gt;Employees within an organization are often encouraged to contribute to internal Open Innovation Challenges, however, the creativity of their contributions may be limited by their perceived freedom to express ideas and opinions that are against majority opinions or organizational norms. Troublesome ideas and opinions may impact their work reputation, standing within the organization, and even their future employment.&lt;/p&gt;
+&lt;p&gt;One option is to make all contributions to internal Open Innovation Challenges anonymous, however, that would reduce the social and reputational rewards associated with participation and co-creation of solutions. Working in conjunction with &lt;a href=&#34;http://www.brightidea.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Bright Idea&lt;/a&gt;, a leading Open Innovation Platform provider, we are testing the impact of selective anonymity, where participants can flag their contributions to be displayed anonymously. Using selective anonymity, participants can enjoy all the usual reputational and social rewards that are accrued while participating in an Open Innovation Challenge, while simultaneously offering risk-free minority dissent, which is necessary to increase the diversity of opinions and inspire creativity.&lt;/p&gt;
+&lt;p&gt;We are Partnering with &lt;a href=&#34;http://www.landcareresearch.co.nz/home&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Landcare Research&lt;/a&gt;, one of seven Crown Research organizations in New Zealand,  to test the effects of selective anonymity on participant contributions. Utilizing a strategic planning question that is of pressing importance to the organization, we will assist Landcare Research by running an internal Open Innovation Challenge on the Bright Idea platform, which includes the opportunity for selective anonymity, and instructions to guide participants in the importance of anonymous contributions.&lt;/p&gt;
+&lt;p&gt;Duration: 6 months (3/2015-8/2015)&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Investigators: &lt;a href=&#34;https://www.purdue.edu/opendigital/about/sabine/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Sabine Brunswicker&lt;/a&gt;,  &lt;a href=&#34;https://polytechnic.purdue.edu/profile/john1571&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Jeremiah Johnson&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Related Publications and News&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Johnson, Jeremiah, Ann Majchrzak, and Sabine Brunswicker. “The Paradox of Minority Dissent in Corporate Innovation Challenges.” Santa Clara, California, 2015.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Partners &amp;amp; Sponsorship&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;http://www.landcareresearch.co.nz/home&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;[Landcare Research]&lt;/a&gt; New Zealand&lt;/p&gt;
+&lt;h3 id=&#34;related-research&#34;&gt;Related Research&lt;/h3&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Governance  and Risk-mitigation of Open Innovation</title>
+      <link>/project/governance-and-risk-mitigation-of-open-innovation/</link>
+      <pubDate>Sun, 14 Mar 2010 22:24:06 +0000</pubDate>
+      <guid>/project/governance-and-risk-mitigation-of-open-innovation/</guid>
+      <description>&lt;p&gt;This project tests a moderated mediation model in which external search breadth and depth influence open innovation project performance through their effects by different governance mechanisms.&lt;/p&gt;
+&lt;h3 id=&#34;governance-and-risk-mitigation-of-open-innovation&#34;&gt;Governance and Risk-mitigation of Open Innovation&lt;/h3&gt;
+&lt;p&gt;Since Henry Chesbrough’s (2003) landmark work on open innovation, much attention has been given to the phenomenon of firms’ using a wide range of external actors and sources to help them achieve and sustain innovation (Laursen and Salter, 2006). Prior studies have highlighted the positive influences of open innovation activities on innovation outcomes in large firms (Parida et al., 2012).&lt;/p&gt;
+&lt;p&gt;However, few studies have investigated the key governance mechanism of open innovation and their interaction to induce higher level of innovation performance in specific collaborative open innovation projects. We simultaneously examine the influence of external search breadth and depth in open innovation partners’ interactions on project performance. We contend that: (a) these two dimensions influence open innovation project performance through different governance mechanisms (process control, outcome control); and (b) the project’s related innovation complexity alters the effect of external search breadth and depth on open innovation project performance.&lt;/p&gt;
+&lt;p&gt;We develop and test a moderated mediation model in which external search breadth and depth influence open innovation project performance through their effects by different governance mechanisms, and these indirect effects are moderated by different levels of innovation complexity.&lt;/p&gt;
+&lt;p&gt;We applied structural equation modelling (SEM) using the MPlus 7.31 (Muthén &amp;amp; Muthén, 2015) to test for the hypothesized relationships among the constructs: external search breadth and depth, process control, outcome control, innovation complexity and open innovation project performance, as well as for the interaction effects of process control, outcome control and innovation complexity on open innovation project performance.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Intellectual Merit and&lt;/strong&gt; &lt;strong&gt;Broader Impacts&lt;/strong&gt;**:**&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Development of a moderated mediation model where the project performance is moderated by the different levels of innovation complexity.&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Digital practice networks, network dynamics and e-science</title>
+      <link>/project/digital-practice-networks-network-dynamics-and-e-science/</link>
+      <pubDate>Sun, 14 Mar 2010 22:23:51 +0000</pubDate>
+      <guid>/project/digital-practice-networks-network-dynamics-and-e-science/</guid>
+      <description>&lt;p&gt;This research is aimed at comparing the network effects formed in online digital platforms of participating scientists to “traditional” research and collaboration methods.&lt;/p&gt;
+&lt;h3 id=&#34;effect-of-online-digital-communities-to-members-output-success-and-choices-contagion-the-case-nanohub-cyberinfrastructure&#34;&gt;Effect of Online Digital Communities to Members Output (Success) and Choices (Contagion): The Case NanoHUB Cyberinfrastructure&lt;/h3&gt;
+&lt;p&gt;The primary research questions that sparked this project were: (1) How does scientist output depend upon their embeddedness in digital spaces in NanoHUB.org cyerinfrastructure?; (2) What are the network formation structures and characteristics of an open digital platform?; (3) How do tools traverse (diffuse) amongst users in NanoHUB.org cyberinfrastructure?&lt;/p&gt;
+&lt;p&gt;Using data from the NanoHUB.org cyberinfrastructure analyzed using network science, spatial econometics, and network social modelling techniques, this research is aimed at comparing the network effects formed in online digital platforms of participating scientists to “traditional” research and collaboration methods.&lt;/p&gt;
+&lt;p&gt;The formation, mechanism, and process of networks that influence scientists output in digital platforms, like with NanoHUB.org, is limited and contradictory. According to Klimeck et al and nanoHUB.org,  nanoHub.org is a novel science and engineering ecosystem comprised of self-organized researchers, educators, and professionals in eight member institutions that collaborate, share resources, and solve nanotechnology related problems. Results of this project identify the organizational and structural effects of digital platforms to members’ developmental success in addition to diffusion of tools in user community. Also, the network social modelling reveals the network formation patterns and characteristics of online digital platforms.&lt;/p&gt;
+&lt;p&gt;Duration: 2014 to 2016&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Investigators:  &lt;a href=&#34;https://www.purdue.edu/opendigital/about/sabine/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Sabine Brunswicker&lt;/a&gt;, &lt;a href=&#34;http://www.agecon.purdue.edu/directory/grad/Munyua.asp&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Philip Munyua&lt;/a&gt;, &lt;a href=&#34;http://www.krannert.purdue.edu/people/mike-zentner.php&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Mike Zentner&lt;/a&gt;, &lt;a href=&#34;https://nanohub.org/klimeck&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Gerhard Klimeck&lt;/a&gt;.&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Keywords:&lt;/strong&gt; Digital scientific innovation Scientific, collaboration, Social structure, Programmer communities, Network autocorrelation, Social distance.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Related Publications and News&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Related publications: &lt;a href=&#34;http://link.springer.com.ezproxy.lib.purdue.edu/article/10.1007/s11192-016-2106-z&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Creating impact in the digital space: digital practice dependency in communities of digital scientific innovations&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Brunswicker, Sabine, Sorin Adam Matei, Michael Zentner, Lynn Zentner, and Gerhard Klimeck. “Creating Impact in the Digital Space: Digital Practice Dependency in Communities of Digital Scientific Innovations.” &lt;em&gt;Scientometrics&lt;/em&gt; Online (09 September 2016) (September 9, 2016): 1–26. &lt;a href=&#34;http://link.springer.com/article/10.1007/s11192-016-2106-z&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;http://link.springer.com/article/10.1007/s11192-016-2106-z&lt;/a&gt;.&lt;/p&gt;
+&lt;h3 id=&#34;partners--sponsorship&#34;&gt;&lt;strong&gt;Partners &amp;amp; Sponsorship:&lt;/strong&gt;&lt;/h3&gt;
+&lt;p&gt;&lt;a href=&#34;https://nanohub.org/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;NanoHUB.org&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://nanohub.org/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Technology Leadership &amp;amp; Innovation&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Blockchain Networks and Transparency</title>
+      <link>/project/blockchain-networks-and-transparency/</link>
+      <pubDate>Fri, 29 Jan 2010 00:11:56 +0000</pubDate>
+      <guid>/project/blockchain-networks-and-transparency/</guid>
+      <description>&lt;p&gt;This project aims to identify how new ways of constructing exchange are emerging in society&lt;/p&gt;
+&lt;h3 id=&#34;blockchain-networks-and-transparency&#34;&gt;Blockchain Networks and Transparency&lt;/h3&gt;
+&lt;p&gt;&lt;strong&gt;Intellectual Merit and Broader Impact&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;From an interdisciplinary perspective, the research aim is to explore and develop the interlinkage between network science and blockchain technology. One question is how network science can be used to study the blockchain industry and vice versa. This means applying network science concepts and methods to the study and experimental investigation of the blockchain industry. This also includes using blockchain as a technology platform to study the network behavior of the blockchain industry.&lt;/li&gt;
+&lt;li&gt;From an economic perspective, the research aim is to identify how new ways of constructing exchange are emerging in society. The hypothesis to test is that blockchain technology allows a new form of peer-to-peer service provision and exchange between parties, which leads to new conceptualizations, sensibilities, and practices regarding exchange.&lt;/li&gt;
+&lt;li&gt;From a social perspective, the research program seeks to quantify the amount of intangible social goods produced by the blockchain economy such as freedom, autonomy, dignity, choice, and trust.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;Investigators: Melanie Swan, Dr. Sabine Brunswicker&lt;/strong&gt;&lt;/p&gt;
+&lt;h3 id=&#34;related-research&#34;&gt;Related Research&lt;/h3&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Purdue IronHacks</title>
+      <link>/project/ironhacks/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/project/ironhacks/</guid>
+      <description>&lt;p&gt;&lt;img src=&#34;https://user-images.githubusercontent.com/74989091/114110737-34a2a700-98a6-11eb-8932-e84b84571cd0.png&#34; alt=&#34;featured&#34;&gt;&lt;/p&gt;
+&lt;h2 id=&#34;ironhacks&#34;&gt;IronHacks&lt;/h2&gt;
+&lt;p&gt;is an open data hacking program that empowers programmers - from beginners to professionals - to solve civic challenges during a multi-phase and learning-oriented process.  The IronHacks platform offers participants a no-set-up programming environment and many powerful features to create novel and useful models and visualizations that help citizens and governments to make better decisions.&lt;/p&gt;
+&lt;h2 id=&#34;example-challenges&#34;&gt;Example challenges&lt;/h2&gt;
+&lt;h3 id=&#34;covid-19-data-science-challenge&#34;&gt;COVID-19 Data Science Challenge&lt;/h3&gt;
+&lt;p&gt;Use data provided by suppliers such as SafeGraph to predict areas that will be impacted by  COVID-19 based on foot traffic.
+What are the Challenges about?&lt;/p&gt;
+&lt;p&gt;Our COVID-19 Data Science Challenges invite participants to build statistical models and visualizations that monitor and predict social movement behavior during the COVID-19 pandemic over time. The goal is to predict weekly patterns of movement and social interaction in our local communities to understand COVID-19 risks.&lt;/p&gt;
+&lt;p&gt;August 2020 COVID-19 Data Science Challenge: This first COVID-19 Data Science Challenge focuses on predicting the foot traffic at major brands (e.g. Target, Domino&amp;rsquo;s Pizza etc.). The goal is to foresee which brands are experiencing the greatest surge in visitors.&lt;/p&gt;
+&lt;p&gt;Fall 2020 COVID-19 Data Science Challenge: Protect Purdue. This challenge asks participants to monitor and predict weekly foot traffic at thousands of places of interests (e.g. restaurants, stores, churches) in the Greater West-Lafayette. It responds to a statement made by Purdue&amp;rsquo;s Leadership team: that COVID-19 risk is not necessarily arising in campus buildings but, rather, emerging from off-campus social gatherings like in restaurants, shops, etc.&lt;/p&gt;
+&lt;p&gt;Participants have access to BIG actual, granular and temporal data they typically do not have access to: Data about social distancing behavior, foot traffic, COVID-19 incidents, as well as executive orders. This data is also used by state governments in the US as well scientists who try to understand social movements during COVID-19 pandemic.&lt;/p&gt;
+&lt;p&gt;Equipped with this data, participants will work in the IronHacks workspace with JupyterLab and access to BigQuery to create novel and useful statistical models and visualizations using Python and R. Participants will submit Jupyter notebooks and their outputs (html and markdown files).&lt;/p&gt;
+&lt;h3 id=&#34;affordable-housing&#34;&gt;AFFORDABLE HOUSING&lt;/h3&gt;
+&lt;p&gt;&lt;img src=&#34;./topics-housing.jpg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+&lt;p&gt;Build a website with interactive visualizations that helps new students in finding safe and affordable housing near their university.&lt;/p&gt;
+&lt;h3 id=&#34;workforce-analytics&#34;&gt;WORKFORCE ANALYTICS&lt;/h3&gt;
+&lt;p&gt;&lt;img src=&#34;./14_1-2X1-e1522941729110.jpg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+&lt;p&gt;Use workforce data to explore factors that affect successful career paths.&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;how-does-the-process-work&#34;&gt;How does the process work?&lt;/h2&gt;
+&lt;p&gt;IronHacks is a global virtual open data hacking platform that allows users to participate in a high-energy IronHacks competition. The IronHacks platform offers participants a no setup workspace with JupyterLab and BigQueryintegration and many powerful features to create novel and useful models and visualizations. It also offers training and tutorials, as well as a personal dashboard to view scores and progress through the competition. After registration, participants can warm-up, practice their skills and query sample data until sufficient participants have joined to launch the competition. After the start of the competition, a multiphase process will start. Each challenge moves through the following phases.&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;final-submission-there-will-be-a-final-submission-before-we-identify-the-winners&#34;&gt;Registration and warm-up phase: If you have registered for one of the Challenges that are available, you will have the opportunity to warm-up using our tutorials.
+Start of competition followed by multiphase process: The competition starts based on invitation, usually followed by multiple interim and one final submission Interim submissions: At multiple interim submission points, you will receive immediate feedback on your current standing, giving you the opportunity to improve over time.
+Final submission: There will be a final submission before we identify the winners.&lt;/h2&gt;
+&lt;h2 id=&#34;our-impact&#34;&gt;Our Impact&lt;/h2&gt;
+&lt;p&gt;The scientific team at Purdue generated new knowledge and technologies on the implications of machine-enabled feedback and transparency on participant&amp;rsquo;s productivity and innovation performance.&lt;/p&gt;
+&lt;p&gt;Since 2015, thousands of participants have hacked in parallel virtually around the globe gaining valuable experience in coding as well as work for the chance to win internships, Amazon gift cards, cool swag, and certificates. In addition to the students participation and learning, IronHacks provide the opportunity to do research on open innovation contest processes.&lt;/p&gt;
+&lt;p&gt;Participants developed novel and useful open data solutions in an interactive environment. The platform&amp;rsquo;s features helped them continuously improve their submissions while learning from real-time feedback and others participating in the hack. A new virtual movement of hacking has emerged at Purdue and beyond. Participants come from the U.S., Colombia, and China. Virtual setting encourages a more diverse audience.&lt;/p&gt;
+&lt;h2 id=&#34;learn-more&#34;&gt;Learn More&lt;/h2&gt;
+&lt;h2 id=&#34;about-ironhacks&#34;&gt;About IronHacks&lt;/h2&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.ironhacks.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Hack in our next challenge!&lt;/a&gt;
+&lt;a href=&#34;https://blog.ironhacks.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Read through our blog&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=8YLLXMhtTB4&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Online walkthrough&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Interested in partnering or have a question?
+&lt;a href=&#34;mailto:sbrunswi@purdue.edu&#34;&gt;Email us&lt;/a&gt;
+&lt;a href=&#34;https://www.facebook.com/OpenDigitalPurdue/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Connect with us&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>RAPID</title>
+      <link>/project/rapid/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/project/rapid/</guid>
+      <description>&lt;h2 id=&#34;rapid&#34;&gt;RAPID&lt;/h2&gt;
+&lt;p&gt;is a collaborative project where RCODI works alongside Software Factory Labs (SFL) to conduct research concerning engagement and performance of R&amp;amp;D contacts. With government contracting, there are types of parties that are consistently applying and winning contracts. DARPA solicited the general public for a means to address the segmented competition within contracts, with the hopes of engaging more small businesses, opening the narrowly-perceived corridor for defense contract innovation.&lt;/p&gt;
+&lt;p&gt;RCODI and SFL are currently exploring the reasons behind such a limited workforce with the hopes of enabling more small business participation within government contracting.&lt;/p&gt;
+&lt;p&gt;The collaboration is currently on-going.&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;Interested in partnering or have a question?
+&lt;a href=&#34;mailto:sbrunswi@purdue.edu&#34;&gt;Email us&lt;/a&gt;
+&lt;a href=&#34;https://www.facebook.com/OpenDigitalPurdue/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Connect with us&lt;/a&gt;&lt;/p&gt;
+&lt;h3 id=&#34;follow-us-on-twitter-httpstwittercompurdue_rcodi&#34;&gt;&lt;a href=&#34;https://twitter.com/purdue_rcodi&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Follow us on Twitter! 🙌&lt;/a&gt;&lt;/h3&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Stefan Haefliger | RCODI</title>
+    <link>/people/stefan-haefliger/</link>
+      <atom:link href="/people/stefan-haefliger/index.xml" rel="self" type="application/rss+xml" />
+    <description>Stefan Haefliger</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>Purdue Research Center for Open Digital Innovation © 2022</copyright><lastBuildDate>Mon, 12 Apr 2021 16:48:53 +0000</lastBuildDate>
+    <image>
+      <url>/media/logo_hue831a1547d228cf33d75a995b069998a_11256_300x300_fit_lanczos_2.png</url>
+      <title>Stefan Haefliger</title>
+      <link>/people/stefan-haefliger/</link>
+    </image>
+    
+    <item>
+      <title>Patterns of Open Collaboration</title>
+      <link>/publication/brunswicker-patterns-nodate/</link>
+      <pubDate>Mon, 12 Apr 2021 16:48:53 +0000</pubDate>
+      <guid>/publication/brunswicker-patterns-nodate/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The Open Innovation Landscape: Established Perspectives and Emerging Themes Across Different Levels of Analysis</title>
+      <link>/publication/bogers-open-2017/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>/publication/bogers-open-2017/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Who Solves Whose Problem in Open Collaboration?</title>
+      <link>/publication/armisen-who-2016/</link>
+      <pubDate>Mon, 01 Aug 2016 00:00:00 +0000</pubDate>
+      <guid>/publication/armisen-who-2016/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Open Collaboration: Who solves who&#39;s problem?</title>
+      <link>/publication/haefliger-open-2016-2/</link>
+      <pubDate>Fri, 01 Apr 2016 00:00:00 +0000</pubDate>
+      <guid>/publication/haefliger-open-2016-2/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Open Source Software and Business Model Innovation</title>
+      <link>/publication/haefliger-open-2016-1/</link>
+      <pubDate>Fri, 01 Apr 2016 00:00:00 +0000</pubDate>
+      <guid>/publication/haefliger-open-2016-1/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Open Source Software Development: Who solve&#39;s who&#39;s problems?</title>
+      <link>/publication/haefliger-open-2016/</link>
+      <pubDate>Tue, 01 Mar 2016 00:00:00 +0000</pubDate>
+      <guid>/publication/haefliger-open-2016/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

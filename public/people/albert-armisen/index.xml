@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Albert Armisen | RCODI</title>
+    <link>/people/albert-armisen/</link>
+      <atom:link href="/people/albert-armisen/index.xml" rel="self" type="application/rss+xml" />
+    <description>Albert Armisen</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>Purdue Research Center for Open Digital Innovation © 2022</copyright>
+    <image>
+      <url>/people/albert-armisen/avatar_hub4dc24f810a2bd618be48a6550e0e7ee_31430_270x270_fill_q75_lanczos_center.jpg</url>
+      <title>Albert Armisen</title>
+      <link>/people/albert-armisen/</link>
+    </image>
+    
+    <item>
+      <title>Patterns of Open Collaboration</title>
+      <link>/publication/brunswicker-patterns-nodate/</link>
+      <pubDate>Mon, 12 Apr 2021 16:48:53 +0000</pubDate>
+      <guid>/publication/brunswicker-patterns-nodate/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Formative and Summative Feedback in Solution Generation: The Role of Community and Decision Support System in Open Source Software</title>
+      <link>/publication/armisen-formative-2016/</link>
+      <pubDate>Thu, 01 Dec 2016 00:00:00 +0000</pubDate>
+      <guid>/publication/armisen-formative-2016/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Who Solves Whose Problem in Open Collaboration?</title>
+      <link>/publication/armisen-who-2016/</link>
+      <pubDate>Mon, 01 Aug 2016 00:00:00 +0000</pubDate>
+      <guid>/publication/armisen-who-2016/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Open Collaboration: Who solves who&#39;s problem?</title>
+      <link>/publication/haefliger-open-2016-2/</link>
+      <pubDate>Fri, 01 Apr 2016 00:00:00 +0000</pubDate>
+      <guid>/publication/haefliger-open-2016-2/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Open Source Software and Business Model Innovation</title>
+      <link>/publication/haefliger-open-2016-1/</link>
+      <pubDate>Fri, 01 Apr 2016 00:00:00 +0000</pubDate>
+      <guid>/publication/haefliger-open-2016-1/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Transparent coupling of firm-sponsored participation in open source software communities: lightening up hidden influencers</title>
+      <link>/publication/armisen-transparent-2015/</link>
+      <pubDate>Sun, 01 Nov 2015 00:00:00 +0000</pubDate>
+      <guid>/publication/armisen-transparent-2015/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

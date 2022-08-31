@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Research Center for Open Digital Innovation RCODI | RCODI</title>
+    <link>/people/research-center-for-open-digital-innovation-rcodi/</link>
+      <atom:link href="/people/research-center-for-open-digital-innovation-rcodi/index.xml" rel="self" type="application/rss+xml" />
+    <description>Research Center for Open Digital Innovation RCODI</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>Purdue Research Center for Open Digital Innovation © 2022</copyright><lastBuildDate>Tue, 01 Jan 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/media/logo_hue831a1547d228cf33d75a995b069998a_11256_300x300_fit_lanczos_2.png</url>
+      <title>Research Center for Open Digital Innovation RCODI</title>
+      <link>/people/research-center-for-open-digital-innovation-rcodi/</link>
+    </image>
+    
+    <item>
+      <title>Purdue IronHacks winners 2019</title>
+      <link>/publication/research-center-for-open-digital-innovation-rcodi-purdue-2019/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>/publication/research-center-for-open-digital-innovation-rcodi-purdue-2019/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>HackPurdue/purdue-ironhacks: IH v1.5.0</title>
+      <link>/publication/research-center-for-open-digital-innovation-rcodi-hackpurduepurdue-ironhacks-2018/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>/publication/research-center-for-open-digital-innovation-rcodi-hackpurduepurdue-ironhacks-2018/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Rcodi/Purdue-Cupl-Ironhacks-Spring-2018-Tutorials: Version 1.0.0</title>
+      <link>/publication/research-center-for-open-digital-innovation-rcodi-rcodipurdue-cupl-ironhacks-spring-2018-tutorials-2018/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>/publication/research-center-for-open-digital-innovation-rcodi-rcodipurdue-cupl-ironhacks-spring-2018-tutorials-2018/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>goldironhack/2017-Fall-Purdue-UNAL-IronHack-Tutorials: Fall 2017 IronHacks Tutorials</title>
+      <link>/publication/research-center-for-open-digital-innovation-rcodi-goldironhack-2017-fall-purdue-unal-ironhack-tutorials-2017/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>/publication/research-center-for-open-digital-innovation-rcodi-goldironhack-2017-fall-purdue-unal-ironhack-tutorials-2017/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>goldironhack/2017-Purdue-IronHack-Tutorials: Spring 2017 Tutorials</title>
+      <link>/publication/research-center-for-open-digital-innovation-rcodi-goldironhack-2017-purdue-ironhack-tutorials-2017/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>/publication/research-center-for-open-digital-innovation-rcodi-goldironhack-2017-purdue-ironhack-tutorials-2017/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>goldironhack/2017-Purdue-UNAL-IronHack-Tutorials: Spring 2017 Tutorials Bogota</title>
+      <link>/publication/research-center-for-open-digital-innovation-rcodi-goldironhack-2017-purdue-unal-ironhack-tutorials-2017/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>/publication/research-center-for-open-digital-innovation-rcodi-goldironhack-2017-purdue-unal-ironhack-tutorials-2017/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Rcodi/2016-Purdue-Ironhack-Tutorials: Ih 0.0.16</title>
+      <link>/publication/research-center-for-open-digital-innovation-rcodi-rcodi-2016-purdue-ironhack-tutorials-2016/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      <guid>/publication/research-center-for-open-digital-innovation-rcodi-rcodi-2016-purdue-ironhack-tutorials-2016/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

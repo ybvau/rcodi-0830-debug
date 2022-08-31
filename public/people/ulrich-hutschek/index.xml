@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Ulrich Hutschek | RCODI</title>
+    <link>/people/ulrich-hutschek/</link>
+      <atom:link href="/people/ulrich-hutschek/index.xml" rel="self" type="application/rss+xml" />
+    <description>Ulrich Hutschek</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>Purdue Research Center for Open Digital Innovation © 2022</copyright><lastBuildDate>Sun, 01 Jan 2012 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/media/logo_hue831a1547d228cf33d75a995b069998a_11256_300x300_fit_lanczos_2.png</url>
+      <title>Ulrich Hutschek</title>
+      <link>/people/ulrich-hutschek/</link>
+    </image>
+    
+    <item>
+      <title>Exploration in the open innovation front–end: the role of technologies</title>
+      <link>/publication/brunswicker-exploration-2012/</link>
+      <pubDate>Sun, 01 Jan 2012 00:00:00 +0000</pubDate>
+      <guid>/publication/brunswicker-exploration-2012/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Impact of abstraction levels in the fuzzy front end (FFE) of innovation</title>
+      <link>/publication/wagner-impact-2011/</link>
+      <pubDate>Wed, 01 Jun 2011 00:00:00 +0000</pubDate>
+      <guid>/publication/wagner-impact-2011/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>”Exploration” in the open innovation front-end</title>
+      <link>/publication/brunswicker-exploration-2011/</link>
+      <pubDate>Wed, 01 Jun 2011 00:00:00 +0000</pubDate>
+      <guid>/publication/brunswicker-exploration-2011/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Creative escapade: Identifying innovation opportunities in distant industry sectors (German title: Kreative seitensprünge. innovationspotenziale anderer branchen finden und nutzen)</title>
+      <link>/publication/brunswicker-creative-2011-1/</link>
+      <pubDate>Sat, 01 Jan 2011 00:00:00 +0000</pubDate>
+      <guid>/publication/brunswicker-creative-2011-1/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Crossing horizons: leveraging cross-industry innovation search in the front-end of the innovation process</title>
+      <link>/publication/brunswicker-crossing-2010-1/</link>
+      <pubDate>Fri, 01 Jan 2010 00:00:00 +0000</pubDate>
+      <guid>/publication/brunswicker-crossing-2010-1/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Crossing horizons: leveraging cross-industry innovation search in the front-end of the innovation process</title>
+      <link>/publication/brunswicker-crossing-2010/</link>
+      <pubDate>Fri, 01 Jan 2010 00:00:00 +0000</pubDate>
+      <guid>/publication/brunswicker-crossing-2010/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

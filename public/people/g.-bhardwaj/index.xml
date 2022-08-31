@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>G. Bhardwaj | RCODI</title>
+    <link>/people/g.-bhardwaj/</link>
+      <atom:link href="/people/g.-bhardwaj/index.xml" rel="self" type="application/rss+xml" />
+    <description>G. Bhardwaj</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>Purdue Research Center for Open Digital Innovation © 2022</copyright><lastBuildDate>Thu, 01 Jan 2009 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/media/logo_hue831a1547d228cf33d75a995b069998a_11256_300x300_fit_lanczos_2.png</url>
+      <title>G. Bhardwaj</title>
+      <link>/people/g.-bhardwaj/</link>
+    </image>
+    
+    <item>
+      <title>Empowering Europe&#39;s future. A future-oriented approach to exploiting clusters as a driver of innovation and growth</title>
+      <link>/publication/brunswicker-empowering-2009/</link>
+      <pubDate>Thu, 01 Jan 2009 00:00:00 +0000</pubDate>
+      <guid>/publication/brunswicker-empowering-2009/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

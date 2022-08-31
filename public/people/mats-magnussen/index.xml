@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Mats Magnussen | RCODI</title>
+    <link>/people/mats-magnussen/</link>
+      <atom:link href="/people/mats-magnussen/index.xml" rel="self" type="application/rss+xml" />
+    <description>Mats Magnussen</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>Purdue Research Center for Open Digital Innovation © 2022</copyright><lastBuildDate>Sun, 01 Jan 2017 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/media/logo_hue831a1547d228cf33d75a995b069998a_11256_300x300_fit_lanczos_2.png</url>
+      <title>Mats Magnussen</title>
+      <link>/people/mats-magnussen/</link>
+    </image>
+    
+    <item>
+      <title>The Open Innovation Landscape: Established Perspectives and Emerging Themes Across Different Levels of Analysis</title>
+      <link>/publication/bogers-open-2017/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>/publication/bogers-open-2017/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

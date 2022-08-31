@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Jonathan Wareham | RCODI</title>
+    <link>/people/jonathan-wareham/</link>
+      <atom:link href="/people/jonathan-wareham/index.xml" rel="self" type="application/rss+xml" />
+    <description>Jonathan Wareham</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>Purdue Research Center for Open Digital Innovation © 2022</copyright><lastBuildDate>Mon, 12 Apr 2021 16:48:56 +0000</lastBuildDate>
+    <image>
+      <url>/media/logo_hue831a1547d228cf33d75a995b069998a_11256_300x300_fit_lanczos_2.png</url>
+      <title>Jonathan Wareham</title>
+      <link>/people/jonathan-wareham/</link>
+    </image>
+    
+    <item>
+      <title>Standardization through Formal and Informal Standard Development Organizations (SDOs)</title>
+      <link>/publication/brunswicker-standardization-nodate/</link>
+      <pubDate>Mon, 12 Apr 2021 16:48:56 +0000</pubDate>
+      <guid>/publication/brunswicker-standardization-nodate/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Governing standardization through formal and informal standard development organizations</title>
+      <link>/publication/brunswicker-governing-2015/</link>
+      <pubDate>Sat, 01 Aug 2015 00:00:00 +0000</pubDate>
+      <guid>/publication/brunswicker-governing-2015/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

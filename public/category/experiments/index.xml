@@ -1,0 +1,200 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>experiments | RCODI</title>
+    <link>/category/experiments/</link>
+      <atom:link href="/category/experiments/index.xml" rel="self" type="application/rss+xml" />
+    <description>experiments</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>Purdue Research Center for Open Digital Innovation © 2022</copyright><lastBuildDate>Sun, 09 Feb 2020 18:24:12 +0000</lastBuildDate>
+    <image>
+      <url>/media/logo_hue831a1547d228cf33d75a995b069998a_11256_300x300_fit_lanczos_2.png</url>
+      <title>experiments</title>
+      <link>/category/experiments/</link>
+    </image>
+    
+    <item>
+      <title>Music Challenge for Social Change</title>
+      <link>/project/music-challenge-for-social-change/</link>
+      <pubDate>Sun, 09 Feb 2020 18:24:12 +0000</pubDate>
+      <guid>/project/music-challenge-for-social-change/</guid>
+      <description>&lt;h2 id=&#34;the-tipping-point-community-platform-for-a-x201cmusic-for-social-changex201d-challenge&#34;&gt;The Tipping Point Community Platform for a “Music for Social Change” Challenge&lt;/h2&gt;
+&lt;p&gt;&lt;em&gt;Powered by RCODI IronHacks&lt;/em&gt;&lt;/p&gt;
+&lt;h2 id=&#34;why-do-we-need-it&#34;&gt;Why do we need it?&lt;/h2&gt;
+&lt;p&gt;Science has shown that music can bond people together and motivate them to act collectively. What if during this time of potential ecological and societal collapse, we can use the potential of music to save our future? What if music could trigger &lt;em&gt;&lt;strong&gt;social tipping points&lt;/strong&gt;&lt;/em&gt;, thresholds at which the actions of a few artists and their fan base engage the masses to act actively in order to realize social change?&lt;/p&gt;
+&lt;p&gt;And there are young artists who want their art to go beyond “feel good music” and inspire meaningful actions from and with their followers. However, popular metrics such as Billboard Top 100 do not give them sufficient capacity for their songs to become a &lt;strong&gt;Call to Action&lt;/strong&gt;.&lt;/p&gt;
+&lt;p&gt;We, the &lt;a href=&#34;http://www.rcodi.org&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Research Center for Open Digital Innovation  (RCODI)&lt;/a&gt; and its members and fellows, have joined forces with the &lt;a href=&#34;http://www.earthwisecenter.org&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;EARTHwise Centre&lt;/a&gt; to change this.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;OUR VISION:&lt;/strong&gt;  Every artist should have access to a community platform to co-create songs that ignite collective action for a thrivable world.&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;for-whom-is-it&#34;&gt;&lt;strong&gt;For whom is it?&lt;/strong&gt;&lt;/h2&gt;
+&lt;p&gt;Our digital platform connects three key actors to co-create a playlist of songs that call a global audience to take action for social change.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;./globe-black-and-white-world-clip-art-earth-black-and-white.png&#34; alt=&#34;for block on &amp;apos;who uses the platform&amp;apos;&#34;&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Artists&lt;/strong&gt;
+(musicians, cultural creatives) who co-create songs throughout an iterative process&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Advisors&lt;/strong&gt;
+(experts in “thrivability” focused not only on sustainability but also social and human capital to regenerate planetary, social, cognitive as well as spiritual resources) who advise artists in defining their call for action&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Listeners&lt;/strong&gt;
+(you, me, and people around the world) who help artists to learn about the potential of their lyrics and sounds to motivate others to follow their call for action&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;the-key-features&#34;&gt;&lt;strong&gt;The key features&lt;/strong&gt;&lt;/h2&gt;
+&lt;p&gt;The community platform offers artists a range of novel features to create songs that ignite action:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;OUR SONGS&lt;/strong&gt;: Access to the community’s co-created songs prior to the global release of the tipping point playlist (e.g. via Spotify)&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;MY STUDIO:&lt;/strong&gt; A space to create and upload different versions of an artist’s song (its audio, its narrative) with features to implement the song’s call for actions (e.g. donations related to the song)&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;MY RESULTS:&lt;/strong&gt; Access to feedback from advisors and listeners as well as access to song analytics (e.g.
+“danceability”, listener engagement)&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;MY SOCIAL NETWORK&lt;/strong&gt;: Access to a discussion forum to engage in the dialogue with like-minded artists who want to thrive&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;MY LAB:&lt;/strong&gt; Tools and tutorials to learn about digital music production, “thrivability,” and more&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;the-benefits-for-artists&#34;&gt;The benefits for artists&lt;/h2&gt;
+&lt;p&gt;&lt;img src=&#34;./thrive-spotify.png&#34; alt=&#34;benefits&#34;&gt;&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;Join a community of creatives for social change&lt;/li&gt;
+&lt;li&gt;Co-create a song that calls for action&lt;/li&gt;
+&lt;li&gt;Select a curated global initiatives  (e.g. charity or fund) to implement your song’s call for action&lt;/li&gt;
+&lt;li&gt;Have your song featured in the Tipping Point channels and playlists&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;&lt;img src=&#34;./bg-pattern-blue-dots.jpg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+&lt;h2 id=&#34;the-research-and-tech-development&#34;&gt;The research and tech development&lt;/h2&gt;
+&lt;p&gt;Our interdisciplinary team of scientists, designers, artists, and platform engineers (more details&lt;a href=&#34;https://docs.google.com/presentation/d/1n-Fgy11di6IUmD8QZKqbZMjFCTDsacnTp8DyCqJSbhc/edit?usp=sharing&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt; here&lt;/a&gt;) can build upon several years of scientific research and practical development experiences on how to design digital platforms for co-creation and collective action. We have worked with thousands of individuals and hackers around the world to scientifically validate platform features, incentive systems, social technologies, and interface designs for co-creation. Such efforts were supported by the &lt;a href=&#34;http://www.nsf.org&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;National Science Foundation&lt;/a&gt; and donations from industry leaders who are convinced that digital technologies can democratize innovation.&lt;/p&gt;
+&lt;p&gt;In the next few months, we build upon these foundations to design and built the first version of the tipping point community platform. It will use state of the art of web technologies (MERN stack), data science techniques, and AI models (e.g. natural language processing, deep learning, network analytics, agent-based modeling). Our goal is to launch it in summer/fall 2020 along with a global call for the music for social change challenge. This platform will also be the foundation of a multi-year research program focused on the 1) role of music for collective action, 2) the nature of social tipping points in the context of thrivability, and 3) the constituting tole of digital technologies and information design for enabling collective action. You can learn more about the research program &lt;a href=&#34;https://docs.google.com/presentation/d/1n-Fgy11di6IUmD8QZKqbZMjFCTDsacnTp8DyCqJSbhc/edit?usp=sharing&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;here&lt;/a&gt;.&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;our-intended-impact&#34;&gt;Our intended impact&lt;/h2&gt;
+&lt;p&gt;Our goal is that with the launch of a music for social change challenge in fall 2020, we can make impact and:&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;Involve thousands of artists in the co-creation challenge&lt;/li&gt;
+&lt;li&gt;Create and release a final Spotify playlist with 100 songs calling for collective action across multiple dimensions of social change (e.g. related to different &lt;a href=&#34;https://sustainabledevelopment.un.org/sdgs&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;sustainability development goals&lt;/a&gt; of the United Nations)&lt;/li&gt;
+&lt;li&gt;Develop new sound and text analytics features (based on machine and deep learning methods) measuring the the latent properties of songs that explains the songs’ potential to enable coherent actions for social change&lt;/li&gt;
+&lt;li&gt;Use the platform as a “living lab” to understand what features of the platform can &lt;em&gt;unify&lt;/em&gt; the emotions and actions of thousands of people (despite their geographic, cultural, and social differences)&lt;/li&gt;
+&lt;li&gt;Enable and predict social tipping points – thresholds at which songs become viral and motivate the masses to take actions for the social good&lt;/li&gt;
+&lt;/ol&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;support-our-vision&#34;&gt;Support our vision&lt;/h2&gt;
+&lt;p&gt;RCODI and the &lt;a href=&#34;http://www.earthwise.org&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;EARTHwise Centre&lt;/a&gt; calls for your support to make this vision reality. Every donation counts so that we can launch the global music for social change challenge soon. Visit &lt;a href=&#34;https://www.earthwisecentre.org/music-for-change&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;earthwisecentre.org/music-for-change&lt;/a&gt; to support our efforts to use science and music to transform our future.&lt;/p&gt;
+&lt;p&gt;Join people around the world and create Your Song of Action. Creating actionable lyrics, melodies, and songs for regenerating Mother Earth and co-creating a world that works for all.&lt;/p&gt;
+&lt;p&gt;For more information visit &lt;a href=&#34;https://www.earthwisecentre.org/music-for-change&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;earthwisecentre.org/music-for-change&lt;/strong&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;hr&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Reinforcement Learning</title>
+      <link>/project/reinforcement-learning/</link>
+      <pubDate>Sat, 06 Jan 2018 04:47:12 +0000</pubDate>
+      <guid>/project/reinforcement-learning/</guid>
+      <description>&lt;h3 id=&#34;how-would-you-teach-a-child-to-play-a-video-game&#34;&gt;How would you teach a child to play a video game?&lt;/h3&gt;
+&lt;p&gt;You might sit down with them, put the controller in their hands, and push buttons with them. You might do the first level with them, and have them copy what you do until they get it down exactly right. They’ll learn pretty quickly - if they have the right aptitude - and they’d be able to teach their friends.&lt;/p&gt;
+&lt;p&gt;However, it’s pretty unlikely that they’ll be better than you by the time you’re done teaching them. If they choose to seek out different teachers - Twitch streamers, that kid at school - then odds are low they’ll get better than them.&lt;/p&gt;
+&lt;p&gt;Fortunately, there is another approach. It only requires the kid having an unrealistically large amount of time and no real needs.&lt;/p&gt;
+&lt;p&gt;Just lock them in the room and tell them to leave once they get a perfect score.&lt;/p&gt;
+&lt;p&gt;They’ll start off by trying random things, hoping to stumble across some strategies that yield positive outcomes. Over time, they’ll develop some balance between doing things they know work well and trying new things. Eventually, by the time they get their perfect score, the tactics they use will be entirely original, unsullied by the influence of you or any of their friends.&lt;/p&gt;
+&lt;p&gt;This is the basis of reinforcement learning.&lt;/p&gt;
+&lt;p&gt;While a parent should never lock their kid in a room under such circumstances, having computers play a game millions of times without telling them how to go about it has led to groundbreaking developments. The famous AlphaGo and AlphaZero agents used reinforcement learning to develop the world’s best Go AI and beat top-ranked human player Lee Sedol. Google uses this same technique to manage their data center’s energy consumption. Scientists have been harnessing the power of reinforcement learning to study protein synthesis, advertisement placement, and robots. Reinforcement learning does not learn from humans; as a result, it is free to explore beyond the bounds of our limited creativities.&lt;/p&gt;
+&lt;p&gt;It works by having the person define four key components:
+The environment
+The rewards
+The actions
+When the game ends&lt;/p&gt;
+&lt;p&gt;From there, the reinforcement learning agent will play the game by itself many, many times (up to billions!) until it has figured out a strategy. What does that strategy look like? Internally, the agent will have figured out an expected value for each state it will encounter based on its experiences. It will then choose the actions that lead to the best future outcomes for it.&lt;/p&gt;
+&lt;p&gt;At RCODI, my research revolves around using a variant of reinforcement learning - one where multiple agents learn to compete against one another - to model human behavior in the public goods game.&lt;/p&gt;
+&lt;hr&gt;
+&lt;h3 id=&#34;project-description&#34;&gt;Project Description&lt;/h3&gt;
+&lt;p&gt;The collective action game is a social experiment designed to illustrate how people behave in groups.&lt;/p&gt;
+&lt;p&gt;Each round, every player is given $10. They can contribute some amount (none, any, or a partial amount) to a group pool or they can pocket some themselves. After the rounds are over, the amount of money in the pool is multiplied by a constant and evenly distributed to each player. The amount of money a player has at the end of the game is the sum of however much they saved and their portion from the group pot.&lt;/p&gt;
+&lt;p&gt;If everyone could coordinate, then they would all donate $10 each round to make a lot of money. However, it turns out that one would make more money if they convinced everyone else to donate each round but they saved their own money. Moreover, in practice, nobody wants to be the sucker donating everything while others save.&lt;/p&gt;
+&lt;p&gt;In practice, most people will act based on how the others playing the game will act. They will donate a lot if others are contributing a lot, and they will donate little if others are donating a little. This is called conditional cooperation. About 70% of people will play this game in this manner.&lt;/p&gt;
+&lt;p&gt;My research involves studying how the information available to the player influences their behavior. I model a conditionally cooperative agent using a rules-based model and two reinforcement learning agents. The rules-based model simulates whether or not the agent should be competitive or cooperative, and then the reinforcement learning agent will take over.&lt;/p&gt;
+&lt;p&gt;The reinforcement learning agent will analyze the given situation and recommend a contribution. The recommendations are based on the reinforcement learning agent having played the collective action game millions and millions of times until it figures out how to maximize its own balance or the group’s (for competitive and cooperative respectively).&lt;/p&gt;
+&lt;p&gt;The results are still under way.&lt;/p&gt;
+&lt;hr&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Transparency in Open Data Contest</title>
+      <link>/project/transparency-in-open-data-contest/</link>
+      <pubDate>Sun, 11 Jul 2010 22:24:09 +0000</pubDate>
+      <guid>/project/transparency-in-open-data-contest/</guid>
+      <description>&lt;p&gt;This study measures the degree of &lt;em&gt;innovation performance transparency&lt;/em&gt; and &lt;em&gt;solution transparency&lt;/em&gt; to determine the effect of transparency on participation and innovation.&lt;/p&gt;
+&lt;h3 id=&#34;transparency-in-open-data-contest&#34;&gt;Transparency in Open Data Contest&lt;/h3&gt;
+&lt;p&gt;&lt;strong&gt;Primary Research Questions:&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;What are the effects of &lt;em&gt;innovation performance transparency&lt;/em&gt; and solution &lt;em&gt;transparency&lt;/em&gt; on participation and innovativeness of Open Data solutions in Open Data contests?&lt;/li&gt;
+&lt;li&gt;How does transparency in open data contests affect civic participation?&lt;/li&gt;
+&lt;li&gt;How does transparency influence the novelty, usefulness, and popularity of open data solutions?&lt;/li&gt;
+&lt;li&gt;Are there differences in the way agencies and citizens evaluate the innovativeness of these solutions?&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;p&gt;In a series of &amp;lsquo;first-of-its-kind&amp;rsquo; 3 weeks fully virtual hacks known as &amp;ldquo;&lt;a href=&#34;https://www.purdue.edu/opendigital/purdue-ironhacks/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;The Purdue IronHacks&lt;/a&gt;&amp;rdquo;, we explore &lt;em&gt;transparency&lt;/em&gt; and &lt;em&gt;participation&lt;/em&gt; in Open Data (OD) solutions in OD contests. The OD project introduces the concept of &lt;em&gt;innovation performance transparency&lt;/em&gt; and &lt;em&gt;solution transparency&lt;/em&gt; in OD contests. We draw upon the theory of private-collective innovation, self-organizing governance and our previous research in organizing innovation contests, collective action, and open public policy and problem solving. The goal of this project is to provide a new perspective on how to promote impact from governmental OD. Using machine readable open datasets from &lt;a href=&#34;http://www.data.gov/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Data.gov&lt;/a&gt; focusing on the areas of: Health, Energy, Climate, Education, Finance, Public Safety, and Global Development, we conduct an empirical quantitative study to explain the effect of &lt;em&gt;innovation performance transparency&lt;/em&gt; and &lt;em&gt;solution transparency&lt;/em&gt; on governmental OD impact.&lt;/p&gt;
+&lt;p&gt;Following a data driven and computational research approach, in a series of quasi-experimental OD contests, several hundred citizens, developers, and students will participate in a ‘virtual’ lab environment. Non-expert citizens and developers will collaborate to identify problems, share different perspectives, critical decisions, and seek solutions. The degree of &lt;em&gt;innovation performance transparency&lt;/em&gt; and &lt;em&gt;solution transparency&lt;/em&gt; will be measured in order to determine the effect of transparency on participation and innovation. Findings from these experiments will be implemented in larger national OD contests, such as the &lt;a href=&#34;http://hackforchange.org/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;National Day of Civic Hacking&lt;/a&gt;. In sum, this study will provide evidence-based guidelines for the design of OD contests and how to utilize transparency and knowledge sharing to increase the impact of governmental OD.&lt;/p&gt;
+&lt;p&gt;Duration: 24 months&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Investigators: &lt;a href=&#34;https://www.purdue.edu/opendigital/about/sabine/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Sabine Brunswicker&lt;/a&gt;, &lt;a href=&#34;https://www.purdue.edu/opendigital/about/research-team/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Ann Majchrzak&lt;/a&gt;, &lt;a href=&#34;https://www.purdue.edu/opendigital/about/research-team/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Esteve Almirall.&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;
+&lt;h3 id=&#34;partners--sponsorship&#34;&gt;&lt;strong&gt;Partners &amp;amp; Sponsorship&lt;/strong&gt;&lt;/h3&gt;
+&lt;p&gt;Partners: &lt;a href=&#34;http://www.redhat.com/en&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;RedHat&lt;/a&gt;, &lt;a href=&#34;https://www.socrata.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Socrata&lt;/a&gt;, &lt;a href=&#34;http://www.westlafayette.in.gov/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;City of West Lafayette&lt;/a&gt;, &amp;amp; &lt;a href=&#34;http://purduehackers.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Purdue Hackers&lt;br&gt;
+&lt;/a&gt;Sponsor(s): &lt;a href=&#34;http://www.nsf.gov/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;NSF&lt;/a&gt;, &lt;a href=&#34;http://www.nsf.gov/funding/pgm_summ.jsp?pims_id=501084&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Science of Science and Innovation Policy (SciSPI)&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Open Source Software practices</title>
+      <link>/project/open-source-software-practices/</link>
+      <pubDate>Fri, 09 Jul 2010 22:24:08 +0000</pubDate>
+      <guid>/project/open-source-software-practices/</guid>
+      <description>&lt;p&gt;&lt;img src=&#34;./OSS-graph.jpg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+&lt;p&gt;The study aims to understand how Open Source Software practices are evolving by focusing on studying a prominent community &amp;lsquo;OpenStack&amp;rsquo; that is effectively using the latest practices.&lt;/p&gt;
+&lt;h3 id=&#34;modeling-complex-open-source-software-structures-as-networks&#34;&gt;Modeling Complex Open Source Software Structures as Networks&lt;/h3&gt;
+&lt;p&gt;Reflecting the commitment to foster and build Open Source Software practices, Red Hat Inc. sponsors a two-year Red Hat fellowship for Discovery Park&amp;rsquo;s Research Center for Open Digital Innovation (RCODI).&lt;/p&gt;
+&lt;p&gt;Red Hat Inc. provided a 100,000$ gift to Purdue to advance in this field led by technology and innovation professor Sabine Brunswicker. The objective of Red Hat funding this fellowship is to establish itself as a &amp;ldquo;significant catalyst of open-digital innovation ecosystems and communities research intended to answer questions critical to the sustainable impact of open standards and open-source and novel open forms of innovation and production in a broader sense,&amp;rdquo; Brunswicker said. Open Source Software is lately gaining traction in fields that traditionally were considered to be close as telecommunication, health care, or even banking. Therefore, this fellowship is divided in two different stages. The first stage is to understand how Open Source Software practices are evolving by focusing on studying a prominent community &amp;lsquo;OpenStack&amp;rsquo; that is effectively using the latest practices.&lt;/p&gt;
+&lt;p&gt;OpenStack is a set of software tools for managing and building public and private cloud computing platform. The second stage is researching how these practices can be applied to other fields as telecommunications. Through the fellowship research on architecture, governance and behaviors of heterogeneous open-innovation communities as OpenStack will be examined. Research results will be shared with Red Hat as part of a collaborative dialogue between these two groups.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Purdue IronHacks</title>
+      <link>/project/ironhacks/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/project/ironhacks/</guid>
+      <description>&lt;p&gt;&lt;img src=&#34;https://user-images.githubusercontent.com/74989091/114110737-34a2a700-98a6-11eb-8932-e84b84571cd0.png&#34; alt=&#34;featured&#34;&gt;&lt;/p&gt;
+&lt;h2 id=&#34;ironhacks&#34;&gt;IronHacks&lt;/h2&gt;
+&lt;p&gt;is an open data hacking program that empowers programmers - from beginners to professionals - to solve civic challenges during a multi-phase and learning-oriented process.  The IronHacks platform offers participants a no-set-up programming environment and many powerful features to create novel and useful models and visualizations that help citizens and governments to make better decisions.&lt;/p&gt;
+&lt;h2 id=&#34;example-challenges&#34;&gt;Example challenges&lt;/h2&gt;
+&lt;h3 id=&#34;covid-19-data-science-challenge&#34;&gt;COVID-19 Data Science Challenge&lt;/h3&gt;
+&lt;p&gt;Use data provided by suppliers such as SafeGraph to predict areas that will be impacted by  COVID-19 based on foot traffic.
+What are the Challenges about?&lt;/p&gt;
+&lt;p&gt;Our COVID-19 Data Science Challenges invite participants to build statistical models and visualizations that monitor and predict social movement behavior during the COVID-19 pandemic over time. The goal is to predict weekly patterns of movement and social interaction in our local communities to understand COVID-19 risks.&lt;/p&gt;
+&lt;p&gt;August 2020 COVID-19 Data Science Challenge: This first COVID-19 Data Science Challenge focuses on predicting the foot traffic at major brands (e.g. Target, Domino&amp;rsquo;s Pizza etc.). The goal is to foresee which brands are experiencing the greatest surge in visitors.&lt;/p&gt;
+&lt;p&gt;Fall 2020 COVID-19 Data Science Challenge: Protect Purdue. This challenge asks participants to monitor and predict weekly foot traffic at thousands of places of interests (e.g. restaurants, stores, churches) in the Greater West-Lafayette. It responds to a statement made by Purdue&amp;rsquo;s Leadership team: that COVID-19 risk is not necessarily arising in campus buildings but, rather, emerging from off-campus social gatherings like in restaurants, shops, etc.&lt;/p&gt;
+&lt;p&gt;Participants have access to BIG actual, granular and temporal data they typically do not have access to: Data about social distancing behavior, foot traffic, COVID-19 incidents, as well as executive orders. This data is also used by state governments in the US as well scientists who try to understand social movements during COVID-19 pandemic.&lt;/p&gt;
+&lt;p&gt;Equipped with this data, participants will work in the IronHacks workspace with JupyterLab and access to BigQuery to create novel and useful statistical models and visualizations using Python and R. Participants will submit Jupyter notebooks and their outputs (html and markdown files).&lt;/p&gt;
+&lt;h3 id=&#34;affordable-housing&#34;&gt;AFFORDABLE HOUSING&lt;/h3&gt;
+&lt;p&gt;&lt;img src=&#34;./topics-housing.jpg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+&lt;p&gt;Build a website with interactive visualizations that helps new students in finding safe and affordable housing near their university.&lt;/p&gt;
+&lt;h3 id=&#34;workforce-analytics&#34;&gt;WORKFORCE ANALYTICS&lt;/h3&gt;
+&lt;p&gt;&lt;img src=&#34;./14_1-2X1-e1522941729110.jpg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+&lt;p&gt;Use workforce data to explore factors that affect successful career paths.&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;how-does-the-process-work&#34;&gt;How does the process work?&lt;/h2&gt;
+&lt;p&gt;IronHacks is a global virtual open data hacking platform that allows users to participate in a high-energy IronHacks competition. The IronHacks platform offers participants a no setup workspace with JupyterLab and BigQueryintegration and many powerful features to create novel and useful models and visualizations. It also offers training and tutorials, as well as a personal dashboard to view scores and progress through the competition. After registration, participants can warm-up, practice their skills and query sample data until sufficient participants have joined to launch the competition. After the start of the competition, a multiphase process will start. Each challenge moves through the following phases.&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;final-submission-there-will-be-a-final-submission-before-we-identify-the-winners&#34;&gt;Registration and warm-up phase: If you have registered for one of the Challenges that are available, you will have the opportunity to warm-up using our tutorials.
+Start of competition followed by multiphase process: The competition starts based on invitation, usually followed by multiple interim and one final submission Interim submissions: At multiple interim submission points, you will receive immediate feedback on your current standing, giving you the opportunity to improve over time.
+Final submission: There will be a final submission before we identify the winners.&lt;/h2&gt;
+&lt;h2 id=&#34;our-impact&#34;&gt;Our Impact&lt;/h2&gt;
+&lt;p&gt;The scientific team at Purdue generated new knowledge and technologies on the implications of machine-enabled feedback and transparency on participant&amp;rsquo;s productivity and innovation performance.&lt;/p&gt;
+&lt;p&gt;Since 2015, thousands of participants have hacked in parallel virtually around the globe gaining valuable experience in coding as well as work for the chance to win internships, Amazon gift cards, cool swag, and certificates. In addition to the students participation and learning, IronHacks provide the opportunity to do research on open innovation contest processes.&lt;/p&gt;
+&lt;p&gt;Participants developed novel and useful open data solutions in an interactive environment. The platform&amp;rsquo;s features helped them continuously improve their submissions while learning from real-time feedback and others participating in the hack. A new virtual movement of hacking has emerged at Purdue and beyond. Participants come from the U.S., Colombia, and China. Virtual setting encourages a more diverse audience.&lt;/p&gt;
+&lt;h2 id=&#34;learn-more&#34;&gt;Learn More&lt;/h2&gt;
+&lt;h2 id=&#34;about-ironhacks&#34;&gt;About IronHacks&lt;/h2&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.ironhacks.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Hack in our next challenge!&lt;/a&gt;
+&lt;a href=&#34;https://blog.ironhacks.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Read through our blog&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=8YLLXMhtTB4&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Online walkthrough&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Interested in partnering or have a question?
+&lt;a href=&#34;mailto:sbrunswi@purdue.edu&#34;&gt;Email us&lt;/a&gt;
+&lt;a href=&#34;https://www.facebook.com/OpenDigitalPurdue/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Connect with us&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

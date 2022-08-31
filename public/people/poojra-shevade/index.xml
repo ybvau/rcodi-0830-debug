@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Poojra Shevade | RCODI</title>
+    <link>/people/poojra-shevade/</link>
+      <atom:link href="/people/poojra-shevade/index.xml" rel="self" type="application/rss+xml" />
+    <description>Poojra Shevade</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>Purdue Research Center for Open Digital Innovation © 2022</copyright>
+    <image>
+      <url>/people/poojra-shevade/avatar_hue04d9f8c43bc06fd20dc91b6130f8acb_36085_270x270_fill_q75_lanczos_center.jpg</url>
+      <title>Poojra Shevade</title>
+      <link>/people/poojra-shevade/</link>
+    </image>
+    
+  </channel>
+</rss>

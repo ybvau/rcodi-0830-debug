@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Changfeng Wang | RCODI</title>
+    <link>/people/changfeng-wang/</link>
+      <atom:link href="/people/changfeng-wang/index.xml" rel="self" type="application/rss+xml" />
+    <description>Changfeng Wang</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>Purdue Research Center for Open Digital Innovation © 2022</copyright><lastBuildDate>Wed, 01 Jan 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/media/logo_hue831a1547d228cf33d75a995b069998a_11256_300x300_fit_lanczos_2.png</url>
+      <title>Changfeng Wang</title>
+      <link>/people/changfeng-wang/</link>
+    </image>
+    
+    <item>
+      <title>Knowledge search breadth and depth and OI projects performance: a moderated mediation model of control mechanism</title>
+      <link>/publication/wang-knowledge-2020/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/wang-knowledge-2020/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Control Mechanism of OI Projects in Large Firms: An Empirical Test of a Moderated Mediation Model</title>
+      <link>/publication/brunswicker-control-2019/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>/publication/brunswicker-control-2019/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

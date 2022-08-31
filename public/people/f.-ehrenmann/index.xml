@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>F. Ehrenmann | RCODI</title>
+    <link>/people/f.-ehrenmann/</link>
+      <atom:link href="/people/f.-ehrenmann/index.xml" rel="self" type="application/rss+xml" />
+    <description>F. Ehrenmann</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>Purdue Research Center for Open Digital Innovation © 2022</copyright><lastBuildDate>Tue, 01 Jan 2013 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/media/logo_hue831a1547d228cf33d75a995b069998a_11256_300x300_fit_lanczos_2.png</url>
+      <title>F. Ehrenmann</title>
+      <link>/people/f.-ehrenmann/</link>
+    </image>
+    
+    <item>
+      <title>Managing Open Innovation in SMEs: A Good Practice Example of a German Software Firm</title>
+      <link>/publication/brunswicker-managing-2013/</link>
+      <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
+      <guid>/publication/brunswicker-managing-2013/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

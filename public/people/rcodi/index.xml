@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title> RCODI | RCODI</title>
+    <link>/people/rcodi/</link>
+      <atom:link href="/people/rcodi/index.xml" rel="self" type="application/rss+xml" />
+    <description> RCODI</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>Purdue Research Center for Open Digital Innovation © 2022</copyright><lastBuildDate>Fri, 01 Jan 2021 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/media/logo_hue831a1547d228cf33d75a995b069998a_11256_300x300_fit_lanczos_2.png</url>
+      <title> RCODI</title>
+      <link>/people/rcodi/</link>
+    </image>
+    
+    <item>
+      <title>IronHacks Platform: Platform Documentation</title>
+      <link>/publication/rcodi-ironhacks-2021/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>/publication/rcodi-ironhacks-2021/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Showcases IronHacks Fall 2020</title>
+      <link>/publication/rcodi-showcases-2021/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>/publication/rcodi-showcases-2021/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Source Code Repository of the IronHacks Platform</title>
+      <link>/publication/rcodi-source-2021/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>/publication/rcodi-source-2021/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Tutorials for Data Science Challenge 2020</title>
+      <link>/publication/rcodi-tutorials-2020/</link>
+      <pubDate>Sun, 01 Nov 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/rcodi-tutorials-2020/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>COVID-19 Data Science Challenge</title>
+      <link>/publication/rcodi-covid-19-2020/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/rcodi-covid-19-2020/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>IronHacks Showcases 2020</title>
+      <link>/publication/rcodi-ironhacks-2020/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/rcodi-ironhacks-2020/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

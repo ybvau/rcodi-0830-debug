@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Esteve Almirall | RCODI</title>
+    <link>/people/esteve-almirall/</link>
+      <atom:link href="/people/esteve-almirall/index.xml" rel="self" type="application/rss+xml" />
+    <description>Esteve Almirall</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>Purdue Research Center for Open Digital Innovation © 2022</copyright><lastBuildDate>Tue, 01 Jan 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/media/logo_hue831a1547d228cf33d75a995b069998a_11256_300x300_fit_lanczos_2.png</url>
+      <title>Esteve Almirall</title>
+      <link>/people/esteve-almirall/</link>
+    </image>
+    
+    <item>
+      <title>Optimizing and Satisficing: The Interplay Between Platform Architecture and Producers’ Design Strategies for Platform Performance</title>
+      <link>/publication/brunswicker-optimizing-2019/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>/publication/brunswicker-optimizing-2019/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Transparency in public policy: A complexity view</title>
+      <link>/publication/brunswicker-transparency-2019/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>/publication/brunswicker-transparency-2019/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The Open Innovation Landscape: Established Perspectives and Emerging Themes Across Different Levels of Analysis</title>
+      <link>/publication/bogers-open-2017/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>/publication/bogers-open-2017/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Co-creating Value from Open Data: From Incentivizing Developers to Inducing Co-creation in Open Data Ecosystems</title>
+      <link>/publication/brunswicker-co-creating-2016/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      <guid>/publication/brunswicker-co-creating-2016/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Opening Governance with a Public Intent: Studying Opening Governance at Multiple Scales</title>
+      <link>/publication/brunswicker-opening-2015/</link>
+      <pubDate>Sat, 01 Aug 2015 00:00:00 +0000</pubDate>
+      <guid>/publication/brunswicker-opening-2015/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Performance Transparency and Innovation in Digital Ecosystems</title>
+      <link>/publication/brunswicker-performance-2015/</link>
+      <pubDate>Wed, 01 Jul 2015 00:00:00 +0000</pubDate>
+      <guid>/publication/brunswicker-performance-2015/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>&#34;Internet of things&#34;, Big Data y Small Data: infinitas posibilidades de análisis</title>
+      <link>/publication/almirall-2014/</link>
+      <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
+      <guid>/publication/almirall-2014/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

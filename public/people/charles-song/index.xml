@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Charles Song | RCODI</title>
+    <link>/people/charles-song/</link>
+      <atom:link href="/people/charles-song/index.xml" rel="self" type="application/rss+xml" />
+    <description>Charles Song</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>Purdue Research Center for Open Digital Innovation © 2022</copyright>
+    <image>
+      <url>/people/charles-song/avatar_huabfa5bdf279d19f82d7035efcf968726_31273_270x270_fill_q75_lanczos_center.jpg</url>
+      <title>Charles Song</title>
+      <link>/people/charles-song/</link>
+    </image>
+    
+  </channel>
+</rss>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Zhounan Song | RCODI</title>
+    <link>/people/zhounan-song/</link>
+      <atom:link href="/people/zhounan-song/index.xml" rel="self" type="application/rss+xml" />
+    <description>Zhounan Song</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>Purdue Research Center for Open Digital Innovation © 2022</copyright><lastBuildDate>Mon, 01 Oct 2018 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/media/logo_hue831a1547d228cf33d75a995b069998a_11256_300x300_fit_lanczos_2.png</url>
+      <title>Zhounan Song</title>
+      <link>/people/zhounan-song/</link>
+    </image>
+    
+    <item>
+      <title>Transparency as design choice of open data contests</title>
+      <link>/publication/brunswicker-transparency-2018/</link>
+      <pubDate>Mon, 01 Oct 2018 00:00:00 +0000</pubDate>
+      <guid>/publication/brunswicker-transparency-2018/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

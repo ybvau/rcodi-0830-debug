@@ -1,0 +1,648 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>0 | RCODI</title>
+    <link>/publication-type/0/</link>
+      <atom:link href="/publication-type/0/index.xml" rel="self" type="application/rss+xml" />
+    <description>0</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>Purdue Research Center for Open Digital Innovation © 2022</copyright><lastBuildDate>Fri, 01 Jan 2021 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/media/logo_hue831a1547d228cf33d75a995b069998a_11256_300x300_fit_lanczos_2.png</url>
+      <title>0</title>
+      <link>/publication-type/0/</link>
+    </image>
+    
+    <item>
+      <title>IronHacks Platform: Platform Documentation</title>
+      <link>/publication/rcodi-ironhacks-2021/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>/publication/rcodi-ironhacks-2021/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Polytechnic professors deliver Protect Purdue-related research - Purdue Polytechnic Institute</title>
+      <link>/publication/omalley-polytechnic-2021/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>/publication/omalley-polytechnic-2021/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Showcases IronHacks Fall 2020</title>
+      <link>/publication/rcodi-showcases-2021/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>/publication/rcodi-showcases-2021/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Source Code Repository of the IronHacks Platform</title>
+      <link>/publication/rcodi-source-2021/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>/publication/rcodi-source-2021/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Is Open Source Software Eating the World?</title>
+      <link>/publication/brunswicker-is-2020/</link>
+      <pubDate>Tue, 01 Dec 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/brunswicker-is-2020/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Tutorials for Data Science Challenge 2020</title>
+      <link>/publication/rcodi-tutorials-2020/</link>
+      <pubDate>Sun, 01 Nov 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/rcodi-tutorials-2020/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>COVID-19 Data Science Challenges - Powered by IronHacks: October 2020 Announcement</title>
+      <link>/publication/brunswicker-covid-19-2020/</link>
+      <pubDate>Tue, 01 Sep 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/brunswicker-covid-19-2020/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>IronHacks Live: Info Session #4</title>
+      <link>/publication/brunswicker-ironhacks-2020-4/</link>
+      <pubDate>Sat, 01 Aug 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/brunswicker-ironhacks-2020-4/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>IronHacks Live: Info Session #5</title>
+      <link>/publication/brunswicker-ironhacks-2020-6/</link>
+      <pubDate>Sat, 01 Aug 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/brunswicker-ironhacks-2020-6/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>IronHacks Live: Tutorial Session #2</title>
+      <link>/publication/brunswicker-ironhacks-2020-5/</link>
+      <pubDate>Sat, 01 Aug 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/brunswicker-ironhacks-2020-5/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>IronHacks Live: Tutorial Session #3</title>
+      <link>/publication/brunswicker-ironhacks-2020-7/</link>
+      <pubDate>Sat, 01 Aug 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/brunswicker-ironhacks-2020-7/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Innovation &#43; Commercialization = Impact</title>
+      <link>/publication/brunswicker-innovation-2020/</link>
+      <pubDate>Wed, 01 Jul 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/brunswicker-innovation-2020/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>IronHacks Live: Info Session #1</title>
+      <link>/publication/brunswicker-ironhacks-2020/</link>
+      <pubDate>Wed, 01 Jul 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/brunswicker-ironhacks-2020/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>IronHacks Live: Info Session #2</title>
+      <link>/publication/brunswicker-ironhacks-2020-1/</link>
+      <pubDate>Wed, 01 Jul 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/brunswicker-ironhacks-2020-1/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>IronHacks Live: Info Session #3</title>
+      <link>/publication/brunswicker-ironhacks-2020-2/</link>
+      <pubDate>Wed, 01 Jul 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/brunswicker-ironhacks-2020-2/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>IronHacks Live: Tutorial Session #1</title>
+      <link>/publication/brunswicker-ironhacks-2020-3/</link>
+      <pubDate>Wed, 01 Jul 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/brunswicker-ironhacks-2020-3/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Responding to the crisis with digital innovation</title>
+      <link>/publication/brunswicker-responding-2020/</link>
+      <pubDate>Mon, 01 Jun 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/brunswicker-responding-2020/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>COVID-19 Data Science Challenge</title>
+      <link>/publication/rcodi-covid-19-2020/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/rcodi-covid-19-2020/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>IronHacks Showcases 2020</title>
+      <link>/publication/rcodi-ironhacks-2020/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/rcodi-ironhacks-2020/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Purdue IronHacks winners 2019</title>
+      <link>/publication/research-center-for-open-digital-innovation-rcodi-purdue-2019/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>/publication/research-center-for-open-digital-innovation-rcodi-purdue-2019/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A Lucky Catch: How a Coding Bot Built with Neural Nets Catch Programmers’ Thoughts</title>
+      <link>/publication/brunswicker-sabine-lucky-2018/</link>
+      <pubDate>Mon, 01 Oct 2018 00:00:00 +0000</pubDate>
+      <guid>/publication/brunswicker-sabine-lucky-2018/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>IronHacks Research Tool: A Hackathon Research Tool for Studying the Power of Collective Intelligence</title>
+      <link>/publication/cheoh-ironhacks-2018/</link>
+      <pubDate>Mon, 01 Oct 2018 00:00:00 +0000</pubDate>
+      <guid>/publication/cheoh-ironhacks-2018/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>There are multiple web applications! How do we extract the web components of different sizes to compare the visual similarities between them?</title>
+      <link>/publication/cheoh-there-2018/</link>
+      <pubDate>Mon, 01 Oct 2018 00:00:00 +0000</pubDate>
+      <guid>/publication/cheoh-there-2018/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>HackPurdue/purdue-ironhacks: IH v1.5.0</title>
+      <link>/publication/research-center-for-open-digital-innovation-rcodi-hackpurduepurdue-ironhacks-2018/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>/publication/research-center-for-open-digital-innovation-rcodi-hackpurduepurdue-ironhacks-2018/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Rcodi/Purdue-Cupl-Ironhacks-Spring-2018-Tutorials: Version 1.0.0</title>
+      <link>/publication/research-center-for-open-digital-innovation-rcodi-rcodipurdue-cupl-ironhacks-spring-2018-tutorials-2018/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>/publication/research-center-for-open-digital-innovation-rcodi-rcodipurdue-cupl-ironhacks-spring-2018-tutorials-2018/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Honors College students earn IronHacks recognition</title>
+      <link>/publication/mills-honors-2017/</link>
+      <pubDate>Fri, 01 Dec 2017 00:00:00 +0000</pubDate>
+      <guid>/publication/mills-honors-2017/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Polytechnic student takes top IronHacker honor</title>
+      <link>/publication/o-brien-polytechnic-2017/</link>
+      <pubDate>Fri, 01 Dec 2017 00:00:00 +0000</pubDate>
+      <guid>/publication/o-brien-polytechnic-2017/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Human-AI Interaction</title>
+      <link>/publication/brunswicker-human-ai-2017/</link>
+      <pubDate>Wed, 01 Nov 2017 00:00:00 +0000</pubDate>
+      <guid>/publication/brunswicker-human-ai-2017/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Purdue faculty, Indiana housing pair up to research energy use - Purdue University</title>
+      <link>/publication/huchel-purdue-2017/</link>
+      <pubDate>Sun, 01 Oct 2017 00:00:00 +0000</pubDate>
+      <guid>/publication/huchel-purdue-2017/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Purdue-UNAL Goldironhacks Spring 2017 - Award Ceremony</title>
+      <link>/publication/brunswicker-purdue-unal-2017/</link>
+      <pubDate>Mon, 01 May 2017 00:00:00 +0000</pubDate>
+      <guid>/publication/brunswicker-purdue-unal-2017/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Gold Ironhacks Spring 2017 - Award Ceremony</title>
+      <link>/publication/brunswicker-gold-2017/</link>
+      <pubDate>Sat, 01 Apr 2017 00:00:00 +0000</pubDate>
+      <guid>/publication/brunswicker-gold-2017/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>goldironhack/2017-Fall-Purdue-UNAL-IronHack-Tutorials: Fall 2017 IronHacks Tutorials</title>
+      <link>/publication/research-center-for-open-digital-innovation-rcodi-goldironhack-2017-fall-purdue-unal-ironhack-tutorials-2017/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>/publication/research-center-for-open-digital-innovation-rcodi-goldironhack-2017-fall-purdue-unal-ironhack-tutorials-2017/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>goldironhack/2017-Purdue-IronHack-Tutorials: Spring 2017 Tutorials</title>
+      <link>/publication/research-center-for-open-digital-innovation-rcodi-goldironhack-2017-purdue-ironhack-tutorials-2017/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>/publication/research-center-for-open-digital-innovation-rcodi-goldironhack-2017-purdue-ironhack-tutorials-2017/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>goldironhack/2017-Purdue-UNAL-IronHack-Tutorials: Spring 2017 Tutorials Bogota</title>
+      <link>/publication/research-center-for-open-digital-innovation-rcodi-goldironhack-2017-purdue-unal-ironhack-tutorials-2017/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>/publication/research-center-for-open-digital-innovation-rcodi-goldironhack-2017-purdue-unal-ironhack-tutorials-2017/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Open for Openess: it is the only choice</title>
+      <link>/publication/brunswicker-open-2016/</link>
+      <pubDate>Thu, 01 Dec 2016 00:00:00 +0000</pubDate>
+      <guid>/publication/brunswicker-open-2016/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Innovation on Open Digital Platforms: Simulating the Effect of Developer Strategies on the Interplay between Platform Complexity and Platform Performance</title>
+      <link>/publication/brunswicker-innovation-2016/</link>
+      <pubDate>Tue, 01 Nov 2016 00:00:00 +0000</pubDate>
+      <guid>/publication/brunswicker-innovation-2016/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Invited Seminar: Open innovation in the digital age</title>
+      <link>/publication/brunswicker-invited-2016/</link>
+      <pubDate>Sat, 01 Oct 2016 00:00:00 +0000</pubDate>
+      <guid>/publication/brunswicker-invited-2016/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Open Innovation: Warming up for the working environment of the future</title>
+      <link>/publication/dax-open-2016/</link>
+      <pubDate>Mon, 01 Aug 2016 00:00:00 +0000</pubDate>
+      <guid>/publication/dax-open-2016/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>From Open Source towards Open Innovation: Fostering Corporate Innovation with Open Source Software (OSS) Communities</title>
+      <link>/publication/brunswicker-open-2016-4/</link>
+      <pubDate>Wed, 01 Jun 2016 00:00:00 +0000</pubDate>
+      <guid>/publication/brunswicker-open-2016-4/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>6 colleges turning out open source talent</title>
+      <link>/publication/gittlen-6-2016/</link>
+      <pubDate>Sun, 01 May 2016 00:00:00 +0000</pubDate>
+      <guid>/publication/gittlen-6-2016/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Community Will Make Big Splash at Red Hat Summit</title>
+      <link>/publication/proffitt-community-2016/</link>
+      <pubDate>Sun, 01 May 2016 00:00:00 +0000</pubDate>
+      <guid>/publication/proffitt-community-2016/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Open Innovation in the Digital Age: Fostering Generativity through Openness</title>
+      <link>/publication/brunswicker-open-2016-3/</link>
+      <pubDate>Sun, 01 May 2016 00:00:00 +0000</pubDate>
+      <guid>/publication/brunswicker-open-2016-3/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Leading Innovation in the Digital Age</title>
+      <link>/publication/brunswicker-leading-2016/</link>
+      <pubDate>Fri, 01 Apr 2016 00:00:00 +0000</pubDate>
+      <guid>/publication/brunswicker-leading-2016/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Open Collaboration: Who solves who&#39;s problem?</title>
+      <link>/publication/haefliger-open-2016-2/</link>
+      <pubDate>Fri, 01 Apr 2016 00:00:00 +0000</pubDate>
+      <guid>/publication/haefliger-open-2016-2/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Open Source Software and Business Model Innovation</title>
+      <link>/publication/haefliger-open-2016-1/</link>
+      <pubDate>Fri, 01 Apr 2016 00:00:00 +0000</pubDate>
+      <guid>/publication/haefliger-open-2016-1/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Purdue&#39;s IronHacks series puts unique spin on hackathons</title>
+      <link>/publication/cotton-purdues-2016/</link>
+      <pubDate>Fri, 01 Apr 2016 00:00:00 +0000</pubDate>
+      <guid>/publication/cotton-purdues-2016/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Digital innovation in communities and ecosystems</title>
+      <link>/publication/brunswicker-digital-2016-1/</link>
+      <pubDate>Tue, 01 Mar 2016 00:00:00 +0000</pubDate>
+      <guid>/publication/brunswicker-digital-2016-1/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Open Source Software Development: Who solve&#39;s who&#39;s problems?</title>
+      <link>/publication/haefliger-open-2016/</link>
+      <pubDate>Tue, 01 Mar 2016 00:00:00 +0000</pubDate>
+      <guid>/publication/haefliger-open-2016/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Innovating in an Open and Digital Innovation Landscape</title>
+      <link>/publication/brunswicker-innovating-2016/</link>
+      <pubDate>Mon, 01 Feb 2016 00:00:00 +0000</pubDate>
+      <guid>/publication/brunswicker-innovating-2016/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Executive Committee Elected (Effective August 2016)</title>
+      <link>/publication/ocis-executive-2016/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      <guid>/publication/ocis-executive-2016/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Open for Openness: It&#39;s the Only Choice</title>
+      <link>/publication/brunswicker-open-2016-2/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      <guid>/publication/brunswicker-open-2016-2/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Rcodi/2016-Purdue-Ironhack-Tutorials: Ih 0.0.16</title>
+      <link>/publication/research-center-for-open-digital-innovation-rcodi-rcodi-2016-purdue-ironhack-tutorials-2016/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      <guid>/publication/research-center-for-open-digital-innovation-rcodi-rcodi-2016-purdue-ironhack-tutorials-2016/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Red Hat CEO to Deliver Discovery Lecture on Organizational Openness</title>
+      <link>/publication/fiorini-red-2016/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      <guid>/publication/fiorini-red-2016/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Purdue, Red Hat Collaborating</title>
+      <link>/publication/dick-purdue-2015/</link>
+      <pubDate>Sat, 01 Aug 2015 00:00:00 +0000</pubDate>
+      <guid>/publication/dick-purdue-2015/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>‘Designing’ the future of Open innovation 2.0</title>
+      <link>/publication/brunswicker-designing-2015/</link>
+      <pubDate>Mon, 01 Jun 2015 00:00:00 +0000</pubDate>
+      <guid>/publication/brunswicker-designing-2015/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Faculty, staff, students honored at annual awards</title>
+      <link>/publication/lincoln-faculty-2015/</link>
+      <pubDate>Fri, 01 May 2015 00:00:00 +0000</pubDate>
+      <guid>/publication/lincoln-faculty-2015/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Purdue, Red Hat Collaborating</title>
+      <link>/publication/bob-purdue-2015/</link>
+      <pubDate>Fri, 01 May 2015 00:00:00 +0000</pubDate>
+      <guid>/publication/bob-purdue-2015/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Purdue, Red Hat Collaborating on Open Innovation</title>
+      <link>/publication/noauthor-purdue-2015/</link>
+      <pubDate>Fri, 01 May 2015 00:00:00 +0000</pubDate>
+      <guid>/publication/noauthor-purdue-2015/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Red Hat to partner with Discovery Park center to fund two-year doctoral research position</title>
+      <link>/publication/fiorini-red-2015/</link>
+      <pubDate>Fri, 01 May 2015 00:00:00 +0000</pubDate>
+      <guid>/publication/fiorini-red-2015/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Microsoft Research vice president to discuss computing innovations</title>
+      <link>/publication/schultz-microsoft-2015/</link>
+      <pubDate>Sun, 01 Feb 2015 00:00:00 +0000</pubDate>
+      <guid>/publication/schultz-microsoft-2015/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Research indicates open innovation gaining momentum among large U.S. and European companies</title>
+      <link>/publication/fiorini-research-2014/</link>
+      <pubDate>Wed, 01 Oct 2014 00:00:00 +0000</pubDate>
+      <guid>/publication/fiorini-research-2014/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Research: open innovation gaining momentum</title>
+      <link>/publication/lincoln-research-2014/</link>
+      <pubDate>Wed, 01 Oct 2014 00:00:00 +0000</pubDate>
+      <guid>/publication/lincoln-research-2014/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Brunswicker addresses World Economic Forum workshop</title>
+      <link>/publication/lincoln-brunswicker-2014/</link>
+      <pubDate>Tue, 01 Jul 2014 00:00:00 +0000</pubDate>
+      <guid>/publication/lincoln-brunswicker-2014/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>New Purdue center will focus on open digital innovation</title>
+      <link>/publication/noauthor-new-2014/</link>
+      <pubDate>Tue, 01 Apr 2014 00:00:00 +0000</pubDate>
+      <guid>/publication/noauthor-new-2014/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Measuring science impact in scientific cyberinfrastructurescyber infrastructures</title>
+      <link>/publication/brunswicker-measuring-2014/</link>
+      <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
+      <guid>/publication/brunswicker-measuring-2014/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Standardization and innovation: A novel perspective towards standards and standardization systems in today’s networked economy</title>
+      <link>/publication/brunswicker-standardization-2014/</link>
+      <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
+      <guid>/publication/brunswicker-standardization-2014/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Transforming business and driving growth through open innovation</title>
+      <link>/publication/brunswicker-transforming-2014/</link>
+      <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
+      <guid>/publication/brunswicker-transforming-2014/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Uncovering the mechanism of innovation in ecosystems</title>
+      <link>/publication/brunswicker-uncovering-2014/</link>
+      <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
+      <guid>/publication/brunswicker-uncovering-2014/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Models for Open Innovation</title>
+      <link>/publication/brunswicker-models-2013/</link>
+      <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
+      <guid>/publication/brunswicker-models-2013/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Open innovation in the public sector – Experience from code for Europe</title>
+      <link>/publication/brunswicker-open-2013/</link>
+      <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
+      <guid>/publication/brunswicker-open-2013/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Open innovation and cross-industry innovation</title>
+      <link>/publication/brunswicker-open-2012-1/</link>
+      <pubDate>Sun, 01 Jan 2012 00:00:00 +0000</pubDate>
+      <guid>/publication/brunswicker-open-2012-1/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Open innovation in SMEs Invited research seminar</title>
+      <link>/publication/brunswicker-open-2012/</link>
+      <pubDate>Sun, 01 Jan 2012 00:00:00 +0000</pubDate>
+      <guid>/publication/brunswicker-open-2012/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Creative escapades – Why are they so ‘rare’ in an innovation context? (German title: Kreative Seitensprünge - Warum fallen diese im Innovationskontext so schwer?)</title>
+      <link>/publication/brunswicker-creative-2011/</link>
+      <pubDate>Sat, 01 Jan 2011 00:00:00 +0000</pubDate>
+      <guid>/publication/brunswicker-creative-2011/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Open innovation and cross-industry innovation</title>
+      <link>/publication/brunswicker-open-2011-1/</link>
+      <pubDate>Sat, 01 Jan 2011 00:00:00 +0000</pubDate>
+      <guid>/publication/brunswicker-open-2011-1/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Open innovation in SMEs and cross boundary innovation sourcing</title>
+      <link>/publication/brunswicker-open-2011/</link>
+      <pubDate>Sat, 01 Jan 2011 00:00:00 +0000</pubDate>
+      <guid>/publication/brunswicker-open-2011/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Open innovation – Leveraging external knowledge and innovation networks to profit</title>
+      <link>/publication/brunswicker-open-2010/</link>
+      <pubDate>Fri, 01 Jan 2010 00:00:00 +0000</pubDate>
+      <guid>/publication/brunswicker-open-2010/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Open innovation lecture</title>
+      <link>/publication/brunswicker-open-2009/</link>
+      <pubDate>Thu, 01 Jan 2009 00:00:00 +0000</pubDate>
+      <guid>/publication/brunswicker-open-2009/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The networked SME: Taking a closer look into open and collaborative innovation in European SMEs</title>
+      <link>/publication/brunswicker-networked-2009/</link>
+      <pubDate>Thu, 01 Jan 2009 00:00:00 +0000</pubDate>
+      <guid>/publication/brunswicker-networked-2009/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Innovation management and innovation assessment (German title: Innovations management und Innovations be wertung)</title>
+      <link>/publication/brunswicker-innovation-2008/</link>
+      <pubDate>Tue, 01 Jan 2008 00:00:00 +0000</pubDate>
+      <guid>/publication/brunswicker-innovation-2008/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

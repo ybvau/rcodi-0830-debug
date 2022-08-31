@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Jeremiah Johnson | RCODI</title>
+    <link>/people/jeremiah-johnson/</link>
+      <atom:link href="/people/jeremiah-johnson/index.xml" rel="self" type="application/rss+xml" />
+    <description>Jeremiah Johnson</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>Purdue Research Center for Open Digital Innovation © 2022</copyright><lastBuildDate>Sun, 01 Nov 2015 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/media/logo_hue831a1547d228cf33d75a995b069998a_11256_300x300_fit_lanczos_2.png</url>
+      <title>Jeremiah Johnson</title>
+      <link>/people/jeremiah-johnson/</link>
+    </image>
+    
+    <item>
+      <title>The Paradox of Minority Dissent in Corporate Innovation Challenges</title>
+      <link>/publication/johnson-paradox-2015/</link>
+      <pubDate>Sun, 01 Nov 2015 00:00:00 +0000</pubDate>
+      <guid>/publication/johnson-paradox-2015/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>From Governmental Open Data Toward Governmental Open Innovation (GOI)</title>
+      <link>/publication/brunswicker-governmental-2015-1/</link>
+      <pubDate>Wed, 01 Jul 2015 00:00:00 +0000</pubDate>
+      <guid>/publication/brunswicker-governmental-2015-1/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>From Governmental Open Data Toward Governmental Open Innovation (GOI)</title>
+      <link>/publication/brunswicker-governmental-2015/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
+      <guid>/publication/brunswicker-governmental-2015/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Phillip Fiorini | RCODI</title>
+    <link>/people/phillip-fiorini/</link>
+      <atom:link href="/people/phillip-fiorini/index.xml" rel="self" type="application/rss+xml" />
+    <description>Phillip Fiorini</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>Purdue Research Center for Open Digital Innovation © 2022</copyright><lastBuildDate>Fri, 01 Jan 2016 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/media/logo_hue831a1547d228cf33d75a995b069998a_11256_300x300_fit_lanczos_2.png</url>
+      <title>Phillip Fiorini</title>
+      <link>/people/phillip-fiorini/</link>
+    </image>
+    
+    <item>
+      <title>Red Hat CEO to Deliver Discovery Lecture on Organizational Openness</title>
+      <link>/publication/fiorini-red-2016/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      <guid>/publication/fiorini-red-2016/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Discovery Lecture Series features talk on innovation disruption</title>
+      <link>/publication/fiorini-discovery-2015/</link>
+      <pubDate>Tue, 01 Sep 2015 00:00:00 +0000</pubDate>
+      <guid>/publication/fiorini-discovery-2015/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Red Hat to partner with Discovery Park center to fund two-year doctoral research position</title>
+      <link>/publication/fiorini-red-2015/</link>
+      <pubDate>Fri, 01 May 2015 00:00:00 +0000</pubDate>
+      <guid>/publication/fiorini-red-2015/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Microsoft Research vice president to discuss computing innovations</title>
+      <link>/publication/schultz-microsoft-2015/</link>
+      <pubDate>Sun, 01 Feb 2015 00:00:00 +0000</pubDate>
+      <guid>/publication/schultz-microsoft-2015/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Research indicates open innovation gaining momentum among large U.S. and European companies</title>
+      <link>/publication/fiorini-research-2014/</link>
+      <pubDate>Wed, 01 Oct 2014 00:00:00 +0000</pubDate>
+      <guid>/publication/fiorini-research-2014/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>New discovery park research center to focus on open digital innovation efforts</title>
+      <link>/publication/fiorini-new-2014/</link>
+      <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
+      <guid>/publication/fiorini-new-2014/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Research &amp; Development | RCODI</title>
+    <link>/category/research-development/</link>
+      <atom:link href="/category/research-development/index.xml" rel="self" type="application/rss+xml" />
+    <description>Research &amp; Development</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>Purdue Research Center for Open Digital Innovation © 2022</copyright>
+    <image>
+      <url>/media/logo_hue831a1547d228cf33d75a995b069998a_11256_300x300_fit_lanczos_2.png</url>
+      <title>Research &amp; Development</title>
+      <link>/category/research-development/</link>
+    </image>
+    
+    <item>
+      <title>RAPID</title>
+      <link>/project/rapid/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/project/rapid/</guid>
+      <description>&lt;h2 id=&#34;rapid&#34;&gt;RAPID&lt;/h2&gt;
+&lt;p&gt;is a collaborative project where RCODI works alongside Software Factory Labs (SFL) to conduct research concerning engagement and performance of R&amp;amp;D contacts. With government contracting, there are types of parties that are consistently applying and winning contracts. DARPA solicited the general public for a means to address the segmented competition within contracts, with the hopes of engaging more small businesses, opening the narrowly-perceived corridor for defense contract innovation.&lt;/p&gt;
+&lt;p&gt;RCODI and SFL are currently exploring the reasons behind such a limited workforce with the hopes of enabling more small business participation within government contracting.&lt;/p&gt;
+&lt;p&gt;The collaboration is currently on-going.&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;Interested in partnering or have a question?
+&lt;a href=&#34;mailto:sbrunswi@purdue.edu&#34;&gt;Email us&lt;/a&gt;
+&lt;a href=&#34;https://www.facebook.com/OpenDigitalPurdue/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Connect with us&lt;/a&gt;&lt;/p&gt;
+&lt;h3 id=&#34;follow-us-on-twitter-httpstwittercompurdue_rcodi&#34;&gt;&lt;a href=&#34;https://twitter.com/purdue_rcodi&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Follow us on Twitter! 🙌&lt;/a&gt;&lt;/h3&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

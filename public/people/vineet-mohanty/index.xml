@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Vineet Mohanty | RCODI</title>
+    <link>/people/vineet-mohanty/</link>
+      <atom:link href="/people/vineet-mohanty/index.xml" rel="self" type="application/rss+xml" />
+    <description>Vineet Mohanty</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>Purdue Research Center for Open Digital Innovation © 2022</copyright>
+    <image>
+      <url>/people/vineet-mohanty/avatar_hu1079a5fa713dac7ec6ff272a5aa156c9_68427_270x270_fill_q75_lanczos_center.jpg</url>
+      <title>Vineet Mohanty</title>
+      <link>/people/vineet-mohanty/</link>
+    </image>
+    
+  </channel>
+</rss>

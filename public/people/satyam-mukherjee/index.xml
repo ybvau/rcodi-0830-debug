@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Satyam Mukherjee | RCODI</title>
+    <link>/people/satyam-mukherjee/</link>
+      <atom:link href="/people/satyam-mukherjee/index.xml" rel="self" type="application/rss+xml" />
+    <description>Satyam Mukherjee</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>Purdue Research Center for Open Digital Innovation © 2022</copyright>
+    <image>
+      <url>/people/satyam-mukherjee/avatar_hu6a691499ccb32c17d207d9eb24d4112f_40194_270x270_fill_lanczos_center_2.png</url>
+      <title>Satyam Mukherjee</title>
+      <link>/people/satyam-mukherjee/</link>
+    </image>
+    
+    <item>
+      <title>The Paradox of Diversity in Joint Problem Solving in Firm-sponsored Open Source Software (OSS)</title>
+      <link>/publication/brunswicker-paradox-nodate/</link>
+      <pubDate>Mon, 12 Apr 2021 16:48:56 +0000</pubDate>
+      <guid>/publication/brunswicker-paradox-nodate/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The Microstructure of Complex Architectures in Open Collaboration: A Theory of Design Network Motifs</title>
+      <link>/publication/brunswicker-microstructure-2019/</link>
+      <pubDate>Sun, 01 Dec 2019 00:00:00 +0000</pubDate>
+      <guid>/publication/brunswicker-microstructure-2019/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Spatial and Temporal Separation in Coordination Structures in OSS</title>
+      <link>/publication/brunswicker-spatial-2018/</link>
+      <pubDate>Sun, 01 Jul 2018 00:00:00 +0000</pubDate>
+      <guid>/publication/brunswicker-spatial-2018/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Functional Coordination in Developer’s Network in Open Source Software</title>
+      <link>/publication/mukherjee-functional-2018/</link>
+      <pubDate>Fri, 01 Jun 2018 00:00:00 +0000</pubDate>
+      <guid>/publication/mukherjee-functional-2018/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The Dynamics of Design Microstructures in Open Collaboration: A Motif Perspective</title>
+      <link>/publication/brunswicker-dynamics-2018/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>/publication/brunswicker-dynamics-2018/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Problem-centric Network Embeddedness and Productivity in Open Source Software Communities</title>
+      <link>/publication/brunswicker-problem-centric-2017/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>/publication/brunswicker-problem-centric-2017/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Open Source Software practices</title>
+      <link>/project/open-source-software-practices/</link>
+      <pubDate>Fri, 09 Jul 2010 22:24:08 +0000</pubDate>
+      <guid>/project/open-source-software-practices/</guid>
+      <description>&lt;p&gt;&lt;img src=&#34;./OSS-graph.jpg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+&lt;p&gt;The study aims to understand how Open Source Software practices are evolving by focusing on studying a prominent community &amp;lsquo;OpenStack&amp;rsquo; that is effectively using the latest practices.&lt;/p&gt;
+&lt;h3 id=&#34;modeling-complex-open-source-software-structures-as-networks&#34;&gt;Modeling Complex Open Source Software Structures as Networks&lt;/h3&gt;
+&lt;p&gt;Reflecting the commitment to foster and build Open Source Software practices, Red Hat Inc. sponsors a two-year Red Hat fellowship for Discovery Park&amp;rsquo;s Research Center for Open Digital Innovation (RCODI).&lt;/p&gt;
+&lt;p&gt;Red Hat Inc. provided a 100,000$ gift to Purdue to advance in this field led by technology and innovation professor Sabine Brunswicker. The objective of Red Hat funding this fellowship is to establish itself as a &amp;ldquo;significant catalyst of open-digital innovation ecosystems and communities research intended to answer questions critical to the sustainable impact of open standards and open-source and novel open forms of innovation and production in a broader sense,&amp;rdquo; Brunswicker said. Open Source Software is lately gaining traction in fields that traditionally were considered to be close as telecommunication, health care, or even banking. Therefore, this fellowship is divided in two different stages. The first stage is to understand how Open Source Software practices are evolving by focusing on studying a prominent community &amp;lsquo;OpenStack&amp;rsquo; that is effectively using the latest practices.&lt;/p&gt;
+&lt;p&gt;OpenStack is a set of software tools for managing and building public and private cloud computing platform. The second stage is researching how these practices can be applied to other fields as telecommunications. Through the fellowship research on architecture, governance and behaviors of heterogeneous open-innovation communities as OpenStack will be examined. Research results will be shared with Red Hat as part of a collaborative dialogue between these two groups.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

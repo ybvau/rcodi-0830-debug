@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Marlen Promann | RCODI</title>
+    <link>/people/marlen-promann/</link>
+      <atom:link href="/people/marlen-promann/index.xml" rel="self" type="application/rss+xml" />
+    <description>Marlen Promann</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>Purdue Research Center for Open Digital Innovation © 2022</copyright>
+    <image>
+      <url>/people/marlen-promann/avatar_hub9854aa23f7f7b4c148cf339bba1e13f_25439_270x270_fill_lanczos_center_2.png</url>
+      <title>Marlen Promann</title>
+      <link>/people/marlen-promann/</link>
+    </image>
+    
+    <item>
+      <title>Eco-Feedback Design: A Systematic Review</title>
+      <link>/publication/promann-eco-feedback-nodate/</link>
+      <pubDate>Mon, 12 Apr 2021 16:48:53 +0000</pubDate>
+      <guid>/publication/promann-eco-feedback-nodate/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The Effect of Proximity in Social Data Charts on Perceived Group Unity</title>
+      <link>/publication/promann-effect-2018/</link>
+      <pubDate>Mon, 01 Oct 2018 00:00:00 +0000</pubDate>
+      <guid>/publication/promann-effect-2018/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Affordances Of Eco-Feedback Design in Home Energy Context</title>
+      <link>/publication/promann-affordances-2017/</link>
+      <pubDate>Tue, 01 Aug 2017 00:00:00 +0000</pubDate>
+      <guid>/publication/promann-affordances-2017/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

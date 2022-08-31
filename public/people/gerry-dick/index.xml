@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Gerry Dick | RCODI</title>
+    <link>/people/gerry-dick/</link>
+      <atom:link href="/people/gerry-dick/index.xml" rel="self" type="application/rss+xml" />
+    <description>Gerry Dick</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>Purdue Research Center for Open Digital Innovation © 2022</copyright><lastBuildDate>Sat, 01 Aug 2015 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/media/logo_hue831a1547d228cf33d75a995b069998a_11256_300x300_fit_lanczos_2.png</url>
+      <title>Gerry Dick</title>
+      <link>/people/gerry-dick/</link>
+    </image>
+    
+    <item>
+      <title>Purdue, Red Hat Collaborating</title>
+      <link>/publication/dick-purdue-2015/</link>
+      <pubDate>Sat, 01 Aug 2015 00:00:00 +0000</pubDate>
+      <guid>/publication/dick-purdue-2015/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

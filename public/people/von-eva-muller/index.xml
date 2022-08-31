@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Von Eva Müller | RCODI</title>
+    <link>/people/von-eva-muller/</link>
+      <atom:link href="/people/von-eva-muller/index.xml" rel="self" type="application/rss+xml" />
+    <description>Von Eva Müller</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>Purdue Research Center for Open Digital Innovation © 2022</copyright><lastBuildDate>Mon, 01 Jul 2013 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/media/logo_hue831a1547d228cf33d75a995b069998a_11256_300x300_fit_lanczos_2.png</url>
+      <title>Von Eva Müller</title>
+      <link>/people/von-eva-muller/</link>
+    </image>
+    
+    <item>
+      <title>Tapping into the global ‘brain’ (German title: Volkes intelligenz nutzen)</title>
+      <link>/publication/muller-tapping-2013/</link>
+      <pubDate>Mon, 01 Jul 2013 00:00:00 +0000</pubDate>
+      <guid>/publication/muller-tapping-2013/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

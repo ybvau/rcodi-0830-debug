@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>E. Bertino | RCODI</title>
+    <link>/people/e.-bertino/</link>
+      <atom:link href="/people/e.-bertino/index.xml" rel="self" type="application/rss+xml" />
+    <description>E. Bertino</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>Purdue Research Center for Open Digital Innovation © 2022</copyright><lastBuildDate>Thu, 01 Jan 2015 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/media/logo_hue831a1547d228cf33d75a995b069998a_11256_300x300_fit_lanczos_2.png</url>
+      <title>E. Bertino</title>
+      <link>/people/e.-bertino/</link>
+    </image>
+    
+    <item>
+      <title>Big Data for Open Digital Innovation – A Research Roadmap</title>
+      <link>/publication/brunswicker-big-2015/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
+      <guid>/publication/brunswicker-big-2015/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

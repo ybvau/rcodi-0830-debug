@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Sorin Matei | RCODI</title>
+    <link>/people/sorin-matei/</link>
+      <atom:link href="/people/sorin-matei/index.xml" rel="self" type="application/rss+xml" />
+    <description>Sorin Matei</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>Purdue Research Center for Open Digital Innovation © 2022</copyright><lastBuildDate>Fri, 01 Jan 2016 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/media/logo_hue831a1547d228cf33d75a995b069998a_11256_300x300_fit_lanczos_2.png</url>
+      <title>Sorin Matei</title>
+      <link>/people/sorin-matei/</link>
+    </image>
+    
+    <item>
+      <title>Digital Innovation in eScience: The Effect of Digital Practice on Traditional Citation-Based Scientific Recognition</title>
+      <link>/publication/brunswicker-digital-2016/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      <guid>/publication/brunswicker-digital-2016/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

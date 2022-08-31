@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Purdue News Huchel | RCODI</title>
+    <link>/people/purdue-news-huchel/</link>
+      <atom:link href="/people/purdue-news-huchel/index.xml" rel="self" type="application/rss+xml" />
+    <description>Purdue News Huchel</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>Purdue Research Center for Open Digital Innovation © 2022</copyright><lastBuildDate>Sun, 01 Oct 2017 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/media/logo_hue831a1547d228cf33d75a995b069998a_11256_300x300_fit_lanczos_2.png</url>
+      <title>Purdue News Huchel</title>
+      <link>/people/purdue-news-huchel/</link>
+    </image>
+    
+    <item>
+      <title>Purdue faculty, Indiana housing pair up to research energy use - Purdue University</title>
+      <link>/publication/huchel-purdue-2017/</link>
+      <pubDate>Sun, 01 Oct 2017 00:00:00 +0000</pubDate>
+      <guid>/publication/huchel-purdue-2017/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

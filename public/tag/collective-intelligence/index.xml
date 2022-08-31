@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Collective Intelligence | RCODI</title>
+    <link>/tag/collective-intelligence/</link>
+      <atom:link href="/tag/collective-intelligence/index.xml" rel="self" type="application/rss+xml" />
+    <description>Collective Intelligence</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>Purdue Research Center for Open Digital Innovation © 2022</copyright><lastBuildDate>Mon, 28 Jun 2021 21:32:09 +0000</lastBuildDate>
+    <image>
+      <url>/media/logo_hue831a1547d228cf33d75a995b069998a_11256_300x300_fit_lanczos_2.png</url>
+      <title>Collective Intelligence</title>
+      <link>/tag/collective-intelligence/</link>
+    </image>
+    
+    <item>
+      <title>Spotlight Feature: Elkady, Patel, Dr. Brunswicker present about skills &amp; platform engagement</title>
+      <link>/post/2021-06-29-feny-mai-paper/</link>
+      <pubDate>Mon, 28 Jun 2021 21:32:09 +0000</pubDate>
+      <guid>/post/2021-06-29-feny-mai-paper/</guid>
+      <description>&lt;blockquote&gt;
+&lt;p&gt;RCODI Fellows Mai Elkady, Feny Patel, and RCODI Director Dr. Sabine Brunswicker recently wrote about research on skills and engagement relative to Collective Intelligence. The three were  and were invited to present at the &lt;a href=&#34;https://www.acm-ci2021.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;2021 ACM-CI Conference&lt;/a&gt; to present their findings.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;The paper covers the role of skills and platform engagement within a crowdsourcing platform. The three researchers used data generated from the Purdue IronHacks project. Their methods include using a variety of machine learning models (survival with Kaplan-Meier estimator, K-means &amp;amp; centroids derived from Ward&amp;rsquo;s agglomerative hierarchical clustering) to understand temporal engagement, provile skillsets and engagement, and to build predictive user submission models.&lt;/p&gt;
+&lt;p&gt;Elkady, Patel, and Dr. Brunswicker will be presenting research on June 29th between 15.00-16.00 Central European Time. Find more about the program &lt;a href=&#34;https://www.acm-ci2021.com/program&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;on the ACM-Ci website&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Learn more about IronHacks and participate in Data Science Challenges at &lt;a href=&#34;https://ironhacks.com&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;ironhacks.com&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;
+&lt;hr&gt;
+&lt;h3 id=&#34;did-you-find-this-page-helpful-consider-sharing-it-&#34;&gt;Did you find this page helpful? Consider sharing it 🙌&lt;/h3&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

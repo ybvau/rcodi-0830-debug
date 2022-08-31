@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Purdue Today | RCODI</title>
+    <link>/people/purdue-today/</link>
+      <atom:link href="/people/purdue-today/index.xml" rel="self" type="application/rss+xml" />
+    <description>Purdue Today</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>Purdue Research Center for Open Digital Innovation © 2022</copyright><lastBuildDate>Sun, 01 Nov 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/media/logo_hue831a1547d228cf33d75a995b069998a_11256_300x300_fit_lanczos_2.png</url>
+      <title>Purdue Today</title>
+      <link>/people/purdue-today/</link>
+    </image>
+    
+    <item>
+      <title>Hackathon to research some local COVID-19 risks using data science</title>
+      <link>/publication/today-hackathon-2020/</link>
+      <pubDate>Sun, 01 Nov 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/today-hackathon-2020/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

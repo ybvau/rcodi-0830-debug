@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Feny Patel | RCODI</title>
+    <link>/people/feny-patel/</link>
+      <atom:link href="/people/feny-patel/index.xml" rel="self" type="application/rss+xml" />
+    <description>Feny Patel</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>Purdue Research Center for Open Digital Innovation © 2022</copyright>
+    <image>
+      <url>/people/feny-patel/avatar_hu13fb17f9a243632bf99275eb55915ad9_153773_270x270_fill_q75_lanczos_center.jpg</url>
+      <title>Feny Patel</title>
+      <link>/people/feny-patel/</link>
+    </image>
+    
+    <item>
+      <title>Why do participants submit to COVID-19 data science challenges?</title>
+      <link>/publication/brunswicker-why-nodate/</link>
+      <pubDate>Mon, 12 Apr 2021 16:49:22 +0000</pubDate>
+      <guid>/publication/brunswicker-why-nodate/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

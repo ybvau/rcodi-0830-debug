@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Sam Bucolo | RCODI</title>
+    <link>/people/sam-bucolo/</link>
+      <atom:link href="/people/sam-bucolo/index.xml" rel="self" type="application/rss+xml" />
+    <description>Sam Bucolo</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>Purdue Research Center for Open Digital Innovation © 2022</copyright><lastBuildDate>Tue, 01 Jan 2013 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/media/logo_hue831a1547d228cf33d75a995b069998a_11256_300x300_fit_lanczos_2.png</url>
+      <title>Sam Bucolo</title>
+      <link>/people/sam-bucolo/</link>
+    </image>
+    
+    <item>
+      <title>Business Model Experimentation: What is the Role of Design_led Prototyping in Developing Novel Business Models?</title>
+      <link>/publication/brunswicker-business-2013/</link>
+      <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
+      <guid>/publication/brunswicker-business-2013/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>What is the role of design-led prototyping in developing novel business models</title>
+      <link>/publication/brunswicker-what-2012/</link>
+      <pubDate>Sun, 01 Jul 2012 00:00:00 +0000</pubDate>
+      <guid>/publication/brunswicker-what-2012/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

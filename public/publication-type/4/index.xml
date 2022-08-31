@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>4 | RCODI</title>
+    <link>/publication-type/4/</link>
+      <atom:link href="/publication-type/4/index.xml" rel="self" type="application/rss+xml" />
+    <description>4</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>Purdue Research Center for Open Digital Innovation © 2022</copyright><lastBuildDate>Mon, 01 Dec 2014 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/media/logo_hue831a1547d228cf33d75a995b069998a_11256_300x300_fit_lanczos_2.png</url>
+      <title>4</title>
+      <link>/publication-type/4/</link>
+    </image>
+    
+    <item>
+      <title>Standardization Through Formal and Informal Standard Development Organizations</title>
+      <link>/publication/brunswicker-standardization-2014-1/</link>
+      <pubDate>Mon, 01 Dec 2014 00:00:00 +0000</pubDate>
+      <guid>/publication/brunswicker-standardization-2014-1/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Managing open innovation in large firms</title>
+      <link>/publication/chesbrough-managing-2013/</link>
+      <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
+      <guid>/publication/chesbrough-managing-2013/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>ImPRovE: High-impact innovation management consulting services for small and medium-sized enterprises (SMEs)</title>
+      <link>/publication/engel-improve-2012/</link>
+      <pubDate>Sun, 01 Jan 2012 00:00:00 +0000</pubDate>
+      <guid>/publication/engel-improve-2012/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Gaining competitiveness with innovations beyond technology and products</title>
+      <link>/publication/brunswicker-gaining-2011/</link>
+      <pubDate>Sat, 01 Jan 2011 00:00:00 +0000</pubDate>
+      <guid>/publication/brunswicker-gaining-2011/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>ImPRovE. A European project with impact. 50 success stories on innovation management</title>
+      <link>/publication/engel-improve-2010/</link>
+      <pubDate>Fri, 01 Jan 2010 00:00:00 +0000</pubDate>
+      <guid>/publication/engel-improve-2010/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Innovation management in high-growth SMEs from the knowledge-intensive services (KIS). Setting the pace for growth in Europe</title>
+      <link>/publication/brunswicker-innovation-2010/</link>
+      <pubDate>Fri, 01 Jan 2010 00:00:00 +0000</pubDate>
+      <guid>/publication/brunswicker-innovation-2010/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Insights on innovation management in Europe. Tangible results from ImPRovE</title>
+      <link>/publication/engel-insights-2008/</link>
+      <pubDate>Tue, 01 Jan 2008 00:00:00 +0000</pubDate>
+      <guid>/publication/engel-insights-2008/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

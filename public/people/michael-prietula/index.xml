@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Michael Prietula | RCODI</title>
+    <link>/people/michael-prietula/</link>
+      <atom:link href="/people/michael-prietula/index.xml" rel="self" type="application/rss+xml" />
+    <description>Michael Prietula</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>Purdue Research Center for Open Digital Innovation © 2022</copyright><lastBuildDate>Wed, 01 Jan 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/media/logo_hue831a1547d228cf33d75a995b069998a_11256_300x300_fit_lanczos_2.png</url>
+      <title>Michael Prietula</title>
+      <link>/people/michael-prietula/</link>
+    </image>
+    
+    <item>
+      <title>The Upside of Strategic Misalignment: The Interplay between Platform Transparency and Developers’ Design Strategy on Open Digital Platforms for Innovation</title>
+      <link>/publication/brunswicker-upside-2020/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/brunswicker-upside-2020/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Re-use in Open Crowds: Linking Empirical and Computational Approaches</title>
+      <link>/publication/brunswicker-re-use-2017/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>/publication/brunswicker-re-use-2017/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Transparency and Reuse in Digital Innovation Contests: A Simulation Study</title>
+      <link>/publication/brunswicker-transparency-2017/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>/publication/brunswicker-transparency-2017/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

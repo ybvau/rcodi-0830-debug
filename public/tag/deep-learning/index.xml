@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Deep Learning | RCODI</title>
+    <link>/tag/deep-learning/</link>
+      <atom:link href="/tag/deep-learning/index.xml" rel="self" type="application/rss+xml" />
+    <description>Deep Learning</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>Purdue Research Center for Open Digital Innovation © 2022</copyright><lastBuildDate>Thu, 22 Feb 2018 02:05:32 +0000</lastBuildDate>
+    <image>
+      <url>/media/logo_hue831a1547d228cf33d75a995b069998a_11256_300x300_fit_lanczos_2.png</url>
+      <title>Deep Learning</title>
+      <link>/tag/deep-learning/</link>
+    </image>
+    
+    <item>
+      <title>Energy Project</title>
+      <link>/project/energy-project/</link>
+      <pubDate>Thu, 22 Feb 2018 02:05:32 +0000</pubDate>
+      <guid>/project/energy-project/</guid>
+      <description>
+&lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
+  &lt;iframe src=&#34;https://www.youtube.com/embed/kqKnGQuLmIw&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; allowfullscreen title=&#34;YouTube Video&#34;&gt;&lt;/iframe&gt;
+&lt;/div&gt;
+
+&lt;hr&gt;
+&lt;h2 id=&#34;energyvis&#34;&gt;ENERGY/Vis&lt;/h2&gt;
+&lt;h4 id=&#34;social-perceptions-in-home-energy-graphs&#34;&gt;Social Perceptions in Home Energy Graphs&lt;/h4&gt;
+&lt;p&gt;Our information is increasingly data based and our decisions are increasingly guided by data graphs, charts and visualizations. Yet, the dominantly individualist data presentation perspectives utilized in current feedback systems have failed to leverage social behavioral theories to design technologically mediated feedback that could enhance individuals&#39; awareness of and their willingness to cooperate with the digitally interconnected others.&lt;/p&gt;
+&lt;p&gt;The ENERGYVIS Project was created to gain deeper insight into how the visual structure of a data graph affects the interpretation and comprehension of the data the chart represents and how they might nudge us to more cooperative choices. Little research has examined the role data visualization design plays in shaping behavior in the context of collective action (e.g., recycling, energy conservation, public protest, juries or organizational committees) that require cooperation and pooling of efforts of individual members, often on a voluntary basis. In such dilemmas, everybody is better off if individuals align with the group goal; however, these tasks typically fail because many do not align with the group&amp;rsquo;s goal. In addition to visual encoding patterns to enhance individuals&#39; social awareness and cooperation, this project will offer resources for new cognitive and perceptual experiments.&lt;/p&gt;
+&lt;h2 id=&#34;products-and&#34;&gt;Products and&lt;/h2&gt;
+&lt;h4 id=&#34;contributions&#34;&gt;Contributions:&lt;/h4&gt;
+&lt;p&gt;&lt;img src=&#34;./Product-1-demo-app.jpg&#34; alt=&#34;Product 1 - demo app&#34;&gt;&lt;/p&gt;
+&lt;p&gt;1 home energy monitoring app.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;./Product-2-gestalt-placeholder.gif&#34; alt=&#34;Product 2 - gestalt placeholder&#34;&gt;&lt;/p&gt;
+&lt;p&gt;1 set of unifying design patterns.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;./Product-3-vis-game.png&#34; alt=&#34;Product 3 - vis game&#34;&gt;&lt;/p&gt;
+&lt;p&gt;1 new infovis game model.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;./Product-4-D3-graphs.gif&#34; alt=&#34;Product 4 - D3 graphs&#34;&gt;&lt;/p&gt;
+&lt;p&gt;10s of new D3.js graphs.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;./Product-5-many-games.png&#34; alt=&#34;Product 5 - many games&#34;&gt;&lt;/p&gt;
+&lt;p&gt;10s of behavioral games.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;./Product-6-lab-study.jpg&#34; alt=&#34;Product 6 - lab study&#34;&gt;&lt;/p&gt;
+&lt;p&gt;10s of lab studies.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;./Product-7-Amazon-Turk.png&#34; alt=&#34;Product 7 - Amazon Turk&#34;&gt;&lt;/p&gt;
+&lt;p&gt;100s of on Amazon Mechanical Turk workers.&lt;/p&gt;
+&lt;h4 id=&#34;data&#34;&gt;Data:&lt;/h4&gt;
+&lt;p&gt;&lt;img src=&#34;./Product-8-annotations.png&#34; alt=&#34;Product 8 - annotations&#34;&gt;&lt;/p&gt;
+&lt;p&gt;100s of annotations.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;./Product-9-unity-measurements.png&#34; alt=&#34;Product 9 - unity measurements&#34;&gt;&lt;/p&gt;
+&lt;p&gt;100s of perceived group unity measurements.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;./Product-10-descriptions.png&#34; alt=&#34;Product 10 - descriptions&#34;&gt;&lt;/p&gt;
+&lt;p&gt;1,000s of graph descriptions.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;./Product-11-decisions.png&#34; alt=&#34;Product 11 - decisions&#34;&gt;&lt;/p&gt;
+&lt;p&gt;1,000s of graph based decisions&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;./Product-12-eyetracking-data.png&#34; alt=&#34;Product 12 - eyetracking data&#34;&gt;&lt;/p&gt;
+&lt;p&gt;10,000 of eye fixations&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;./Product-13-code.png&#34; alt=&#34;Product 13 - code&#34;&gt;&lt;/p&gt;
+&lt;p&gt;10,000s of code lines( see our Github)&lt;/p&gt;
+&lt;p&gt;Request our data&lt;/p&gt;
+&lt;h2 id=&#34;our-experiments&#34;&gt;Our Experiments&lt;/h2&gt;
+&lt;p&gt;Research has shown that data based feedback has the potential to make people more aware and cognizant of their synergy decisions. What is lacking is the consideration of the subtle ways in which design details of data based charts frame how people perceive, understand and act in response to the feedback charts.&lt;/p&gt;
+&lt;p&gt;We extend visual perception theory by borrowing from group identity literature, which suggests that perceiving a unified group is required for group alignment and continued commitment. So, we hypothesize that seeing and identifying with a perceivably unified group can sustain users&#39; energy conservation efforts. We use social computational methods to study the effects of visual graph structures and motion effects on graph perceptions, interpretations and user actions and consolidate a set of design patterns.&lt;/p&gt;
+&lt;h2 id=&#34;perception-and-interpretation-experiments&#34;&gt;Perception and Interpretation Experiments.&lt;/h2&gt;
+&lt;p&gt;We marry theories of visual perception and group identity to deliver theory driven chart designs that support collective awareness. Our perceptual experiments explore how these visual graph structures increase the perception of group unity.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://smartenergygame.github.io/EnergyCharts/index.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Explore our Gestalt Graphs&lt;/a&gt;&lt;/p&gt;
+&lt;h2 id=&#34;behavioural-game-studies-focused-on-action&#34;&gt;Behavioural Game Studies Focused on Action.&lt;/h2&gt;
+&lt;p&gt;We build on existing behavioral game literature and propose a new visualization oriented game framework. We use the behavioral game to explore how the visual graph structures nudge individuals to more cooperative behaviors.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://smart-energy-game.herokuapp.com/demo/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Demo our behavioral game&lt;/a&gt;&lt;/p&gt;
+&lt;h2 id=&#34;lab-studies-with-eye-tracking&#34;&gt;Lab Studies with Eye Tracking.&lt;/h2&gt;
+&lt;p&gt;We seek to better understand the link between perceiveinng a data visualization and how interpretinng the unnderlying data is mediated by visual graph structures.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://smartenergygame.github.io/EnergyMonitorDemo/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Explore our Motion Graphs&lt;/a&gt;&lt;/p&gt;
+&lt;h2 id=&#34;publications&#34;&gt;Publications&lt;/h2&gt;
+&lt;h4 id=&#34;when-using-our-work-please-cite-our-papers&#34;&gt;When using our work please cite our papers&lt;/h4&gt;
+&lt;p&gt;&lt;strong&gt;JOURNAL&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;A Framework for Eco-Feedback Design For Home Energy Interactions&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Marlen Promann, and Sabine Brunswicker (2018) ACM Transactions on Computer-Human Interaction, (forthcoming).&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;CONFERENCES&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;The Effect of Enclosure in Group Charts on Perceived Unity.&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Marlen Promann, and Sabine Brunswicker (forthcoming) CSCW, New Jersey, NY, USA, November 3-7&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;The Effect of Proximal Data Structure on Perceived Group Unity&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Marlen Promann, and Sabine Brunswicker (forthcoming) IEEEVis VAST, Berlin, Germany, October.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Affordances of Eco-Feedback Design in Home Energy Context&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Marlen Promann, and Sabine Brunswicker (2017) AMCIS, Boston, MA, USA, 10-12 August.&lt;/p&gt;
+&lt;h2 id=&#34;say-hi&#34;&gt;Say, Hi!&lt;/h2&gt;
+&lt;p&gt;Please reach out to us with feedback, suggestions, data and collaboration requests.&lt;/p&gt;
+&lt;p&gt;We love this inspiring track of civic design work and look forward to hearing from you.&lt;/p&gt;
+&lt;h4 id=&#34;dr-sabine-brunswicker&#34;&gt;Dr. Sabine Brunswicker&lt;/h4&gt;
+&lt;p&gt;Associate Professor, Director Research Center for Digital Innovation (RCODI)&lt;/p&gt;
+&lt;p&gt;sabine.brunswicker at gmail dot com&lt;/p&gt;
+&lt;h4 id=&#34;marlen-promman&#34;&gt;Marlen Promman&lt;/h4&gt;
+&lt;p&gt;PhD Design Researcher, RCODI Research Fellow&lt;/p&gt;
+&lt;p&gt;marlen.promann at gmail dot com&lt;/p&gt;
+&lt;h4 id=&#34;jesus-enrique&#34;&gt;Jesus Enrique&lt;/h4&gt;
+&lt;p&gt;Aldana Sigona&lt;/p&gt;
+&lt;p&gt;Game Developer&lt;/p&gt;
+&lt;p&gt;RCODI Research Fellow&lt;/p&gt;
+&lt;p&gt;aldana.sigona at gmail dot com&lt;/p&gt;
+&lt;h4 id=&#34;daniel-fernando&#34;&gt;Daniel Fernando&lt;/h4&gt;
+&lt;p&gt;Santos Bustos&lt;/p&gt;
+&lt;p&gt;Software Engineer&lt;/p&gt;
+&lt;p&gt;RCODI Research Fellow&lt;/p&gt;
+&lt;p&gt;dfsantosbu at unal dot edu dot co&lt;/p&gt;
+&lt;p&gt;Note: For graph and game codes, please visit out &lt;a href=&#34;https://github.com/SmartEnergyGame&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;GitHub repository &lt;/a&gt;&lt;/p&gt;
+&lt;h3 id=&#34;acknowledgements&#34;&gt;Acknowledgements&lt;/h3&gt;
+&lt;p&gt;This work has been supported in part by the National Science Foundation (NSF) under Smart and Connected Communities grant, Office of the Executive Vice President for Research at Purdue University, and Purdue Discovery Park&amp;rsquo;s Big Idea Challenge awards. This work has also been made possible by the critical feedback of RCODI team at large.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

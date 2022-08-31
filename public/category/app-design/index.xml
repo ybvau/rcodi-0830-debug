@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>app-design | RCODI</title>
+    <link>/category/app-design/</link>
+      <atom:link href="/category/app-design/index.xml" rel="self" type="application/rss+xml" />
+    <description>app-design</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>Purdue Research Center for Open Digital Innovation © 2022</copyright><lastBuildDate>Mon, 12 Nov 2018 20:30:29 +0000</lastBuildDate>
+    <image>
+      <url>/media/logo_hue831a1547d228cf33d75a995b069998a_11256_300x300_fit_lanczos_2.png</url>
+      <title>app-design</title>
+      <link>/category/app-design/</link>
+    </image>
+    
+    <item>
+      <title>Nudging people in good behavior with data: the opportunity of “white” design patterns in social data visualizations</title>
+      <link>/post/5665-nudging/</link>
+      <pubDate>Mon, 12 Nov 2018 20:30:29 +0000</pubDate>
+      <guid>/post/5665-nudging/</guid>
+      <description>&lt;p&gt;&lt;img src=&#34;https://rcodi.org/wp-content/uploads/2018/11/Capture.png&#34; alt=&#34;&#34;&gt; An accidental subscription to an unwanted newsletter. Extra items in your cart your never added. The seemingly impossible task of deactivating your account on a service you no longer use. All of the above are examples of dark design patterns, or “dark UX,” where the design of a website or application is meant to benefit the brand rather than the user—even at the expense of the latter. Dark design patterns are actually a type of digital nudging, creating user-interface in a way that influences the audience’s choices. While being subconsciously influenced by what we use seems frightening, what if we could influence people to do good? left no-repeat;center top;; &lt;img src=&#34;https://rcodi.org/wp-content/uploads/2018/11/DpjjZFKX4AE5NQG.png&#34; alt=&#34;&#34;&gt; That is one of the core ideas to Dr. Sabine Brunswicker and Marlen Promann’s research in The Effect of Proximity in Social Data Charts on Perceived Utility. Brunswicker and Promann discuss findings on the dissonance between visual structure and statistical structure, and how its misuse tends to result in misinterpretations. However, when used correctly, visual elements such as charts can actually elicit responses of unity and overcome certain problems such as social loafing—when certain members in a group get benefits from the group’s accomplishments despite not actively contributing like the other members. With this effect, people could be prompted to care more for larger issues that most of us tend to ignore such as sustainability. left no-repeat;center top;; 289787716 700 400 This research has opened the way for future projects on what could be called “white UX”, or design that influences its consumers to become more selfless. Through their work on visual elements and how charts can promote unity among its viewers, they have discovered a new possibility to potentially solving macro-scale social issues. left no-repeat;center top;; If you are interested in learning more, check out &lt;a href=&#34;https://www.youtube.com/watch?v=oyfW1kkSsGg&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;this video&lt;/a&gt; showing a practical application of data visualization, developed as part of the broader NSF grant this research is connected, or &lt;a href=&#34;http://ieeevis.org/year/2018/info/papers&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;this link&lt;/a&gt; to the IEEE Information Visualization Conference where this work was presented. left no-repeat;center top;;&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

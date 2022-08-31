@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>J. M. Leimeister | RCODI</title>
+    <link>/people/j.-m.-leimeister/</link>
+      <atom:link href="/people/j.-m.-leimeister/index.xml" rel="self" type="application/rss+xml" />
+    <description>J. M. Leimeister</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>Purdue Research Center for Open Digital Innovation © 2022</copyright><lastBuildDate>Fri, 01 Aug 2014 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/media/logo_hue831a1547d228cf33d75a995b069998a_11256_300x300_fit_lanczos_2.png</url>
+      <title>J. M. Leimeister</title>
+      <link>/people/j.-m.-leimeister/</link>
+    </image>
+    
+    <item>
+      <title>Resolving the debate on competition versus collaboration in open innovation crowds’</title>
+      <link>/publication/brunswicker-resolving-2014/</link>
+      <pubDate>Fri, 01 Aug 2014 00:00:00 +0000</pubDate>
+      <guid>/publication/brunswicker-resolving-2014/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

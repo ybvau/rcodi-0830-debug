@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Bjorn Jensen | RCODI</title>
+    <link>/people/bjorn-jensen/</link>
+      <atom:link href="/people/bjorn-jensen/index.xml" rel="self" type="application/rss+xml" />
+    <description>Bjorn Jensen</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>Purdue Research Center for Open Digital Innovation © 2022</copyright><lastBuildDate>Wed, 01 Oct 2014 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/media/logo_hue831a1547d228cf33d75a995b069998a_11256_300x300_fit_lanczos_2.png</url>
+      <title>Bjorn Jensen</title>
+      <link>/people/bjorn-jensen/</link>
+    </image>
+    
+    <item>
+      <title>The Paradox of Transparency in Online Collaboration for Innovation</title>
+      <link>/publication/jensen-paradox-2014/</link>
+      <pubDate>Wed, 01 Oct 2014 00:00:00 +0000</pubDate>
+      <guid>/publication/jensen-paradox-2014/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

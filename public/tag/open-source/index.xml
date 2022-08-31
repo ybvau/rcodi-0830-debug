@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Open Source | RCODI</title>
+    <link>/tag/open-source/</link>
+      <atom:link href="/tag/open-source/index.xml" rel="self" type="application/rss+xml" />
+    <description>Open Source</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>Purdue Research Center for Open Digital Innovation © 2022</copyright><lastBuildDate>Thu, 27 May 2021 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/media/logo_hue831a1547d228cf33d75a995b069998a_11256_300x300_fit_lanczos_2.png</url>
+      <title>Open Source</title>
+      <link>/tag/open-source/</link>
+    </image>
+    
+    <item>
+      <title>AOM Best Paper Proceedings for RCODI</title>
+      <link>/post/6601-best-paper-award-aom/</link>
+      <pubDate>Thu, 27 May 2021 00:00:00 +0000</pubDate>
+      <guid>/post/6601-best-paper-award-aom/</guid>
+      <description>&lt;p&gt;The &lt;a href=&#34;www.aom.org&#34;&gt;Academy of Management (AOM)&lt;/a&gt; recently honored Dr. Sabine Brunswicker and her collaborator Dr. Saytam Mukherjee for their research on coordination technology development and innovation in complex organizational settings like Open Source Software (OSS), in which a large number of developers work at distance, at different time zones, and outside of formal employment relationships. They specifically focus on software development in &lt;a href=&#34;www.openstack.com&#34;&gt;OpenStack&lt;/a&gt;, one of the most widely deployed open source cloud software in the world. Their paper with the title &lt;strong&gt;Evolution of Coordination Structures in Open Source Software Development: An Exponential Random Graph Model&lt;/strong&gt; was honored with a Best Paper Proceedings Award of the 81st Annual Meeting of the Academy of
+Management (29 July - 4 August 2021). It was judged as one the best accepted papers following a double-blinded review process.&lt;/p&gt;
+&lt;p&gt;In this paper, Brunswicker &amp;amp; Mukherjee examine how two relational mechanisms - preferential attachment and knowledge similarity - predict the formation of Open-Source Software (OSS) coordination structures as they evolve over time. Drawing upon methods in network science and machine learning, they specify and implement an Exponential Random Graph Model (p*) using data from 619 developers in Nova, OpenStack, working on 2597 Python files between 2012 and 2016. Throughout all evolutionary stages,  the results of the computational model furnish statistical evidence of positive non-linear preferential attachment causing skewed distributions distinct from a power-law. Knowledge similarity has a significantly positive effect but impacts only early stages of coordination. The paper&amp;rsquo;s findings advance the literature on OSS and digital innovation more broadly. The findings also inform practice of coordinating distributed work in software development and other technology-intensive settings more broadly.&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;/blockquote&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

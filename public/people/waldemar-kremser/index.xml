@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Waldemar Kremser | RCODI</title>
+    <link>/people/waldemar-kremser/</link>
+      <atom:link href="/people/waldemar-kremser/index.xml" rel="self" type="application/rss+xml" />
+    <description>Waldemar Kremser</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>Purdue Research Center for Open Digital Innovation © 2022</copyright><lastBuildDate>Mon, 12 Apr 2021 16:49:19 +0000</lastBuildDate>
+    <image>
+      <url>/media/logo_hue831a1547d228cf33d75a995b069998a_11256_300x300_fit_lanczos_2.png</url>
+      <title>Waldemar Kremser</title>
+      <link>/people/waldemar-kremser/</link>
+    </image>
+    
+    <item>
+      <title>The Continuous Transformation of Interdependence in Networks of Routines</title>
+      <link>/publication/kremser-continuous-nodate/</link>
+      <pubDate>Mon, 12 Apr 2021 16:49:19 +0000</pubDate>
+      <guid>/publication/kremser-continuous-nodate/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The Continuous Transformation of Interdependence in Networks of Routines</title>
+      <link>/publication/kremser-continuous-2019/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>/publication/kremser-continuous-2019/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

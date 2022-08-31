@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Artificial Intelligence | RCODI</title>
+    <link>/tag/artificial-intelligence/</link>
+      <atom:link href="/tag/artificial-intelligence/index.xml" rel="self" type="application/rss+xml" />
+    <description>Artificial Intelligence</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>Purdue Research Center for Open Digital Innovation © 2022</copyright><lastBuildDate>Mon, 03 Dec 2018 18:33:16 +0000</lastBuildDate>
+    <image>
+      <url>/media/logo_hue831a1547d228cf33d75a995b069998a_11256_300x300_fit_lanczos_2.png</url>
+      <title>Artificial Intelligence</title>
+      <link>/tag/artificial-intelligence/</link>
+    </image>
+    
+    <item>
+      <title>FACT</title>
+      <link>/project/fact/</link>
+      <pubDate>Mon, 03 Dec 2018 18:33:16 +0000</pubDate>
+      <guid>/project/fact/</guid>
+      <description>&lt;h2 id=&#34;what-is-fact&#34;&gt;What is FACT?&lt;/h2&gt;
+&lt;p&gt;The Federated-AI for Communication and Trust (FACT) platform is envisioned to be an open, federated AI that will continuously evaluate professional and civic news streams, assign trust rating to content and sources, and progressively adjust their ratings as new and also untold stories are generated and shared.&lt;/p&gt;
+&lt;h2 id=&#34;how-does-it-work&#34;&gt;How does it work?&lt;/h2&gt;
+&lt;p&gt;FACT integrates an assemble of AI models that augment the memory and the &amp;ldquo;intelligence&amp;rdquo; of users. It&amp;rsquo;s a distributed AI platform that federates through self-organization and novel human-AI interaction design&lt;/p&gt;
+&lt;p&gt;FACT episodic memory engine&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Stores historical facts and sources of news&lt;/li&gt;
+&lt;li&gt;Traces news content and degree of distortion over time&lt;/li&gt;
+&lt;li&gt;Assigns trust rating&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;FACT intelligence engine&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Generates narratives based on facts&lt;/li&gt;
+&lt;li&gt;Produces counterfactuals and &amp;ldquo;untold&amp;rdquo; stories&lt;/li&gt;
+&lt;li&gt;Rates trust rating of new articles&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;facts-impact&#34;&gt;FACT&amp;rsquo;S Impact&lt;/h2&gt;
+&lt;p&gt;The primary audience of FACT are ~ 30 % of the citizens living in the U.S, who are active on the social media. Using  textual, chart-based as well as conversational interactive feedback, FACT&amp;rsquo;s interface can influence end-user interpretations as well news creation, prompting continued action (such as further propagation of fact-based retweets and stories, or writing of news article).&lt;/p&gt;
+&lt;p&gt;Consumers&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Literacy about AI and distortion of news content&lt;/li&gt;
+&lt;li&gt;Increased trust in news&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Civic and Professional Journalists&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Confidence in writing trustworthy stories&lt;/li&gt;
+&lt;li&gt;Attention to untold stories&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;AI Community&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;New models for federated AI combining agent-based modeling, GAN, and human-AI interaction/design&lt;/li&gt;
+&lt;li&gt;Behavioral studies/insights&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;facts-deliverables&#34;&gt;FACT&amp;rsquo;s Deliverables&lt;/h2&gt;
+&lt;p&gt;&lt;strong&gt;Novel FACT platform distributed AI with novel human-AI interaction design:&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Memory engine (Hebbian learning &amp;amp; agent-based simulation)&lt;/li&gt;
+&lt;li&gt;Intelligence engine (generative adversarial networks &amp;amp; agent-based modeling)&lt;/li&gt;
+&lt;li&gt;Human-AI interaction design&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;Data and evaluation from controlled experiments with 500+ citizens:&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Lab &amp;amp; field experiments&lt;/li&gt;
+&lt;li&gt;Testing effect of FACT for citizens vis-à-vis professional writers&lt;/li&gt;
+&lt;li&gt;Impact measures: literacy, perceived trust, confidence, and behavioral change&lt;/li&gt;
+&lt;li&gt;~250 new FACT-based stories&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;FACT channel reporting to broader audience:&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;News produced with FACT by citizen journalists&lt;/li&gt;
+&lt;li&gt;Co-authored work with advisory board&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

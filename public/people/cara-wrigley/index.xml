@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Cara Wrigley | RCODI</title>
+    <link>/people/cara-wrigley/</link>
+      <atom:link href="/people/cara-wrigley/index.xml" rel="self" type="application/rss+xml" />
+    <description>Cara Wrigley</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>Purdue Research Center for Open Digital Innovation © 2022</copyright><lastBuildDate>Tue, 01 Jan 2013 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/media/logo_hue831a1547d228cf33d75a995b069998a_11256_300x300_fit_lanczos_2.png</url>
+      <title>Cara Wrigley</title>
+      <link>/people/cara-wrigley/</link>
+    </image>
+    
+    <item>
+      <title>Business Model Experimentation: What is the Role of Design_led Prototyping in Developing Novel Business Models?</title>
+      <link>/publication/brunswicker-business-2013/</link>
+      <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
+      <guid>/publication/brunswicker-business-2013/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

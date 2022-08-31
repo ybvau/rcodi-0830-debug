@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Brigid O&#39; Brien | RCODI</title>
+    <link>/people/brigid-o-brien/</link>
+      <atom:link href="/people/brigid-o-brien/index.xml" rel="self" type="application/rss+xml" />
+    <description>Brigid O&#39; Brien</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>Purdue Research Center for Open Digital Innovation © 2022</copyright><lastBuildDate>Fri, 01 Dec 2017 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/media/logo_hue831a1547d228cf33d75a995b069998a_11256_300x300_fit_lanczos_2.png</url>
+      <title>Brigid O&#39; Brien</title>
+      <link>/people/brigid-o-brien/</link>
+    </image>
+    
+    <item>
+      <title>Polytechnic student takes top IronHacker honor</title>
+      <link>/publication/o-brien-polytechnic-2017/</link>
+      <pubDate>Fri, 01 Dec 2017 00:00:00 +0000</pubDate>
+      <guid>/publication/o-brien-polytechnic-2017/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

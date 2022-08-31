@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Elizabeth Thompson | RCODI</title>
+    <link>/people/elizabeth-thompson/</link>
+      <atom:link href="/people/elizabeth-thompson/index.xml" rel="self" type="application/rss+xml" />
+    <description>Elizabeth Thompson</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>Purdue Research Center for Open Digital Innovation © 2022</copyright>
+    <image>
+      <url>/people/elizabeth-thompson/avatar_hu002ea246bead48ddf289a94cf1c8df05_20338_270x270_fill_q75_lanczos_center.jpg</url>
+      <title>Elizabeth Thompson</title>
+      <link>/people/elizabeth-thompson/</link>
+    </image>
+    
+  </channel>
+</rss>

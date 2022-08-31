@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Andrei Gurca Andrei | RCODI</title>
+    <link>/people/andrei-gurca-andrei/</link>
+      <atom:link href="/people/andrei-gurca-andrei/index.xml" rel="self" type="application/rss+xml" />
+    <description>Andrei Gurca Andrei</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>Purdue Research Center for Open Digital Innovation © 2022</copyright><lastBuildDate>Mon, 12 Apr 2021 16:48:50 +0000</lastBuildDate>
+    <image>
+      <url>/media/logo_hue831a1547d228cf33d75a995b069998a_11256_300x300_fit_lanczos_2.png</url>
+      <title>Andrei Gurca Andrei</title>
+      <link>/people/andrei-gurca-andrei/</link>
+    </image>
+    
+    <item>
+      <title>Problem Types and Open Innovation Governance Modes: A Project-level Empirical Exploration</title>
+      <link>/publication/bagherzadeh-problem-nodate/</link>
+      <pubDate>Mon, 12 Apr 2021 16:48:50 +0000</pubDate>
+      <guid>/publication/bagherzadeh-problem-nodate/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

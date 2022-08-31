@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Danny Sierra González | RCODI</title>
+    <link>/people/danny-sierra-gonzalez/</link>
+      <atom:link href="/people/danny-sierra-gonzalez/index.xml" rel="self" type="application/rss+xml" />
+    <description>Danny Sierra González</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>Purdue Research Center for Open Digital Innovation © 2022</copyright>
+    <image>
+      <url>/people/danny-sierra-gonzalez/avatar_hu8f50fe304ffd67c7e1639e0025c02108_26637_270x270_fill_q75_lanczos_center.jpg</url>
+      <title>Danny Sierra González</title>
+      <link>/people/danny-sierra-gonzalez/</link>
+    </image>
+    
+  </channel>
+</rss>

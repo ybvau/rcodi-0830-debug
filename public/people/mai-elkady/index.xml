@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Mai Elkady | RCODI</title>
+    <link>/people/mai-elkady/</link>
+      <atom:link href="/people/mai-elkady/index.xml" rel="self" type="application/rss+xml" />
+    <description>Mai Elkady</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>Purdue Research Center for Open Digital Innovation © 2022</copyright>
+    <image>
+      <url>/people/mai-elkady/avatar_hu64d51657e761a23e2acf6c48f4c88f32_45292_270x270_fill_q75_lanczos_center.jpg</url>
+      <title>Mai Elkady</title>
+      <link>/people/mai-elkady/</link>
+    </image>
+    
+    <item>
+      <title>Why do participants submit to COVID-19 data science challenges?</title>
+      <link>/publication/brunswicker-why-nodate/</link>
+      <pubDate>Mon, 12 Apr 2021 16:49:22 +0000</pubDate>
+      <guid>/publication/brunswicker-why-nodate/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

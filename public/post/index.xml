@@ -1,0 +1,1139 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts | RCODI</title>
+    <link>/post/</link>
+      <atom:link href="/post/index.xml" rel="self" type="application/rss+xml" />
+    <description>Posts</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>Purdue Research Center for Open Digital Innovation © 2022</copyright>
+    <image>
+      <url>/media/logo_hue831a1547d228cf33d75a995b069998a_11256_300x300_fit_lanczos_2.png</url>
+      <title>Posts</title>
+      <link>/post/</link>
+    </image>
+    
+    <item>
+      <title>Dr. Brunswicker to panel about bridging art and science</title>
+      <link>/post/innovation-post/</link>
+      <pubDate>Wed, 27 Oct 2021 00:00:00 +0000</pubDate>
+      <guid>/post/innovation-post/</guid>
+      <description>&lt;h3 id=&#34;icis-panel-bridging-art-and-science-in-digital-innovation-transformation-and-entrepreneurship&#34;&gt;ICIS Panel: Bridging Art and Science in Digital Innovation, Transformation, and Entrepreneurship&lt;/h3&gt;
+&lt;p&gt;Dr. Brunswicker will be paneling at the 2021 ICIS on the synergy between art and science in digital innovation, transformation, and enterepreneurship (DITE). Joined by five additional scholars, Dr. Brunswicker cover topics relevant to the bridge of art and sciences in theorizing, discussing art-science theorizing within the DITE environment, and talk about how research centers can impact the research progres on this novel yet largely unexplored phenomenon.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Spotlight Feature: Elkady, Patel, Dr. Brunswicker present about skills &amp; platform engagement</title>
+      <link>/post/2021-06-29-feny-mai-paper/</link>
+      <pubDate>Mon, 28 Jun 2021 21:32:09 +0000</pubDate>
+      <guid>/post/2021-06-29-feny-mai-paper/</guid>
+      <description>&lt;blockquote&gt;
+&lt;p&gt;RCODI Fellows Mai Elkady, Feny Patel, and RCODI Director Dr. Sabine Brunswicker recently wrote about research on skills and engagement relative to Collective Intelligence. The three were  and were invited to present at the &lt;a href=&#34;https://www.acm-ci2021.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;2021 ACM-CI Conference&lt;/a&gt; to present their findings.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;The paper covers the role of skills and platform engagement within a crowdsourcing platform. The three researchers used data generated from the Purdue IronHacks project. Their methods include using a variety of machine learning models (survival with Kaplan-Meier estimator, K-means &amp;amp; centroids derived from Ward&amp;rsquo;s agglomerative hierarchical clustering) to understand temporal engagement, provile skillsets and engagement, and to build predictive user submission models.&lt;/p&gt;
+&lt;p&gt;Elkady, Patel, and Dr. Brunswicker will be presenting research on June 29th between 15.00-16.00 Central European Time. Find more about the program &lt;a href=&#34;https://www.acm-ci2021.com/program&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;on the ACM-Ci website&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Learn more about IronHacks and participate in Data Science Challenges at &lt;a href=&#34;https://ironhacks.com&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;ironhacks.com&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;
+&lt;hr&gt;
+&lt;h3 id=&#34;did-you-find-this-page-helpful-consider-sharing-it-&#34;&gt;Did you find this page helpful? Consider sharing it 🙌&lt;/h3&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>AOM Best Paper Proceedings for RCODI</title>
+      <link>/post/6601-best-paper-award-aom/</link>
+      <pubDate>Thu, 27 May 2021 00:00:00 +0000</pubDate>
+      <guid>/post/6601-best-paper-award-aom/</guid>
+      <description>&lt;p&gt;The &lt;a href=&#34;www.aom.org&#34;&gt;Academy of Management (AOM)&lt;/a&gt; recently honored Dr. Sabine Brunswicker and her collaborator Dr. Saytam Mukherjee for their research on coordination technology development and innovation in complex organizational settings like Open Source Software (OSS), in which a large number of developers work at distance, at different time zones, and outside of formal employment relationships. They specifically focus on software development in &lt;a href=&#34;www.openstack.com&#34;&gt;OpenStack&lt;/a&gt;, one of the most widely deployed open source cloud software in the world. Their paper with the title &lt;strong&gt;Evolution of Coordination Structures in Open Source Software Development: An Exponential Random Graph Model&lt;/strong&gt; was honored with a Best Paper Proceedings Award of the 81st Annual Meeting of the Academy of
+Management (29 July - 4 August 2021). It was judged as one the best accepted papers following a double-blinded review process.&lt;/p&gt;
+&lt;p&gt;In this paper, Brunswicker &amp;amp; Mukherjee examine how two relational mechanisms - preferential attachment and knowledge similarity - predict the formation of Open-Source Software (OSS) coordination structures as they evolve over time. Drawing upon methods in network science and machine learning, they specify and implement an Exponential Random Graph Model (p*) using data from 619 developers in Nova, OpenStack, working on 2597 Python files between 2012 and 2016. Throughout all evolutionary stages,  the results of the computational model furnish statistical evidence of positive non-linear preferential attachment causing skewed distributions distinct from a power-law. Knowledge similarity has a significantly positive effect but impacts only early stages of coordination. The paper&amp;rsquo;s findings advance the literature on OSS and digital innovation more broadly. The findings also inform practice of coordinating distributed work in software development and other technology-intensive settings more broadly.&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;/blockquote&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>RCODI Welcomes Manthan Keim!</title>
+      <link>/post/welcome_manthan/</link>
+      <pubDate>Thu, 06 May 2021 00:00:00 +0000</pubDate>
+      <guid>/post/welcome_manthan/</guid>
+      <description>&lt;h3 id=&#34;a-new-member-joined-the-team&#34;&gt;A new member joined the team!&lt;/h3&gt;
+&lt;p&gt;RCODI Welcomes Manthan Keim to join the research center. Manthan will be starting his Masters within the Polytechnic&amp;rsquo;s TLI branch studying in Digital Innovation with Dr. Brunswicker as his advisor.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>We need you to hack COVID 2.0</title>
+      <link>/post/ih2.0/</link>
+      <pubDate>Thu, 06 May 2021 00:00:00 +0000</pubDate>
+      <guid>/post/ih2.0/</guid>
+      <description>&lt;h4 id=&#34;the-day-youve-been-waiting-for-is-here--the-spring-and-summer-ironhacks-data-science-challenge-is-live-and-society-needs-your-help&#34;&gt;The day you&amp;rsquo;ve been waiting for is here – the Spring and Summer IronHacks Data Science Challenge is live, and society needs your help.&lt;/h4&gt;
+&lt;p&gt;As vaccines are distributed and society is returning to the norm, data scientists seasoned and new are using the IronHacks platform to make an impact in the community by predicting what the foot traffic at COVID hotspots will be over time. While hacking for social cause over the course of two months, top participants have a shot at winning a share of $1,000 in prizes for developing insightful models policymakers can reference to protect communities.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Your challenge:&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Predict which restaurants in Tippecanoe and Marion counties should expect the highest number of visits as COVID-19 restrictions decrease.&lt;/li&gt;
+&lt;li&gt;Use actual data that is updated on a weekly basis to build explanatory and communicable models to help citizens, business owners and policymakers better understand where – and why – social activity is occurring.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;p&gt;&lt;strong&gt;What prior participants have said&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;&amp;ldquo;The takeaway from the hackathon was that I could interact with everyone, but the energy was so healthy and holistic in the way things progressed. We wanted to create a societal impact and not just get to the top. You can literally get inspired by other solutions and then try to implement in your own model. This is a better way to go about it.&amp;rdquo; - Dhruvi Shah&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&amp;ldquo;The excitement to know how my model would perform after every round kept me enthused till the end! These predictions can give insights into social distancing norms and implement necessary precautions.&amp;rdquo; - Feny Patel&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;p&gt;&lt;strong&gt;Questions?&lt;/strong&gt;
+Reach out to the IronHacks team &lt;a href=&#34;mailto:d27b1045.groups.purdue.edu@amer.teams.ms&#34;&gt;here&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;What are you waiting for?&lt;/strong&gt;
+&lt;a href=&#34;https://ironhacks.com&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Ready to hack for social good?&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;-&lt;em&gt;IronHacks Team&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Helping Hack for Social Change&lt;/em&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Director Brunswicker featured in WSJ article on open innovation</title>
+      <link>/post/dir-feature-wsj/</link>
+      <pubDate>Tue, 23 Mar 2021 21:32:09 +0000</pubDate>
+      <guid>/post/dir-feature-wsj/</guid>
+      <description>&lt;p&gt;Looking for something to read?&lt;/p&gt;
+&lt;p&gt;Director Brunswicker was recently interviewed by the Wall Street Journal for an article on cooperative innovation sponsored by Huawei. She and other well-respected members of the innovation community gave statements on the importance of open-source software and cooperative innovation.&lt;/p&gt;
+&lt;p&gt;Read it here: &lt;a href=&#34;https://partners.wsj.com/huawei/the-global-innovation-engine/why-game-changing-innovation-requires-cooperation/&#34;&gt;https://partners.wsj.com/huawei/the-global-innovation-engine/why-game-changing-innovation-requires-cooperation/&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>New EdSurge Podcast Series Features RCODI Director</title>
+      <link>/post/6600-new-edsurge-podcast-series-features-rcodi-director/</link>
+      <pubDate>Sat, 29 Aug 2020 01:39:23 +0000</pubDate>
+      <guid>/post/6600-new-edsurge-podcast-series-features-rcodi-director/</guid>
+      <description>&lt;p&gt;In a new podcast series from EdSurge, RCODI Director, Professor Sabine Brunswicker, shares her experience teaching at the Purdue Polytechnic Institute during the Fall 2020 semester amidst the ongoing COVID-19 pandemic. Along with other professors from around the country, including Purdue&amp;rsquo;s Dr. Deborah Nichols, Associate Professor of Human Development and Family Studies, and Purdue student Joseph Ching, these individuals are creating digital diaries of their experiences on campus. Find out what the educational experience is like from their perspective in the &lt;a href=&#34;https://www.edsurge.com/research/guides/pandemic-campus-diaries-a-podcast-series&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;first episode&lt;/a&gt;&lt;a href=&#34;https://www.edsurge.com/research/guides/pandemic-campus-diaries-a-podcast-series?fbclid=IwAR2rMUdCD0HfyUKMnfdcSsd96xFMuJPVOr4Sr57U8HUR-mjTvyLu46QcvG4&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;.&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>RCODI’s Director Co-organizing a Virtual LIVE workshop on Digital Transformation at AOM</title>
+      <link>/post/6595-rcodis-director-co-organizing-a-virtual-live-workshop-on-digital-transformation-at-aom/</link>
+      <pubDate>Sat, 08 Aug 2020 01:16:33 +0000</pubDate>
+      <guid>/post/6595-rcodis-director-co-organizing-a-virtual-live-workshop-on-digital-transformation-at-aom/</guid>
+      <description>&lt;p&gt;Our director is participating on the 80th annual meeting of the &lt;a href=&#34;https://aom.org/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Academy of Management&lt;/a&gt;.   What’s new is that this year the meeting is virtual. She will be a co-organizer of a LIVE Professional Development Workshop “What’s New About Digital Transformation? Exploring Interdisciplinary, Multi-Level Research Ideas,” along with five other experts from Switzerland, Italy, Denmark and Germany.  More than 250 have signed up to participate in the virtual workshop so we are eager how this virtual experience on a timely topic will play out!&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Thought Leadership and Digital Innovation in Times of Crisis</title>
+      <link>/post/6576-thought-leadership-and-digital-innovation-in-times-of-crisis/</link>
+      <pubDate>Tue, 30 Jun 2020 02:23:55 +0000</pubDate>
+      <guid>/post/6576-thought-leadership-and-digital-innovation-in-times-of-crisis/</guid>
+      <description>&lt;p&gt;RCODI Director Sabine Brunswicker recently gave a &lt;a href=&#34;https://www.ispim-innovation.com/post/sabine-brunswicker-on-responding-to-the-crisis-with-digital-innovation&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;keynote talk&lt;/a&gt; as part of ISPIM’s &lt;a href=&#34;https://www.ispim-virtual.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;virtual conference&lt;/a&gt; on responding to the COVID-19 crisis. The virtual conference was held June 7-10, 2020 with many leading researchers and experts in the interdisciplinary fields of innovation. As a top thought leader in this area, she discussed her passion for researching about digital platforms, and the interplay between AI and human intelligence. During the talk, Professor Brunswicker shared details on how crowds can help in responding to this type of complex epidemiological and economic crisis through digital innovation. In particular, digital innovation via crowds can help reduce levels of uncertainty while also focusing attention on flexibility, diversity of ideas, sustainability and resource efficiency. Additionally, Professor Brunswicker highlights how crises can create certain unexpected events and changes which make traditional AI models fragile, thus benefiting from the human intelligence component.&lt;/p&gt;
+&lt;p&gt;The original talk was presented on June 9th, 2020, but recordings are available from ISPIM through July 15th, 2020.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Research on a &#34;Theory of Design Motifs&#34;</title>
+      <link>/post/6552-research-on-a-theory-of-design-motifs/</link>
+      <pubDate>Sat, 02 May 2020 14:16:47 +0000</pubDate>
+      <guid>/post/6552-research-on-a-theory-of-design-motifs/</guid>
+      <description>&lt;p&gt;Our Director Sabine Brunswicker and RCODI fellow Satyam Mukherjee have been &lt;a href=&#34;https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3568249&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;working on a paper&lt;/a&gt; that proposes a theory of design network motifs and conducts an empirical examination of this phenomena utilizing data from the Open Stack repository NOVA. The results of the study contribute to existing literature on design architecture as well as open collaboration by offering an explanation of hidden dependencies within a complex system architecture.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>RCODI Director to Present Virtual Keynote at ISPIM Conference</title>
+      <link>/post/6546-rcodi-director-to-present-virtual-keynote-at-ispim-conference/</link>
+      <pubDate>Fri, 24 Apr 2020 20:12:09 +0000</pubDate>
+      <guid>/post/6546-rcodi-director-to-present-virtual-keynote-at-ispim-conference/</guid>
+      <description>&lt;p&gt;RCODI Director Sabine Brunswicker is scheduled to present a keynote talk on open digital innovation at the &lt;a href=&#34;https://www.ispim-virtual.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;ISPIM Virtual Conference&lt;/a&gt; being hosted June 7-10, 2020. The role of digital technologies, AI and distributed innovation to resolve societal challenges is especially critical at this time and Prof. Brunswicker will share insights from her research and experience as they relate to the conference theme of “Innovating in Times of Crisis.”&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Welcome to our new PhD student at RCODI</title>
+      <link>/post/6532-welcome-to-our-new-phd-student-at-rcodi/</link>
+      <pubDate>Mon, 13 Apr 2020 18:36:55 +0000</pubDate>
+      <guid>/post/6532-welcome-to-our-new-phd-student-at-rcodi/</guid>
+      <description>&lt;p&gt;In May 2020, Jia Cheoh was accepted as PhD student of Professor Sabine Brunswicker. Jia will be graduating this semester with a Bachelor’s degree from the &lt;a href=&#34;https://www.cs.purdue.edu/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Department of Computer Science&lt;/a&gt; with a focus in software engineering and notes, “I am excited to get started with this new journey!” She has been supporting the research efforts of Professor Brunswicker over the last few years including the &lt;a href=&#34;https://ironhacks.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;IronHacks&lt;/a&gt; project. Along with her work at RCODI, Jia has experience with the &lt;a href=&#34;https://www.rcac.purdue.edu/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Purdue Supercomputing Center&lt;/a&gt;, Google, and various startups including her own company.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>PLOS ONE Call for Papers: Cities as Complex Systems</title>
+      <link>/post/6536-plos-one-call-for-papers-cities-as-complex-systems/</link>
+      <pubDate>Wed, 08 Apr 2020 19:25:31 +0000</pubDate>
+      <guid>/post/6536-plos-one-call-for-papers-cities-as-complex-systems/</guid>
+      <description>&lt;p&gt;&lt;em&gt;Cities are centers of human interactions and the innovations that arise from them. Urbanization has led to many positive developments for society, but also contributes to many of our most pressing challenges, from sustainability and climate change to poverty and inequality. Concepts from complex systems and network theory provide valuable approaches to further our understanding of the processes which drive how cities form, grow, and operate as environments which are more than the sum of their parts. With its commitment to open access, and rigorous, reproducible research,&lt;/em&gt; &lt;a href=&#34;https://journals.plos.org/plosone/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;em&gt;PLOS ONE&lt;/em&gt;&lt;/a&gt; &lt;em&gt;is the ideal venue for interdisciplinary complexity science.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Our director, an academic editor of PLOS ONE in the area of network science/complex systems is excited to announce a Call for Papers on Cities as Complex Systems, bringing together researchers across scientific disciplines to build a collection of complex systems and networks research applied to questions in urban science. Our Guest Editors Marta González and Diego Rybski are particularly interested in reading research on urban mobility and energy infrastructures, the morphology and efficiency of cities, and applications to sustainable development goals.&lt;em&gt;Topics may include but are not limited to urban mobility and migration, urban scaling laws, social networks within cities, urban resilience, financial networks within and between cities, smart cities and internet-of-things, and agent-based models of urban phenomena. More details can be found &lt;a href=&#34;https://collections.plos.org/s/cities&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;em&gt;here&lt;/em&gt;&lt;/a&gt;&lt;/em&gt;. The submission deadline is July 3, 2020.&lt;/em&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>New scholar assistants from Colombia arrived to RCODI</title>
+      <link>/post/6308-new-scholar-assistants-from-colombia-arrive-to-rcodi/</link>
+      <pubDate>Fri, 25 Oct 2019 14:05:14 +0000</pubDate>
+      <guid>/post/6308-new-scholar-assistants-from-colombia-arrive-to-rcodi/</guid>
+      <description>&lt;h2 id=&#34;new-scholar-assistants-from-colombia-arrived-to-rcodi&#34;&gt;New scholar assistants from Colombia arrived to RCODI&lt;/h2&gt;
+&lt;p&gt;After running the last version of The Ironhacks contest at Universidad Nacional de Colombia early this year, Cristian Baquero (left on the picture), winner on the Best Solution category, and Alejandro Díaz (left on the picture), Student ambassador of RCODI at Universidad Nacional de Colombia, arrived at Purdue University to assist the Ironhacks Team on research activities.&lt;/p&gt;
+&lt;p&gt;Both are students of Systems and Computing engineering at Universidad Nacional.&lt;/p&gt;
+&lt;p&gt;This is the first time Cristian visit the United States; &amp;ldquo;I am very grateful for the opportunity to be here at Purdue, I hope I can learn from Professor Brunswicker a lot and to experience the culture of this country&amp;rdquo; says Cristian.&lt;/p&gt;
+&lt;p&gt;Both students will be at campus till January 6th 2020.&lt;/p&gt;
+&lt;p&gt;For Alejandro, this is the second time he came to the States to assist the team as main software developer. He designed and programed the new version of The Ironhacks Platform, a web application that is used to run programing marathons online, which is the main tool used by the team to gather data. &amp;ldquo;I&amp;rsquo;m here to continue the development process with the team, we aim to run a contest around the world with hundreds of people participating at the same time, this is a very ambitious project!&amp;rdquo; he says.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Student Clerical Job at RCODI Available!</title>
+      <link>/post/5892-student-clerical-job-at-rcodi-available/</link>
+      <pubDate>Sun, 06 Oct 2019 18:51:23 +0000</pubDate>
+      <guid>/post/5892-student-clerical-job-at-rcodi-available/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Officially Full Professor - Congratulations to Our Director</title>
+      <link>/post/5896-ironhacks-2019/</link>
+      <pubDate>Wed, 27 Mar 2019 23:10:46 +0000</pubDate>
+      <guid>/post/5896-ironhacks-2019/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;https://rcodi.org/wp-content/uploads/2019/03/69C73358-1DD8-42E7-88CB-64EF7012846D.jpg&#34;&gt;https://rcodi.org/wp-content/uploads/2019/03/69C73358-1DD8-42E7-88CB-64EF7012846D.jpg&lt;/a&gt; UNAL Students pose for a picture at the awards ceremony &lt;a href=&#34;https://rcodi.org/wp-content/uploads/2019/03/6EEA0899-6AEB-451A-94D5-41DDFD6706C0.jpg&#34;&gt;https://rcodi.org/wp-content/uploads/2019/03/6EEA0899-6AEB-451A-94D5-41DDFD6706C0.jpg&lt;/a&gt; Ironhacks staff Alejandro Vecchio poses with award winners. The National University of Colombia (UNAL) proved to be a triumphant setting once again for the Research Center for Open Digital Innovation. UNAL students participated in the Spring 2019 Purdue IronHacks competition and were challenged to create an app to help university students find safe and affordable housing in the New York area. For the first treatment group, José Fernando Morantes Florez, Jhonatan Sandoval Velasco, Juan Pulido won first, second, and third respectively; Cristian Adolfo Baquero Pico, Cristian Alejandro Mantilla Duque, and Julián David Rodríguez Ruíz won first second, and third respectively for the second treatment group. With the support from the National Science Foundation and other partners such as Amazon, Red Hat, and the state of Indiana, Purdue IronHacks has undoubtedly made its impact on the global open data movement. no-repeat;center top;; Professor Nicolás Múnera Garzón, a professor at the UNAL whose students participated in Ironhacks, said he was grateful for the opportunity it provided. no-repeat;center top;; “Purdue IronHacks was a great experience for me as a teacher. Students enrolled in the software engineering class with me didn&amp;rsquo;t only learn about the common approach about crafting software that fulfills all technical requirements, they learned also this real need of delivering for real users,” Garzón said. “I&amp;rsquo;m glad and thankful that we worked with incredible people up there at Purdue. The team was always attentive and supporting making the experience even better, so I take this opportunity just to say, thank you! All of you, Alejandro, Sabine, Sebastian&amp;hellip; All of you who were involved with this initiative!” no-repeat;center top;; The IronHacks team has already received emails asking for Ironhacks to continue one more year. no-repeat;center top;; Below, you can find a testimonial video of our winner, Cristian Aldolfo. no-repeat;center top;; About Ironhacks: IronHacks is an 8-week class that combines active learning and app development with a real-world open data competition. It was designed to make hackers familiar with open data released by federal agencies and corporations. Further, it aims to trigger user-centered design of data-driven interfaces with graphs and maps that support end-user decision making. During the 5-stage iterative virtual competition, students utilize open data to create novel and useful online applications (apps) for citizens in areas such as housing, healthcare, etc. Competing participants have access to tutorials, standardized libraries and packages, and virtual help sessions. While they are engaging in an active learning process, their apps are being evaluated using automated techniques and expert judgement. Real time and targeted feedback accelerate their learning process as well as improve their programing skills and their ability to hack complex problems with open data and open standards. no-repeat;center top;; uA19asPOOos 700 400&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>PhD Candidate Marlen Promann Successfully Defends Dissertation Proposal</title>
+      <link>/post/5855-phd-candidate-marlen-promann-successfully-defends-dissertation-proposal/</link>
+      <pubDate>Thu, 31 Jan 2019 21:18:22 +0000</pubDate>
+      <guid>/post/5855-phd-candidate-marlen-promann-successfully-defends-dissertation-proposal/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;https://rcodi.org/wp-content/uploads/2019/01/ACM-CHI-2018.jpg&#34;&gt;https://rcodi.org/wp-content/uploads/2019/01/ACM-CHI-2018.jpg&lt;/a&gt; At the end of last year, on 20th December 2018, Marlen Promann, a Purdue Independent Interdisciplinary PhD candidate (IIGP) , defended her PhD dissertation proposal wherein she asked normative questions about how social data charts support collective awareness and encourage sustainable action in the personal home context. no-repeat;center top;; Promann is interested in the explosive rise of personal data and how they are visualized to end users, nudging them to change their everyday behaviors. Inspired by Elinor Ostrom and her theory of Collective Action, Promann is passionate about leveraging technologies to empower people to collectively manage societal well-fare. Hence,her dissertation explores how charts that depict social data may encourage cooperation around societal issues like recycling, energy conservation, sustainability, social inclusion, etc. that often present users with social dilemmas about doing good in the long term or benefiting oneself in the short term. Ms. Promann uniquely blends her 10+ years of design experience (BA HonsDesign, 2005) and her social scientific research training(MSc Media and Communications, 2010) to integrate perceptual theories of design with social psychological theories to develop theoretical assumptions about how charts may convey the semantics of ‘socialunity’ that may enhance contributions to group goals. Her controlled perceptual experiments confirmed her first hypotheses that particular visual chart structures can indeed enhance perceptions of group unity;however, she found them to have particular semantic meanings of unity (room for more intriguing research). She is now working on a series of behavioral game experiments to see if such perceptual interpretive differences by chart designs can also lead to variable conservation behaviors. no-repeat;center top;; Her dissertation will make three major contributions to three different fields: (1)Pertinent to the Visualization community, Marlen’s findings highlight the importance of encoding data with appropriate visual structures and cues that support rather than contradict the message of the underlying data and/or the goal of the data feedback. (2)Uniquely to the HCI and design communities, Marlen deep dived into the psychological and perceptual theories to inform her chart designs and to empirically measure the causal effects of her designs on the end users. This empirical rigor is what has long been needed to truly test the many novel ideas that emerge within the HCI and design communities. (3)Despite prior efforts to connect the design (HCI) and behavioral science (environmental psychology, smart buildings, energy, etc.), Marlen’s work is at the forefront of connecting theory driven design with empirical evidence of specific visual cues in a design affecting behavior change. (4)Last, but not least, her efforts to leverage behavioral games to test how visual chart design may prime users to cooperate more in social dilemma situations is new to the present games literature that has largely focused on text based feedback. no-repeat;center top;; If you found this interesting, feel free to check out more about the opportunity that positive nudging can have in &lt;a href=&#34;rcodi.org/nudging&#34;&gt;this article.&lt;/a&gt; no-repeat;center top;;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Understanding collaboration in open source platforms</title>
+      <link>/post/5816-open-source/</link>
+      <pubDate>Fri, 21 Dec 2018 00:51:04 +0000</pubDate>
+      <guid>/post/5816-open-source/</guid>
+      <description>&lt;p&gt;&lt;img src=&#34;https://rcodi.org/wp-content/uploads/2018/03/11_3-2X1.jpg&#34; alt=&#34;&#34;&gt; Everything in life can be connected to a pattern. Whether it be in the way the golden ratio is correlated with growth in shells or how the Pythagorean model is the reason we have stable structures, nature will always hold the key to predicting our own behavior and understanding more about ourselves. It is with this idea that &lt;a href=&#34;https://rcodi.org/ourpeople&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Dr. Sabine Brunswicker and Dr. Satyam Mukherjee&lt;/a&gt; set off to model dynamics between others in design and collaboration. Using the concept of &lt;a href=&#34;https://papers.ssrn.com/sol3/papers.cfm?abstract_id=313965&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;motif structures&lt;/a&gt;, something typically used for describing and organizing href=&amp;ldquo;&lt;a href=&#34;http://science.sciencemag.org/content/298/5594/824%3Ebiological&#34;&gt;http://science.sciencemag.org/content/298/5594/824&amp;gt;biological&lt;/a&gt; systems, the two analyzed how files are linked instead, gaining insight into the collaborative design of source code. left no-repeat;center top;; When reprogramming and re-purposing a certain design part through modifying source files, each individual splits, augments, and inverts which change design interdependence among a small set of files. With this research, we will be able to understand the micro-level design actions that underpin the evolution of a large design artifact developed in fluid organizational forms like open source collaboration. In there, individuals self-select into tasks and make design decisions using simple heuristics (rather than real-option informed design choices). left no-repeat;center top;; Dr. Mukherjee presented their work at the Indian Institute of Management Ahmadabad this month at the international conference on &lt;a href=&#34;http://science.sciencemag.org/content/298/5594/824&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Network Science in Economics and Finance. &lt;/a&gt; left no-repeat;center top;;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Nudging people in good behavior with data: the opportunity of “white” design patterns in social data visualizations</title>
+      <link>/post/5665-nudging/</link>
+      <pubDate>Mon, 12 Nov 2018 20:30:29 +0000</pubDate>
+      <guid>/post/5665-nudging/</guid>
+      <description>&lt;p&gt;&lt;img src=&#34;https://rcodi.org/wp-content/uploads/2018/11/Capture.png&#34; alt=&#34;&#34;&gt; An accidental subscription to an unwanted newsletter. Extra items in your cart your never added. The seemingly impossible task of deactivating your account on a service you no longer use. All of the above are examples of dark design patterns, or “dark UX,” where the design of a website or application is meant to benefit the brand rather than the user—even at the expense of the latter. Dark design patterns are actually a type of digital nudging, creating user-interface in a way that influences the audience’s choices. While being subconsciously influenced by what we use seems frightening, what if we could influence people to do good? left no-repeat;center top;; &lt;img src=&#34;https://rcodi.org/wp-content/uploads/2018/11/DpjjZFKX4AE5NQG.png&#34; alt=&#34;&#34;&gt; That is one of the core ideas to Dr. Sabine Brunswicker and Marlen Promann’s research in The Effect of Proximity in Social Data Charts on Perceived Utility. Brunswicker and Promann discuss findings on the dissonance between visual structure and statistical structure, and how its misuse tends to result in misinterpretations. However, when used correctly, visual elements such as charts can actually elicit responses of unity and overcome certain problems such as social loafing—when certain members in a group get benefits from the group’s accomplishments despite not actively contributing like the other members. With this effect, people could be prompted to care more for larger issues that most of us tend to ignore such as sustainability. left no-repeat;center top;; 289787716 700 400 This research has opened the way for future projects on what could be called “white UX”, or design that influences its consumers to become more selfless. Through their work on visual elements and how charts can promote unity among its viewers, they have discovered a new possibility to potentially solving macro-scale social issues. left no-repeat;center top;; If you are interested in learning more, check out &lt;a href=&#34;https://www.youtube.com/watch?v=oyfW1kkSsGg&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;this video&lt;/a&gt; showing a practical application of data visualization, developed as part of the broader NSF grant this research is connected, or &lt;a href=&#34;http://ieeevis.org/year/2018/info/papers&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;this link&lt;/a&gt; to the IEEE Information Visualization Conference where this work was presented. left no-repeat;center top;;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>IronHacks Fellowship Fall 2018</title>
+      <link>/post/5554-fellowship2019/</link>
+      <pubDate>Wed, 26 Sep 2018 21:05:35 +0000</pubDate>
+      <guid>/post/5554-fellowship2019/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;https://rcodi.org/wp-content/uploads/2018/03/CODE-2X1.jpg&#34;&gt;https://rcodi.org/wp-content/uploads/2018/03/CODE-2X1.jpg&lt;/a&gt; center &lt;img src=&#34;https://rcodi.org/wp-content/uploads/2018/09/Logo_1.png&#34; alt=&#34;&#34;&gt;&lt;img src=&#34;https://rcodi.org/wp-content/uploads/2018/09/Logo_2.png&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+&lt;h1 id=&#34;rcodi-fellowship-fall-2018&#34;&gt;&lt;strong&gt;RCODI Fellowship Fall 2018&lt;/strong&gt;&lt;/h1&gt;
+&lt;h2 id=&#34;why-should-i-become-an-rcodi-undergraduate-fellow-for-fall-2018&#34;&gt;&lt;strong&gt;Why should I become an RCODI undergraduate fellow for Fall 2018?&lt;/strong&gt;&lt;/h2&gt;
+&lt;p&gt;&lt;strong&gt;Our state has a serious workforce problem. There more than 200,000 unfilled jobs and many counties are not taking the right measures to develop the skills of their residents. Do you want to make a change to our state’s workforce problem using data visualization? Become an undergraduate RCODI fellow for Fall 2018 (with a guaranteed stipend for the first 8 weeks) and join a cohort of other 30 to 50 students who want to use their creativity, technical skills, and analytical mind to make an impact on governments!&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Please review the following steps:&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;Read the information about the fellowship below.&lt;/li&gt;
+&lt;li&gt;Complete the registration form that is at the end of this page or direct link &lt;a href=&#34;https://rcodi.org/fellowship-registration-form/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;here&lt;/a&gt;&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h2 id=&#34;apply-here-httpsrcodiorgfellowship-registration-form&#34;&gt;Apply &lt;a href=&#34;https://rcodi.org/fellowship-registration-form/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;here&lt;/a&gt;&lt;/h2&gt;
+&lt;h2 id=&#34;how-is-the-fellowship-structured&#34;&gt;&lt;strong&gt;How is the fellowship structured?&lt;/strong&gt;&lt;/h2&gt;
+&lt;p&gt;The Research Center for Open Digital Innovation (RCODI) is collaborating with the Indiana Department of Workforce Development (DWD) to launch a unique data analytics fellowship program focused on the area of &lt;strong&gt;workforce analytics&lt;/strong&gt;. The fellowship is open for a cohort of undergraduate students enrolled at Purdue University (between 30 to 50 students will be admitted) that go through a two-stage program, including undergraduate research, in which they analyze, visualize and interactively display their results in web-based “app” to be used by policymakers for their decisions on workforce development in the state of Indiana.&lt;/p&gt;
+&lt;p&gt;The full program is structured in two phases. Phase 1 includes the 8-week program, in which undergraduate students explore open governmental data as well as workforce data available for the selected fellows only (e.g. skill-level, unfilled jobs, training opportunities). They will analyze, visualize the data, and make them actionable in an interactive web “app” using technologies like HTML, CSS, and D3.js (see cool data visualizations done in D3.js in Figure 1 below).&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://rcodi.org/wp-content/uploads/2018/09/Figure1_fellowship.png&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+&lt;p&gt;Figure 1: D3.js visualizations (&lt;a href=&#34;https://d3js.org/&#34;&gt;https://d3js.org/&lt;/a&gt;)&lt;/p&gt;
+&lt;p&gt;The goal is to develop an interactive app that is used by the governmental actors and agencies when making important workforce-related decisions. The first phase is set-up as hacking challenge run by RCODI, in which a cohort of 30 to 50 students go through a structured training and tutorial program, and then participate in 5 iterative hacking events, in which they use their creativity to develop novel and useful workforce apps. Depending on performance in the first 8 weeks, Phase 2 includes the opportunity for a longer-term fellowship follow-on for selected top students to deepen their analysis and advance their project further individually or in a small team setting.&lt;/p&gt;
+&lt;p&gt;The first phase lasts 8 weeks and is structured in distinct phases visualized in the figure below. It starts with pre-training sessions to familiarize participants with technologies (e.g. APIs, D3.js) needed, followed by a 5-stage iterative on-campus competition. During this training period, you will also be familiarized with the DWD data during sessions run by representatives of the state, and a team of data scientists. Fellows will have access to tutorials, live help sessions, a social coding environment, and community features. Automatic hosting of apps, code evaluations, and workflow support for usability judging provides additional assistance to the hackers in agile design and prototyping.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://rcodi.org/wp-content/uploads/2018/09/Figure2_fellowship.png&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Figure 2: Process for phase 1 of the hacking program.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;The training period will start on October 12-14th. The competition portion of the fellowship will take place over 5 weekends in October and November (see below). Students will develop their apps in our lab setting on weekends: &lt;strong&gt;October 19-21&lt;/strong&gt;, &lt;strong&gt;October 26-28&lt;/strong&gt;, &lt;strong&gt;November 2-4&lt;/strong&gt;, &lt;strong&gt;November 9-11&lt;/strong&gt;, &lt;strong&gt;November 16-18&lt;/strong&gt;. Meeting times on weekends will be defined in coordination with fellows!&lt;/p&gt;
+&lt;h2 id=&#34;what-can-the-candidate-gain-from-the-fellowship&#34;&gt;&lt;strong&gt;What can the candidate gain from the fellowship?&lt;/strong&gt;&lt;/h2&gt;
+&lt;p&gt;As part of the program, the candidates that are chosen to participate will receive a stipend, a certificate of participation, direct interaction with our state’s decisionmakers and other thought leaders in addition to a real working product that can be included in the candidate&amp;rsquo;s digital portfolio for future references. This is on top of the financial “base reward” of $100 for 8 weeks. This base stipend is independent of the performance of the participants. The final financial reward is allocated based on the participants standing in the cohort (below lowest 25% of the participants, better than the lower 25% quartile but worse than 50% of the participants, better than 50% of the fellows but worse than the upper 25%, in the upper 25% quartile). The top 25% can receive a final payment of $800 dollars. The reward depends on how well the fellows score at each stage of the competition in the area of analytics, information visualization, and novelty.&lt;/p&gt;
+&lt;h2 id=&#34;what-happens-during-the-first-phase-of-the-fellowship&#34;&gt;&lt;strong&gt;What happens during the first phase of the fellowship?&lt;/strong&gt;&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;You will tackle a real-world challenge in the area of workforce analytics&lt;/li&gt;
+&lt;li&gt;You will prepare and analyze open data as well as ‘restricted’ data that are exclusively available for the fellows through the collaboration with DWD.&lt;/li&gt;
+&lt;li&gt;You will advance your skills in HTML, CSS, and D3.js during the training session&lt;/li&gt;
+&lt;li&gt;You will use analytical thinking and creativity when exploring, correlating, and visualizing the data in order to respond to the hacking challenge presented to you at the start of the hacking challenge.&lt;/li&gt;
+&lt;li&gt;You will create and test a web-based app that is novel in terms of data visualization (D3.js) and also interactive features. You will also test your prototype in the lab.&lt;/li&gt;
+&lt;li&gt;You will participate in and experience experimental lab studies using eye-tracking technologies and data science methods (A/B testing).&lt;/li&gt;
+&lt;li&gt;You will interact with a team of experts (professors, researchers, representatives of DWD, team members of the chief data scientists of Indiana).&lt;/li&gt;
+&lt;li&gt;You will have the opportunity to present your final outcomes in a presentation to a board of experts consisting of DWD, other policymakers, and Purdue researchers.&lt;/li&gt;
+&lt;li&gt;Your final study will be published as a short whitepaper including a demonstration of your prototype.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Sounds overwhelming? We will be here to support you: There are tutors, mentors, etc. who will help you in this program to ramp up fast. We will have a training period! There will be also free food on weekends and drinks!&lt;/p&gt;
+&lt;h2 id=&#34;criteria-for-selection-of-candidates&#34;&gt;&lt;strong&gt;Criteria for selection of candidates:&lt;/strong&gt;&lt;/h2&gt;
+&lt;p&gt;The candidate will need to present proof of the following requirements:&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;Enrolled in a program requiring programming experience (computer science, computer graphics technology, engineering or related areas) or other evidence for prior programming experience&lt;/li&gt;
+&lt;li&gt;Evidence with interest on learning and having experience in developing web applications using HTML/CSS/Javascript&lt;/li&gt;
+&lt;li&gt;Problem-solving skills and the ability and willingness to learn new techniques quickly&lt;/li&gt;
+&lt;li&gt;Interest in data visualization and data analysis&lt;/li&gt;
+&lt;li&gt;Ideally also prior experience with Javascript and D3.js, learning and doing cool stuff!!!&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h2 id=&#34;what-are-the-next-steps-to-become-part-of-the-fellowship-cohort-for-fall-2018&#34;&gt;&lt;strong&gt;What are the next steps to become part of the fellowship cohort for Fall 2018?&lt;/strong&gt;&lt;/h2&gt;
+&lt;p&gt;Interested students will need to submit an application &lt;a href=&#34;https://rcodi.org/fellowship-registration-form/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;here&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;Once registration is open, submissions are time sensitive! &lt;strong&gt;The application deadline is Sunday, October 7, 2018 at 11:59pm.&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;You can also download the complete information &lt;a href=&#34;https://rcodi.org/wp-content/uploads/2018/09/Fellowship-document.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;here&lt;/a&gt;&lt;/p&gt;
+&lt;h1 id=&#34;about-rcodi&#34;&gt;&lt;strong&gt;About RCODI&lt;/strong&gt;&lt;/h1&gt;
+&lt;p&gt;The Research Center for Open Digital Innovation (RCODI) at Purdue University brings together an interdisciplinary group of scholars and thinkers focused on the emerging phenomenon of open digital innovation. Open digital innovation encompasses completely new ways we create and use information and data-driven products and services. We design and evaluate data-driven applications and smart technologies to tackle societal challenges such as sustainability, safety, healthy living. Social coding platforms and virtual hacking communities serve as our virtual living labs. Our researchers use advance techniques of computational social science such as behavioral analytics and large-scale online experiments to develop new digital technologies that support humans in the role as citizens, workers, and policymakers in making smarter decisions. As user-inspired researchers, we intensively engage with industry partners, policymakers, and individual citizens. In 2016, RCODI launched Purdue IronHacks, a unique virtual multi-staged open data competition, in which students and innovators develop novel and useful apps to solve societal challenges. More Information about RCODI: &lt;a href=&#34;http://www.rcodi.org&#34;&gt;www.rcodi.org&lt;/a&gt; and IronHacks: &lt;a href=&#34;http://www.ironhacks.com&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;www.ironhacks.com&lt;/a&gt;. The program is funded by the Science of Science and Innovation Policy Program (SciSPI) of the National Science Foundation (NSF, Award No. #1462044). Dr. Sabine Brunswicker is the founder and director of RCODI, as well as Associate Professor for Digital Innovation at Purdue University. She also acts as a policy advisor in the USA and Europe and has been a keynote speaker at events like World Economic Forum. no-repeat;center top;;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Austria University Conference 2019 open science and open data, talk Sept 11</title>
+      <link>/post/5475-austria-university-conference-2019-open-science-and-open-data-talk-sept-11/</link>
+      <pubDate>Tue, 11 Sep 2018 00:58:21 +0000</pubDate>
+      <guid>/post/5475-austria-university-conference-2019-open-science-and-open-data-talk-sept-11/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;https://rcodi.org/wp-content/uploads/2018/07/VIENNA.jpg&#34;&gt;https://rcodi.org/wp-content/uploads/2018/07/VIENNA.jpg&lt;/a&gt;&lt;/p&gt;
+&lt;h1 id=&#34;austria-university-conference-2019-open-science-and-open-data-talk-sept-11&#34;&gt;Austria University Conference 2019 open science and open data, talk Sept 11&lt;/h1&gt;
+&lt;p&gt;Professor Sabine Brunswicker, Director of RCODI is the Keynote Speaker today at The University Discourse Austria of the Austrian Universities Conference (uniko). Uniko creates space for scientific dialogue on socially relevant topics. Open Science is gaining importance in the scientific community through new ways to collect and share data and research results.  Read more here: &lt;a href=&#34;https://uniko.ac.at/aktuelles/veranstaltungen/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://uniko.ac.at/aktuelles/veranstaltungen/&lt;/a&gt; Link: &lt;a href=&#34;https://uniko.ac.at/aktuelles/veranstaltungen/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://uniko.ac.at/aktuelles/veranstaltungen/&lt;/a&gt; no-repeat;center top;;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>IronHacks Fellowship Fall 2018</title>
+      <link>/post/5457-fellowship2018/</link>
+      <pubDate>Sat, 25 Aug 2018 21:44:42 +0000</pubDate>
+      <guid>/post/5457-fellowship2018/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;https://rcodi.org/wp-content/uploads/2018/03/CODE-2X1.jpg&#34;&gt;https://rcodi.org/wp-content/uploads/2018/03/CODE-2X1.jpg&lt;/a&gt; center &lt;img src=&#34;https://rcodi.org/wp-content/uploads/2018/09/Logo_1.png&#34; alt=&#34;&#34;&gt;&lt;img src=&#34;https://rcodi.org/wp-content/uploads/2018/09/Logo_2.png&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+&lt;h1 id=&#34;rcodi-fellowship-fall-2018&#34;&gt;&lt;strong&gt;RCODI Fellowship Fall 2018&lt;/strong&gt;&lt;/h1&gt;
+&lt;h2 id=&#34;why-should-i-become-an-rcodi-undergraduate-fellow-for-fall-2018&#34;&gt;&lt;strong&gt;Why should I become an RCODI undergraduate fellow for Fall 2018?&lt;/strong&gt;&lt;/h2&gt;
+&lt;p&gt;&lt;strong&gt;Our state has a serious workforce problem. There more than 200,000 unfilled jobs and many counties are not taking the right measures to develop the skills of their residents. Do you want to make a change to our state’s workforce problem using data visualization? Become an undergraduate RCODI fellow for Fall 2018 (with a guaranteed stipend for the first 8 weeks) and join a cohort of other 30 to 50 students who want to use their creativity, technical skills, and analytical mind to make an impact on governments!&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Please review the following steps:&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;Read the information about the fellowship below.&lt;/li&gt;
+&lt;li&gt;Complete the registration form that is at the end of this page or direct link &lt;a href=&#34;https://rcodi.org/fellowship-registration-form/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;here&lt;/a&gt;&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h2 id=&#34;apply-here-httpsrcodiorgfellowship-registration-form&#34;&gt;Apply &lt;a href=&#34;https://rcodi.org/fellowship-registration-form/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;here&lt;/a&gt;&lt;/h2&gt;
+&lt;h2 id=&#34;how-is-the-fellowship-structured&#34;&gt;&lt;strong&gt;How is the fellowship structured?&lt;/strong&gt;&lt;/h2&gt;
+&lt;p&gt;The Research Center for Open Digital Innovation (RCODI) is collaborating with the Indiana Department of Workforce Development (DWD) to launch a unique data analytics fellowship program focused on the area of &lt;strong&gt;workforce analytics&lt;/strong&gt;. The fellowship is open for a cohort of undergraduate students enrolled at Purdue University (between 30 to 50 students will be admitted) that go through a two-stage program, including undergraduate research, in which they analyze, visualize and interactively display their results in web-based “app” to be used by policymakers for their decisions on workforce development in the state of Indiana.&lt;/p&gt;
+&lt;p&gt;The full program is structured in two phases. Phase 1 includes the 8-week program, in which undergraduate students explore open governmental data as well as workforce data available for the selected fellows only (e.g. skill-level, unfilled jobs, training opportunities). They will analyze, visualize the data, and make them actionable in an interactive web “app” using technologies like HTML, CSS, and D3.js (see cool data visualizations done in D3.js in Figure 1 below).&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://rcodi.org/wp-content/uploads/2018/09/Figure1_fellowship.png&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+&lt;p&gt;Figure 1: D3.js visualizations (&lt;a href=&#34;https://d3js.org/&#34;&gt;https://d3js.org/&lt;/a&gt;)&lt;/p&gt;
+&lt;p&gt;The goal is to develop an interactive app that is used by the governmental actors and agencies when making important workforce-related decisions. The first phase is set-up as hacking challenge run by RCODI, in which a cohort of 30 to 50 students go through a structured training and tutorial program, and then participate in 5 iterative hacking events, in which they use their creativity to develop novel and useful workforce apps. Depending on performance in the first 8 weeks, Phase 2 includes the opportunity for a longer-term fellowship follow-on for selected top students to deepen their analysis and advance their project further individually or in a small team setting.&lt;/p&gt;
+&lt;p&gt;The first phase lasts 8 weeks and is structured in distinct phases visualized in the figure below. It starts with pre-training sessions to familiarize participants with technologies (e.g. APIs, D3.js) needed, followed by a 5-stage iterative on-campus competition. During this training period, you will also be familiarized with the DWD data during sessions run by representatives of the state, and a team of data scientists. Fellows will have access to tutorials, live help sessions, a social coding environment, and community features. Automatic hosting of apps, code evaluations, and workflow support for usability judging provides additional assistance to the hackers in agile design and prototyping.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://rcodi.org/wp-content/uploads/2018/09/Figure2_fellowship.png&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Figure 2: Process for phase 1 of the hacking program.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;The training period will start on October 12-14th. The competition portion of the fellowship will take place over 5 weekends in October and November (see below). Students will develop their apps in our lab setting on weekends: &lt;strong&gt;October 19-21&lt;/strong&gt;, &lt;strong&gt;October 26-28&lt;/strong&gt;, &lt;strong&gt;November 2-4&lt;/strong&gt;, &lt;strong&gt;November 9-11&lt;/strong&gt;, &lt;strong&gt;November 16-18&lt;/strong&gt;. Meeting times on weekends will be defined in coordination with fellows!&lt;/p&gt;
+&lt;h2 id=&#34;what-can-the-candidate-gain-from-the-fellowship&#34;&gt;&lt;strong&gt;What can the candidate gain from the fellowship?&lt;/strong&gt;&lt;/h2&gt;
+&lt;p&gt;As part of the program, the candidates that are chosen to participate will receive a stipend, a certificate of participation, direct interaction with our state’s decisionmakers and other thought leaders in addition to a real working product that can be included in the candidate&amp;rsquo;s digital portfolio for future references. This is on top of the financial “base reward” of $100 for 8 weeks. This base stipend is independent of the performance of the participants. The final financial reward is allocated based on the participants standing in the cohort (below lowest 25% of the participants, better than the lower 25% quartile but worse than 50% of the participants, better than 50% of the fellows but worse than the upper 25%, in the upper 25% quartile). The top 25% can receive a final payment of $800 dollars. The reward depends on how well the fellows score at each stage of the competition in the area of analytics, information visualization, and novelty.&lt;/p&gt;
+&lt;h2 id=&#34;what-happens-during-the-first-phase-of-the-fellowship&#34;&gt;&lt;strong&gt;What happens during the first phase of the fellowship?&lt;/strong&gt;&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;You will tackle a real-world challenge in the area of workforce analytics&lt;/li&gt;
+&lt;li&gt;You will prepare and analyze open data as well as ‘restricted’ data that are exclusively available for the fellows through the collaboration with DWD.&lt;/li&gt;
+&lt;li&gt;You will advance your skills in HTML, CSS, and D3.js during the training session&lt;/li&gt;
+&lt;li&gt;You will use analytical thinking and creativity when exploring, correlating, and visualizing the data in order to respond to the hacking challenge presented to you at the start of the hacking challenge.&lt;/li&gt;
+&lt;li&gt;You will create and test a web-based app that is novel in terms of data visualization (D3.js) and also interactive features. You will also test your prototype in the lab.&lt;/li&gt;
+&lt;li&gt;You will participate in and experience experimental lab studies using eye-tracking technologies and data science methods (A/B testing).&lt;/li&gt;
+&lt;li&gt;You will interact with a team of experts (professors, researchers, representatives of DWD, team members of the chief data scientists of Indiana).&lt;/li&gt;
+&lt;li&gt;You will have the opportunity to present your final outcomes in a presentation to a board of experts consisting of DWD, other policymakers, and Purdue researchers.&lt;/li&gt;
+&lt;li&gt;Your final study will be published as a short whitepaper including a demonstration of your prototype.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Sounds overwhelming? We will be here to support you: There are tutors, mentors, etc. who will help you in this program to ramp up fast. We will have a training period! There will be also free food on weekends and drinks!&lt;/p&gt;
+&lt;h2 id=&#34;criteria-for-selection-of-candidates&#34;&gt;&lt;strong&gt;Criteria for selection of candidates:&lt;/strong&gt;&lt;/h2&gt;
+&lt;p&gt;The candidate will need to present proof of the following requirements:&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;Enrolled in a program requiring programming experience (computer science, computer graphics technology, engineering or related areas) or other evidence for prior programming experience&lt;/li&gt;
+&lt;li&gt;Evidence with interest on learning and having experience in developing web applications using HTML/CSS/Javascript&lt;/li&gt;
+&lt;li&gt;Problem-solving skills and the ability and willingness to learn new techniques quickly&lt;/li&gt;
+&lt;li&gt;Interest in data visualization and data analysis&lt;/li&gt;
+&lt;li&gt;Ideally also prior experience with Javascript and D3.js, learning and doing cool stuff!!!&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h2 id=&#34;what-are-the-next-steps-to-become-part-of-the-fellowship-cohort-for-fall-2018&#34;&gt;&lt;strong&gt;What are the next steps to become part of the fellowship cohort for Fall 2018?&lt;/strong&gt;&lt;/h2&gt;
+&lt;p&gt;Interested students will need to submit an application &lt;a href=&#34;https://rcodi.org/fellowship-registration-form/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;here&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;Once registration is open, submissions are time sensitive! &lt;strong&gt;The application deadline is Sunday, October 7, 2018 at 11:59pm.&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;You can also download the complete information &lt;a href=&#34;https://rcodi.org/wp-content/uploads/2018/09/Fellowship-document.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;here&lt;/a&gt;&lt;/p&gt;
+&lt;h1 id=&#34;about-rcodi&#34;&gt;&lt;strong&gt;About RCODI&lt;/strong&gt;&lt;/h1&gt;
+&lt;p&gt;The Research Center for Open Digital Innovation (RCODI) at Purdue University brings together an interdisciplinary group of scholars and thinkers focused on the emerging phenomenon of open digital innovation. Open digital innovation encompasses completely new ways we create and use information and data-driven products and services. We design and evaluate data-driven applications and smart technologies to tackle societal challenges such as sustainability, safety, healthy living. Social coding platforms and virtual hacking communities serve as our virtual living labs. Our researchers use advance techniques of computational social science such as behavioral analytics and large-scale online experiments to develop new digital technologies that support humans in the role as citizens, workers, and policymakers in making smarter decisions. As user-inspired researchers, we intensively engage with industry partners, policymakers, and individual citizens. In 2016, RCODI launched Purdue IronHacks, a unique virtual multi-staged open data competition, in which students and innovators develop novel and useful apps to solve societal challenges. More Information about RCODI: &lt;a href=&#34;http://www.rcodi.org&#34;&gt;www.rcodi.org&lt;/a&gt; and IronHacks: &lt;a href=&#34;http://www.ironhacks.com&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;www.ironhacks.com&lt;/a&gt;. The program is funded by the Science of Science and Innovation Policy Program (SciSPI) of the National Science Foundation (NSF, Award No. #1462044). Dr. Sabine Brunswicker is the founder and director of RCODI, as well as Associate Professor for Digital Innovation at Purdue University. She also acts as a policy advisor in the USA and Europe and has been a keynote speaker at events like World Economic Forum. no-repeat;center top;;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>RCODI welcomes our new IronHacks fellow Degly Pava from Bogota</title>
+      <link>/post/5443-welcome-degly/</link>
+      <pubDate>Wed, 22 Aug 2018 18:33:18 +0000</pubDate>
+      <guid>/post/5443-welcome-degly/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;https://rcodi.org/wp-content/uploads/2018/08/Degly-Cropped.jpg&#34;&gt;https://rcodi.org/wp-content/uploads/2018/08/Degly-Cropped.jpg&lt;/a&gt; Welcome to Degly Pava to this semester! He is the winner of Purdue IronHacks - UNAL. Selected candidate from the globalization department and RCODI intern and he will be participating in this next hack as the Community Manager.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;&amp;ldquo;I am very pleased to be a Community Manager with RCODI. Thank you again for the opportunity. I am excited to work on such a meaningful project, and I look forward to working in a such a creative environment, working with Dr. Brunswicker and RCODI at Purdue University.&amp;quot;&lt;/em&gt; no-repeat;center top;;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>IronHacks in the News</title>
+      <link>/post/5436-ironhacks-on-the-news/</link>
+      <pubDate>Tue, 21 Aug 2018 03:11:46 +0000</pubDate>
+      <guid>/post/5436-ironhacks-on-the-news/</guid>
+      <description>&lt;h3 id=&#34;the-purdue-research-center-for-open-digital-innovation-honored-four-students-from-the-universidad-nacional-de-colombia-unal-for-their-work-in-the-spring-ironhacks-competition&#34;&gt;The Purdue Research Center for Open Digital Innovation honored four students from the Universidad Nacional de Colombia (UNAL) for their work in the spring IronHacks competition.&lt;/h3&gt;
+&lt;h4 id=&#34;read-more-about-it-herehttpswwwpurdueedunewsroomreleases2018q3appointments-honors-and-activities3html&#34;&gt;Read more about it &lt;a href=&#34;https://www.purdue.edu/newsroom/releases/2018/Q3/appointments,-honors-and-activities3.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;here&lt;/a&gt;&lt;/h4&gt;
+&lt;p&gt;no-repeat;center top;;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Our director gives keynote at global open science conference in Vienna on September, 9 2018.</title>
+      <link>/post/5346-5346-2/</link>
+      <pubDate>Wed, 04 Jul 2018 22:48:43 +0000</pubDate>
+      <guid>/post/5346-5346-2/</guid>
+      <description>&lt;h3 id=&#34;our-director-gives-keynote-at-global-open-science-conference-in-vienna-on-september-9-2018&#34;&gt;Our director gives keynote at global open science conference in Vienna on September, 9 2018.&lt;/h3&gt;
+&lt;p&gt;The University Discourse Austria of the Austrian Universities Conference (uniko) creates space for scientific dialogue on socially relevant topics. Open Science is gaining importance in the scientific community through new ways to collect and share data and research results. Especially Citizen Science wins not least methodically in importance. &lt;a href=&#34;https://uniko.ac.at/aktuelles/veranstaltungen/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Read more here&lt;/a&gt;: &lt;a href=&#34;https://uniko.ac.at/aktuelles/veranstaltungen/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://uniko.ac.at/aktuelles/veranstaltungen/&lt;/a&gt; no-repeat;center top;;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Using visualizations to nudge people into better choices</title>
+      <link>/post/5327-the-future-starts-now/</link>
+      <pubDate>Thu, 03 May 2018 18:36:20 +0000</pubDate>
+      <guid>/post/5327-the-future-starts-now/</guid>
+      <description>&lt;p&gt;Check out our demo app &lt;a href=&#34;https://youtu.be/oyfW1kkSsGg&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;link&lt;/a&gt; and read more about the project &lt;a href=&#34;https://rcodi.org/energyvis/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;here&lt;/a&gt;.
+&lt;a href=&#34;https://rcodi.org/wp-content/uploads/2018/05/energy.gif&#34;&gt;https://rcodi.org/wp-content/uploads/2018/05/energy.gif&lt;/a&gt; 700&lt;/p&gt;
+&lt;h3 id=&#34;using-visualizations-to-nudge-people-into-better-choices&#34;&gt;Using visualizations to nudge people into better choices&lt;/h3&gt;
+&lt;p&gt;Data-driven feedback and interactions with personal devices are changing the way we make decisions. In our research project &amp;ldquo;Home energy monitoring&amp;rdquo;, we design a new interactive visualization to create social motivations and foster more sustainable behavior. Visualization offers new language to frame our actions in alignment with social goals like energy conservation. Check out our demo app &lt;a href=&#34;https://www.youtube.com/watch?v=oyfW1kkSsGg&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;link&lt;/a&gt; and read more about the project &lt;a href=&#34;https://rcodi.org/energyvis/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;here&lt;/a&gt;. no-repeat;center top;;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Purdue - CUPL Kickoff Spring 2018</title>
+      <link>/post/5303-purdue-cupl-kickoff-spring-2018/</link>
+      <pubDate>Tue, 24 Apr 2018 18:13:20 +0000</pubDate>
+      <guid>/post/5303-purdue-cupl-kickoff-spring-2018/</guid>
+      <description>&lt;p&gt;#‎IronHack‬s Purdue -&lt;a href=&#34;http://www.lawschoolchina.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;China University of Political Science and Law&lt;/a&gt; (CUPL) officially kicked off on Saturday, April 21st, 2018!
+#‎IronHack‬s Purdue -China University of Political Science and Law (CUPL) officially kicked off on Saturday, April 21st, 2018! It is a pleasure to see the hacking spirit alive and well, and we are excited to see the solutions created during the next 1-month hackathon! no-repeat;center top;;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>NEW COURSE! BLOCKCHAINS, NETWORKS, PEOPLE</title>
+      <link>/post/5210-course_blockchain/</link>
+      <pubDate>Sat, 14 Apr 2018 02:08:12 +0000</pubDate>
+      <guid>/post/5210-course_blockchain/</guid>
+      <description>&lt;p&gt;CALL OUT!!!!&lt;/p&gt;
+&lt;p&gt;You are all invited to come by the Blockchain, Networks, People Callout  Mon. Apr. 16, 5:00 PM&lt;/p&gt;
+&lt;p&gt;LOCATION: RCODI Economics Lab Heavilon Hall&lt;/p&gt;
+&lt;p&gt;ROOM: 128
+Whether you&amp;rsquo;re new to Purdue, or a returning member of the community, you’ll want to come by the Blockchain, Networks, People Callout to meet new friends, connect with students and learn more about this exciting course. All are welcome! This is a research methods course designed for graduate students who aim to develop and implement a research study program, particularly in the field of blockchain technology. We will discuss research approaches, methods, and writings relevant to the research field of blockchain technology (distributed ledger technology for the secure and private transfer of value on internet networks). no-repeat;center top;;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Our director is Co-Chair of ICIS 2018</title>
+      <link>/post/3332-our-director-is-co-chair-of-icis-2018/</link>
+      <pubDate>Sun, 04 Mar 2018 21:32:09 +0000</pubDate>
+      <guid>/post/3332-our-director-is-co-chair-of-icis-2018/</guid>
+      <description>&lt;p&gt;Our director was selected as one of the panel track chairs of ICIS 2018!!!&lt;/p&gt;
+&lt;p&gt;To start of the new year with some exciting news: Our director Sabine Brunswicker is one of the co-chairs of the 2018 International Conference of Information Systems (ICIS) with the conference theme Bridging the Internet, People and Things. ICIS 2018 will be in San Francisco. She is one of the panel track chairs. The purpose of the panels in ICIS is to identify and explore emerging phenomena related to the theme of Bridging the Internet, People, and Things and to offer an opportunity to present further broader topics and ideas that are ground-breaking and perhaps controversial to the IS community.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Underrated Questions About Thesis Help</title>
+      <link>/post/5612-underrated-questions-about-thesis-help/</link>
+      <pubDate>Mon, 25 Dec 2017 22:38:38 +0000</pubDate>
+      <guid>/post/5612-underrated-questions-about-thesis-help/</guid>
+      <description>&lt;h2 id=&#34;facts-fiction-and-thesis-help&#34;&gt;Facts, Fiction and Thesis Help&lt;/h2&gt;
+&lt;p&gt;Soon after submitting your purchase, you&amp;rsquo;ll possess the ability to make use of our site to acquire connected with your author and speed that the work. The author&amp;rsquo;s analysis will further his stance around the matter. It is not sufficient to work punctually plus that&amp;rsquo;s the reason why we proofread your work to become sure that it can not include things like misspellings and inaccuracies from the content.&lt;/p&gt;
+&lt;p&gt;They frequently start looking for homework assistance since they do not have enough skills or time to finish their newspaper independently. In many instances, they truly are pleased with the result. In spite of picking the most suitable literature, the college pupils may not need the power to spot the theoretical framework.&lt;/p&gt;
+&lt;p&gt;Each form of thesis statement performs to strengthen the goal of the certain form of essay writing. It is one of the crucial components of the informative article, as it defines the reach of the essay writing. Writing a thesis statement is most likely being among the most popular senior high school or college assignments.&lt;/p&gt;
+&lt;h2 id=&#34;details-of-thesis-help&#34;&gt;Details of Thesis Help&lt;/h2&gt;
+&lt;p&gt;If you require urgent aid with thesis or dissertation, we could supply you with precisely what you are on the lookout for. Due to plagiarism, the possibility of rejection of thesis are extremely significant. Hence, in the event that you should be prone we to compose a customized fund thesis that&amp;rsquo;s right for you personally then get in touch with us as soon as feasible.&lt;/p&gt;
+&lt;p&gt;At any moment you state that I require advice about my research paper our authors make sure you get the absolute best assistance recalling the ending goal to deliver a great paper to procure you noteworthy tests. Due to years of knowledge and sound subject understanding, they produce quality work and provide you with the ideal. They know what your professors want to get in the newspaper, plus they&amp;rsquo;re going to ensure that each period of one&amp;rsquo;s thesis is written to perfection, so hitting each one the requirements to your very best marks mounts.&lt;/p&gt;
+&lt;p&gt;Students discover that it&amp;rsquo;s hard to compose a very short and impressive thesis statement and for that reason call for thesis assistance from pros. Because the beginning of the semester, they are inclined to genuinely believe that they have the full time hands for creating their thesis. The pupils want to truly have a high amount of academic adulthood to hunt to find the ideal resources while still writing a thesis proposal.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://paramountessays.com/paper-writing-service&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;tick to view&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Without proper demo few readers will always be totally hooked up to what you&amp;rsquo;ve composed. Working with experienced master diploma thesis writers will make it quite straightforward to acquire expert work, which will let you surpass each of odds and become the most best. You&amp;rsquo;re going to be provided a completely published paper that&amp;rsquo;s been edited and proofread into this best benchmark.&lt;/p&gt;
+&lt;h2 id=&#34;the-little-known-secrets-to-thesis-help&#34;&gt;The Little-Known Secrets to Thesis Help&lt;/h2&gt;
+&lt;p&gt;In the event that you would like to compose a tricky and capacious declaration thesis, this can be handy to adhere to a few suggestions and strategies. You may always employ professional thesis writers to locate the task done foryou personally. Fair pricing A expert writer will not charge you quite major prices.&lt;/p&gt;
+&lt;p&gt;Whenever time you say that I require advice about my research paper our authors be certain to make the very most useful assistance recalling the ending objective to give a great newspaper to procure you notable evaluations. They have been familiar with every one of these paths, from the obvious differences, right down to the subtle nuances which make sure they are unique. They truly are reputable and also they really do their very best to add to your educational achievement, you simply need to approach them for help with research paper.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Mamaril, Loeser, and Ko take top honors</title>
+      <link>/post/3334-mamaril-loeser-and-ko-take-top-honors/</link>
+      <pubDate>Fri, 15 Dec 2017 00:00:54 +0000</pubDate>
+      <guid>/post/3334-mamaril-loeser-and-ko-take-top-honors/</guid>
+      <description>&lt;p&gt;The top honors at Purdue IronHack’s Fall 2017 competition! Read more &lt;a href=&#34;https://polytechnic.purdue.edu/newsroom/polytechnic-student-takes-top-ironhacker-honor&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;em&gt;here&lt;/em&gt;&lt;/a&gt;
+Justin Mamaril, Jordan Loeser, and Emily Ko took the top honors at Purdue IronHack&amp;rsquo;s Fall 2017 competition! no-repeat;center top;;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>And the winners are ...</title>
+      <link>/post/3336-and-the-winners-are/</link>
+      <pubDate>Wed, 06 Dec 2017 00:00:35 +0000</pubDate>
+      <guid>/post/3336-and-the-winners-are/</guid>
+      <description>&lt;p&gt;RCODI held an IronHacks Awards Ceremony to recognize the amazing work accomplished by 27 Purdue students.
+On Monday December 4, 2017, RCODI held an IronHacks Awards Ceremony to recognize the amazing work accomplished by 27 students across Purdue campus of creating an app that would solve the civic challenge of “Find me a safe and affordable place to rent near New York University – Stern School of Business.” Purdue IronHackers were greeted and congratulated by our special guests, Mayor John Dennis, West Lafayette, Robert F. Cox, Ph.D, Professor and Senior Associate Dean for Purdue Globalization, Brendan O Connor, Assistant Chief of Staff of the Management Performance Hub (MPH), and Sabine Brunswicker, PhD, Professor, Director of Purdue’s  Research Center for Open Digital Innovation, and the creator of IronHacks. And the top 3 winners were… EMILY KO: Best Community Spirit (contributed the most to the forum) JORDAN LOESER: Best Winning Spirit (performed in the top 25% of each round) JUSTIN MAMARIL: Best Solution (contributed the most to the forum) While these winners walked off with winning certificates, Amazon gift cards valued up to $500, internship possibilities with key sponsors including RedHat, Socrata, and MPH, the chance to go to La Universidad Nacional de Colombia in Bogota where Purdue IronHacks is also established for an internship, and so much more, all the students received cool swag and participant certificates. IronHacks is an exciting software coding program that is offered each semester. So, register today! for next Spring 2018 IronHacks class: Tech499. Though the highlight of the ceremony was the awarding of the top 3 winners, Dr. Robert F. Cox reminded all the students that even though they might not have won, all are winners because “We’re all Boilermakers!” Boiler up! Congratulations to all! no-repeat;center top;;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>AND THE WINNER IS…</title>
+      <link>/post/3338-and-the-winner-is/</link>
+      <pubDate>Mon, 04 Dec 2017 00:00:02 +0000</pubDate>
+      <guid>/post/3338-and-the-winner-is/</guid>
+      <description>&lt;p&gt;Happening today! Don’t miss the Purdue IronHacks Award Ceremony where three winners will walk off with great swag from the coolest coding competition ever! Date and Time: Today! December 4, 2017 from 5:30pm-6:30pm Venue: Purdue Honors College Steam Lab  | 1101 3rd Street | West Lafayette | IN | 47906&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>RCODI RESEARCH FELLOW SORIN ADAM MATEI: OUT WITH A NEW BOOK</title>
+      <link>/post/3340-rcodi-research-fellow-sorin-adam-matei-out-with-a-new-book/</link>
+      <pubDate>Tue, 07 Nov 2017 00:00:22 +0000</pubDate>
+      <guid>/post/3340-rcodi-research-fellow-sorin-adam-matei-out-with-a-new-book/</guid>
+      <description>&lt;p&gt;Sorin Adam Matei, professor at Purdue University’s Brian Lamb School of Communication, director of the Purdue Data Storytelling Network, and &lt;strong&gt;Research Fellow at RCODI&lt;/strong&gt; along with and Brian Britt, assistant professor in the South Dakota State University Department of Journalism and Mass Communication and a Purdue graduate have just published their new book titled: “Structural Differentiation in Social Media: Adhocracy, Entropy and the ‘1% Effect.” Congratulations! &lt;a href=&#34;http://www.purdue.edu/newsroom/releases/2017/Q4/results-of-wikipedia-study-may-surprise.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Purdue News&lt;/a&gt; : Results of Wikipedia may surprise (&lt;a href=&#34;http://www.purdue.edu/newsroom/releases/2017/Q4/results-of-wikipedia-study-may-surprise.html&#34;&gt;http://www.purdue.edu/newsroom/releases/2017/Q4/results-of-wikipedia-study-may-surprise.html&lt;/a&gt;)&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>MR. ARDEN L. BEMENT PAYS RCODI A VISIT</title>
+      <link>/post/3342-mr-arden-l-bement-pays-rcodi-a-visit/</link>
+      <pubDate>Mon, 30 Oct 2017 21:30:24 +0000</pubDate>
+      <guid>/post/3342-mr-arden-l-bement-pays-rcodi-a-visit/</guid>
+      <description>&lt;p&gt;RCODI had the honor of welcoming Mr. Arden L. Bement, former NSF Director and Founding RCODI Advisor to the center today! Mr. Bement, Jr. met members of our team before leaving to deliver the prestigious Arden L. Bement Jr. Award to a fellow computer scientist; the most prestigious award Purdue bestows to scientists in pure and applied science and engineering.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>RCODI AND INDIANA HOUSING COLLABORATE ON SMART ENERGY PROJECT</title>
+      <link>/post/3346-rcodi-and-indiana-housing-collaborate-on-smart-energy-project/</link>
+      <pubDate>Mon, 30 Oct 2017 00:00:49 +0000</pubDate>
+      <guid>/post/3346-rcodi-and-indiana-housing-collaborate-on-smart-energy-project/</guid>
+      <description>&lt;p&gt;Dr. Brunswicker and her PhD student Marlen Promann are working on a series of perceptual psychological experiments to advance our knowledge of how visual graph structures affect the way we interpret visually represented data. Read more &lt;a href=&#34;http://www.purdue.edu/newsroom/releases/2017/Q4/purdue-faculty,-indiana-housing-pair-up-to-research-energy-use.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;here!&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>GOOD LUCK TO ALL OUR IRONHACKS CONTEST PARTICIPANTS!</title>
+      <link>/post/3344-good-luck-to-all-our-ironhacks-contest-participants/</link>
+      <pubDate>Mon, 30 Oct 2017 00:00:26 +0000</pubDate>
+      <guid>/post/3344-good-luck-to-all-our-ironhacks-contest-participants/</guid>
+      <description>&lt;p&gt;Today is the big day! Good luck to all our students at Purdue and Universidad Nacional de Colombia participating in the Gold IronHacks Fall 2017 contest!&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>MARLEN WITH NORTHWESTERN’S VOLUNTEER SCIENCE PLATFORM</title>
+      <link>/post/3350-marlen-with-northwesterns-volunteer-science-platform/</link>
+      <pubDate>Wed, 27 Sep 2017 00:00:34 +0000</pubDate>
+      <guid>/post/3350-marlen-with-northwesterns-volunteer-science-platform/</guid>
+      <description>&lt;p&gt;RCODI PhD student Marlen Promann has been invited to become a Virtual Research Fellow at Northwestern’s Volunteer Science. This fall, she will run a controlled experimental game on the Volunteer Science platform, testing how certain visual cues trigger people to make more cooperative (vs. self interested) decisions. Way to go Marlen!&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>PROFESSOR NICKERSON TO SPEAK AT RCODI SYMPOSIUM 2017</title>
+      <link>/post/3347-professor-nickerson-to-speak-at-rcodi-symposium-2017/</link>
+      <pubDate>Wed, 27 Sep 2017 00:00:07 +0000</pubDate>
+      <guid>/post/3347-professor-nickerson-to-speak-at-rcodi-symposium-2017/</guid>
+      <description>&lt;p&gt;Don’t miss Professor Nickerson’s talk on “Collective Creativity and Open Design” at the RCODI Symposium, Oct. 11, 2017!&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>WELCOME NA CAO!</title>
+      <link>/post/3351-welcome-na-cao/</link>
+      <pubDate>Fri, 22 Sep 2017 00:00:53 +0000</pubDate>
+      <guid>/post/3351-welcome-na-cao/</guid>
+      <description>&lt;p&gt;RCODI would like to warmly welcome Na Cao. After having completed her Postdoc at Tsinghua University in 2014, she became a lecturer at the Information School, Capital University of Economics and Business in Beijing. During her one year at RCODI, Na Cao will work on energy analytics and its ability to identify new opportunities to reduce energy consumption with Associate Professor Sabine Brunswicker. Let’s all wish her the best! &lt;a href=&#34;https://www.purdue.edu/opendigital/wp-content/uploads/2017/09/NaCao.Sep20.jpg&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;img src=&#34;https://www.purdue.edu/opendigital/wp-content/uploads/2017/09/NaCao.Sep20-225x300.jpg&#34; alt=&#34;&#34;&gt;&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>GETTING A SIGNATURE FOR THE OPEN DATA HACKING CLASS</title>
+      <link>/post/3354-getting-a-signature-for-the-open-data-hacking-class/</link>
+      <pubDate>Fri, 22 Sep 2017 00:00:19 +0000</pubDate>
+      <guid>/post/3354-getting-a-signature-for-the-open-data-hacking-class/</guid>
+      <description>&lt;p&gt;Please drop by &lt;strong&gt;Wang Hall&lt;/strong&gt; to get Prof. Sabine Brunswicker’s signature for Tech499 and HONR299 Open Data Hacking Class: Mondays, Room 4079, during office hours: 130pm-3pm Mondays, Room 4070:  10am-11am Wednesdays, Fridays, Room 4070: 430pm-5pm&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>NOW OFFERING IRONHACKS, OPEN DATA HACKING AT HONORS COLLEGE!</title>
+      <link>/post/3356-now-offering-ironhacks-open-data-hacking-at-honors-college/</link>
+      <pubDate>Tue, 19 Sep 2017 00:00:41 +0000</pubDate>
+      <guid>/post/3356-now-offering-ironhacks-open-data-hacking-at-honors-college/</guid>
+      <description>&lt;p&gt;Open Data Hacking has reached Honors College! Honors College students and students with a minimum 3.0 average qualify to register for the HONR299, a 1 credit, 15 hour hybrid class. The 15 hours is split between 4 hours of in-person meetings and 11 hours of virtual meetings. Class begins October 11. So don’t miss out in the opportunity to enroll in the coolest programming class on campus! To enroll, contact Rebecca Krylow at &lt;a href=&#34;mailto:mkrylow@purdue.edu&#34;&gt;mkrylow@purdue.edu&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>JOIN US AT TECHTOWN-PURDUE!</title>
+      <link>/post/3358-join-us-at-techtown-purdue/</link>
+      <pubDate>Fri, 08 Sep 2017 00:00:01 +0000</pubDate>
+      <guid>/post/3358-join-us-at-techtown-purdue/</guid>
+      <description>&lt;p&gt;Want to know more about OPEN DATA HACKING-Tech499- the coolest programming class on campus?  Join us tomorrow, September 9 from 11am-2pm at Knoy’s student lounge on the 1st floor for TechTown-Purdue. Prof. Sabine Brunswicker and the IronHacks team will be on hand to answer all your questions. See you there! For more information, check out: &lt;a href=&#34;https://polytechnic.purdue.edu/newsroom/techtown&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;TechTown-Purdue&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>WELCOME ABOARD YING AND TAKESHI!</title>
+      <link>/post/3360-welcome-aboard-ying-and-takeshi/</link>
+      <pubDate>Wed, 06 Sep 2017 00:00:27 +0000</pubDate>
+      <guid>/post/3360-welcome-aboard-ying-and-takeshi/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;https://www.purdue.edu/opendigital/wp-content/uploads/2017/09/Ying-5Sep2017-1st-day-.png&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;img src=&#34;https://www.purdue.edu/opendigital/wp-content/uploads/2017/09/Ying-5Sep2017-1st-day--198x300.png&#34; alt=&#34;&#34;&gt;&lt;/a&gt;&lt;a href=&#34;https://www.purdue.edu/opendigital/wp-content/uploads/2017/09/Takeshi-5Sept2017-1st-day.png&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;img src=&#34;https://www.purdue.edu/opendigital/wp-content/uploads/2017/09/Takeshi-5Sept2017-1st-day-184x300.png&#34; alt=&#34;&#34;&gt;&lt;/a&gt; Ying and Takeshi, both visiting scholars from China and Japan, have finally arrived! They will both work in advancing the field of open innovation.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>TODAY! DATA &amp; DESSERTS</title>
+      <link>/post/3362-today-data-desserts/</link>
+      <pubDate>Tue, 29 Aug 2017 00:00:49 +0000</pubDate>
+      <guid>/post/3362-today-data-desserts/</guid>
+      <description>&lt;p&gt;Interested in creating your own app?* Compete with the Honors College IronHack Team! Join us for Data &amp;amp; Desserts – Steam Lab / 4:00pm to 5:00pm Tuesday August 29. *No prior coding experience required&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>TONIGHT! OPEN DATA HACKING-CALL OUT!</title>
+      <link>/post/3364-tonight-open-data-hacking-call-out/</link>
+      <pubDate>Tue, 22 Aug 2017 00:00:12 +0000</pubDate>
+      <guid>/post/3364-tonight-open-data-hacking-call-out/</guid>
+      <description>&lt;p&gt;Find out everything you need to know about the upcoming Open Data Hacking class being offered this October! TONIGHT, 6pm at Wang Hall room 4070. See you there!&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>FALL 2017 COURSE: OPEN DATA APPS DESIGN FOR SOCIAL IMPACT</title>
+      <link>/post/3366-fall-2017-course-open-data-apps-design-for-social-impact/</link>
+      <pubDate>Mon, 07 Aug 2017 00:00:55 +0000</pubDate>
+      <guid>/post/3366-fall-2017-course-open-data-apps-design-for-social-impact/</guid>
+      <description>&lt;p&gt;Hack for Innovation this Fall 2017! Don’t miss out on the opportunity to learn how to develop innovative mash-ups  and apps that will change people’s lives! Enroll in this 8 week Open Data Hacking (TECH499) class today and participate in Purdue &lt;a href=&#34;http://www.ironhacks.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;IronHacks:&lt;/a&gt; the coolest hacking program ever! Immerse into a real-world hacking experience! Classes begin October 11. Open Data Hacking: Banner number: 20680 – TECH 499.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>PROFESSOR BRUNSWICKER CHAIRS SESSION AT AOM2017, ATLANTA</title>
+      <link>/post/3367-professor-brunswicker-chairs-session-at-aom2017-atlanta/</link>
+      <pubDate>Mon, 07 Aug 2017 00:00:54 +0000</pubDate>
+      <guid>/post/3367-professor-brunswicker-chairs-session-at-aom2017-atlanta/</guid>
+      <description>&lt;p&gt;Professor Brunswicker set to chair AOM session on -Consumer and Producer Perspectives on Digital Innovation- at the Hyatt Regency, Atlanta’s The Learning Center, August 8, 2017. Check out the session’s details &lt;a href=&#34;http://digitaleditions.sheridan.com/publication/?i=421779&amp;amp;article_id=2828695&amp;amp;view=articleBrowser&amp;amp;ver=html5#&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;here&lt;/a&gt;: #AOM2017 1647&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>WELCOME DEAN WANG CHANGFENG!</title>
+      <link>/post/3370-welcome-dean-wang-changfeng/</link>
+      <pubDate>Fri, 28 Jul 2017 00:00:20 +0000</pubDate>
+      <guid>/post/3370-welcome-dean-wang-changfeng/</guid>
+      <description>&lt;p&gt;RCODI welcomes Visiting Professor, Dean Wang Changfeng. He will focus on innovation in complex supply chain networks and innovation ecosystems using computational techniques. We are looking forward to a productive collaboration.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>PROF. BRUNSWICKER PRESENTS TWO PAPERS AT IC2S2 CONFERENCE IN COLOGNE</title>
+      <link>/post/3371-prof-brunswicker-presents-two-papers-at-ic2s2-conference-in-cologne/</link>
+      <pubDate>Wed, 12 Jul 2017 00:00:37 +0000</pubDate>
+      <guid>/post/3371-prof-brunswicker-presents-two-papers-at-ic2s2-conference-in-cologne/</guid>
+      <description>&lt;p&gt;On July 12, 2017 our director &lt;a href=&#34;https://www.purdue.edu/opendigital/about/sabine/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Sabine Brunswicker&lt;/a&gt; presented 2 papers at the &lt;a href=&#34;http://www.ic2s2.org/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;International Conference on Computational Social Science in Cologne&lt;/a&gt;. One paper on the role of network embeddedness in OSS project collaboration results from her joint research with Red Hat fellow &lt;a href=&#34;https://www.purdue.edu/opendigital/about/research-team/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Satyam Mukherjee&lt;/a&gt;. The second paper provides insights on her work with collaborator &lt;a href=&#34;http://goizueta.emory.edu/faculty/academic_areas/isom/prietula_michael.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Michael Prietula, Emory&lt;/a&gt; on transparency and reuse in open contests. In this work she links computational and empirical approaches to advance our understanding of collaborative problem solving and knowledge reuse (see also recent paper on &lt;a href=&#34;https://goo.gl/CQPsog&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;SSRN)&lt;/a&gt;.  For a full list of accepted talks at IC2S2 please visit this &lt;a href=&#34;https://ic2s2.org/2017/elements/accepted_talks.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;conference website&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>MEHDI BAGHERZADEH: HONORED BY THE 2017 EDAMABA</title>
+      <link>/post/3374-mehdi-bagherzadeh-honored-by-the-2017-edamaba/</link>
+      <pubDate>Thu, 29 Jun 2017 00:00:55 +0000</pubDate>
+      <guid>/post/3374-mehdi-bagherzadeh-honored-by-the-2017-edamaba/</guid>
+      <description>&lt;p&gt;Dr. Brunswicker’s former student, Mehdi Bagherzadeh is being recognized for his PhD thesis: “I am pleased and honoured that my PhD thesis has been distinguished in the Top 10 theses for the 2017 &lt;a href=&#34;https://www.linkedin.com/company-beta/1124002/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;EDAMBA&lt;/strong&gt;&lt;/a&gt; Thesis Competition. I would like to thank the EDAMBA for recognizing the importance of studying of open innovation governance dynamics at the project level. Also thank you to my supervisor &lt;a href=&#34;https://www.linkedin.com/in/ann-majchrzak-524744/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;Ann Majchrzak&lt;/strong&gt;&lt;/a&gt; &amp;amp; co-supervisors &lt;a href=&#34;https://www.linkedin.com/in/sabinebrunswicker/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;Sabine Brunswicker&lt;/strong&gt;&lt;/a&gt; &amp;amp; &lt;a href=&#34;https://www.linkedin.com/in/jonathan-wareham-918bb65/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;Jonathan Wareham.”&lt;/strong&gt;&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Why Everybody Is Wrong About Online Assignment</title>
+      <link>/post/5636-why-everybody-is-wrong-about-online-assignment/</link>
+      <pubDate>Thu, 15 Jun 2017 00:55:52 +0000</pubDate>
+      <guid>/post/5636-why-everybody-is-wrong-about-online-assignment/</guid>
+      <description>&lt;h2 id=&#34;the-meaning-of-online-assignment&#34;&gt;The Meaning of Online Assignment&lt;/h2&gt;
+&lt;p&gt;The grammar used in writing missions ought to be both accurate and appropriate hence exhaustive understanding of English is going to be more useful. After the initial read, a person needs to prepare yourself to draft a research statement, that is going to be the center of the research paper. Before writing the mission make certain you have known the assignment along with following reading, then you should be aware of the niche area of this difficulties.&lt;/p&gt;
+&lt;p&gt;In the event you receive the assignment, make certain you own handouts for the class in order that they understand how to reach you to get more circuit training independently. At precisely exactly the same style, assignments ought to be delivered in time to permit the instructor adequate time to experience the paper. When it did not come into good, his grades would deteriorate appreciably.&lt;/p&gt;
+&lt;h2 id=&#34;lies-youve-been-told-about-online-assignment&#34;&gt;Lies You&amp;rsquo;ve Been Told About Online Assignment&lt;/h2&gt;
+&lt;p&gt;Not just do the top rated internet assignment help providers produce original content, but a variety of them also attach a plagiarism-free report together with the completed assignments at the perfect time of delivery. Finally, the aid of a proof-reader are required. The risk management program ought to be a portion of your general project program.&lt;/p&gt;
+&lt;h2 id=&#34;online-assignment-ideas&#34;&gt;Online Assignment Ideas&lt;/h2&gt;
+&lt;p&gt;Finding your feeble locations and focusing to these is just one of the most useful ways of receiving an assignment help from yourself, family and family members. Our help will be already inside your reach whatever you&amp;rsquo;ve already been delegated. No matter whether it&amp;rsquo;s wrong or right, the truth need to be assessed and concluded in the right way.&lt;/p&gt;
+&lt;h2 id=&#34;the-good-the-bad-and-online-assignment&#34;&gt;The Good, the Bad and Online Assignment&lt;/h2&gt;
+&lt;p&gt;If you receive the assignment, make sure to own handouts for that class so as that they understand just how to reach you for more interval training independently. In order to acquire an assignment support, you could have a communication with the lecturers and investigate in the event of any clarification. Every assignment includes a grade-guarantee.&lt;/p&gt;
+&lt;h2 id=&#34;the-basics-of-online-assignment&#34;&gt;The Basics of Online Assignment&lt;/h2&gt;
+&lt;p&gt;When the 1st scan is completed, make sure that the selected references are correctly marked within one&amp;rsquo;s source sheet. The device of scanning the content enables us omit any sort of mistakes and promises that the completely free plagiarism newspapers.&lt;/p&gt;
+&lt;p&gt;You&amp;rsquo;ve got to honestly come up with the caliber of food which you&amp;rsquo;ve experienced at the preferred restaurant. Another more involved way of promote your organization and bring it into a greater profile with the neighborhood community is to give to show photography at no price. The business saw a chance to grow on the web, also began selling throughout the early commercial on-line services, and the internet.&lt;/p&gt;
+&lt;h2 id=&#34;online-assignment-secrets-that-no-one-else-knows-about&#34;&gt;Online Assignment Secrets That No One Else Knows About&lt;/h2&gt;
+&lt;p&gt;Constructing a booming debut, you should tell the value of the topic. After the initial read, a person needs to prepare yourself to draft a research statement, that is going to be the center of the research paper. Before writing the assignment create certain you have known the assignment along with following reading, you should be aware of the niche area of the particular difficulties.&lt;/p&gt;
+&lt;p&gt;You are able to also sell at Amazon by simply creating your merchandise inside their distinctive format called Kindle Book to become downloadable and readable in their identifying apparatus named the Amazon Kindle Device. Java is a programming information that is more well called a consequence of appropriated nature over web. The software application will take on quite a few files in just about any file format, and may also be set to accept numerous submissions.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://papernow.co.uk/essay-writing-service&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;papernow.co.uk/essay-writing-service/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Evidently, among the tastiest advantages it&amp;rsquo;s likely to acquire by calling our aid with your task on the internet is high quality. At exactly the same time, the critical aspects to compare these services would be to assess for the high caliber and pricing they&amp;rsquo;re offering. If you would like to promote a product via your own newsletter, usage of graphics and product images can assist you to get more clients.&lt;/p&gt;
+&lt;p&gt;An individual must do a appropriate market research before settling upon the very most useful kind of service out there. It will be likely to locate a selection of organizations on the internet to assist you with your market research. Now in most regions of Earth, you may utilize online payment process or to sale any sort of product online.&lt;/p&gt;
+&lt;h2 id=&#34;top-online-assignment-secrets&#34;&gt;Top Online Assignment Secrets&lt;/h2&gt;
+&lt;p&gt;Line-editing might be required. Your boss can use the business&amp;rsquo;s policies to bar you in acquiring a rise. Upon completing the fee payment method, a Confirmation of Receipt goes to be displayed and the EST time stamp is subsequently going to be placed on the entry.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>PROFESSOR SABINE BRUNSWICKER AT HCOMP, NY</title>
+      <link>/post/3376-professor-sabine-brunswicker-at-hcomp-ny/</link>
+      <pubDate>Wed, 14 Jun 2017 00:00:18 +0000</pubDate>
+      <guid>/post/3376-professor-sabine-brunswicker-at-hcomp-ny/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Professor Sabine Brunswicker at HCOMP, NY&lt;/strong&gt; Professor Brunswicker is serving on HCOMP’s program committee in New York where she is handling papers on topics such as Human-centered crowd studies, Applications, Crowd/human algorithms, and Crowdsourcing. Cool stuff is about to get much cooler! &lt;a href=&#34;http://www.humancomputation.com/2017/index.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;http://www.humancomputation.com/2017/index.html&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>PHD STUDENT MARLEN PROMANN TO PRESENT AT AMCIS 2017</title>
+      <link>/post/3377-phd-student-marlen-promann-to-present-at-amcis-2017/</link>
+      <pubDate>Mon, 12 Jun 2017 00:00:37 +0000</pubDate>
+      <guid>/post/3377-phd-student-marlen-promann-to-present-at-amcis-2017/</guid>
+      <description>&lt;p&gt;Our PhD student Marlen Promann has been accepted for participation in the Doctoral consortia at AMCIS 2017. She will present her dissertation topic on information visualization for collective energy awareness. Please find more about AMCIS at https://amcis2017.aisnet.org/&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>RESEARCH PAPER ACCEPTED AT AMCIS 2017</title>
+      <link>/post/3380-research-paper-accepted-at-amcis-2017/</link>
+      <pubDate>Thu, 01 Jun 2017 00:00:00 +0000</pubDate>
+      <guid>/post/3380-research-paper-accepted-at-amcis-2017/</guid>
+      <description>&lt;p&gt;Marlen Promann, a Ph.D. candidate at RCODI and our director Dr. Brunswicker will be presenting their latest work on the eco-feedback design in the home energy monitoring context at the Americas Conference on Information Systems (AMCIS) in Boston, MA this August. They will be talking about the affordances current eco-feedback systems grant their users in the residential energy conservation context. AMCIS is a premiere venue for the exchange of ideas on information system and technology research. https://amcis2017.aisnet.org/&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>RESEARCH PAPER ACCEPTED AT IC2S2 2017</title>
+      <link>/post/3384-research-paper-accepted-at-ic2s2-2017/</link>
+      <pubDate>Sat, 29 Apr 2017 00:00:42 +0000</pubDate>
+      <guid>/post/3384-research-paper-accepted-at-ic2s2-2017/</guid>
+      <description>&lt;p&gt;This year’s International Conference on Computational Social Science (IC2S2 2017) received a total of 298 submissions. Professor Sabine Brunswicker and research fellow Satyam Mukherjee’s paper on: “Problem-centric Network Embeddedness and Productivity in Open Source Software Communities” has been accepted for oral presentation at IC2S2 2017 being held between July 11 and July 13.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>PROFESSOR SABINE BRUNSWICKER NOMINATED FOR TRACK CHAIR</title>
+      <link>/post/3382-professor-sabine-brunswicker-nominated-for-track-chair/</link>
+      <pubDate>Sat, 29 Apr 2017 00:00:19 +0000</pubDate>
+      <guid>/post/3382-professor-sabine-brunswicker-nominated-for-track-chair/</guid>
+      <description>&lt;p&gt;Our director at the Research Center for Open Digital Innovation has recently been nominated for the position of Track Chair for the Academy of Management Specialized Conference on Big Data, to be held at the University of Surrey, UK, on 18-20 April 2018.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>PURDUE INNOVATION SUMMIT</title>
+      <link>/post/3386-purdue-innovation-summit/</link>
+      <pubDate>Tue, 11 Apr 2017 00:00:01 +0000</pubDate>
+      <guid>/post/3386-purdue-innovation-summit/</guid>
+      <description>&lt;p&gt;Catch Prof. Sabine Brunswicker and the students from the Research Center for Open Digital Innovation (RCODI) share their thoughts and insights on Technology and Open Innovation at the Purdue Innovation Summit on April 12 at 9:45 am. &lt;a href=&#34;https://polytechnic.purdue.edu/innovation-summit&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://polytechnic.purdue.edu/innovation-summit&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>THANK YOU, PROFESSOR SABINE!</title>
+      <link>/post/3388-thank-you-professor-sabine/</link>
+      <pubDate>Mon, 10 Apr 2017 00:00:42 +0000</pubDate>
+      <guid>/post/3388-thank-you-professor-sabine/</guid>
+      <description>&lt;p&gt;It marked one and a half year since I got to know Professor Sabine. Today is a special day as I won the battle with my fought with leukemia. When my condition worsened in earlier April, she stepped in quickly to complete the tasks that I was supposed to do. I am forever grateful. Professor Sabine has been the light of my life and a reminder to be positive, motivated and happy in life when I was struggling in between the boundary of life and death. Multiple messages from her asking if I was okay during my procedures, which touched my heart deeply. I would like to dedicate this post to her for her compassion and positive spirit that she has injected into my soul. She is not only a professor, but a lifelong mentor and adviser. This post is written with sincerity and gratefulness by Jay (Student in the School of Engineering, Purdue University)&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>IRONHACKS WEBSITE LAUNCH!</title>
+      <link>/post/3389-ironhacks-website-launch/</link>
+      <pubDate>Wed, 22 Mar 2017 00:00:59 +0000</pubDate>
+      <guid>/post/3389-ironhacks-website-launch/</guid>
+      <description>&lt;p&gt;We are proud to announce the launch of our new IronHacks web platform. You can visit the IronHacks website for information, updates and to sign-up at &lt;a href=&#34;http://www.ironhacks.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;www.ironhacks.com&lt;/a&gt; This season we have more than 200 hackers participating in 3 different versions of the IronHacks. To learn more about IronHacks, watch our short introduction clip &lt;a href=&#34;https://www.youtube.com/watch?v=ddqx-eSobcE&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;here&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>UPCOMING GDI EVENT ON MARCH 29TH</title>
+      <link>/post/3392-upcoming-gdi-event-on-march-29th/</link>
+      <pubDate>Tue, 21 Mar 2017 00:00:16 +0000</pubDate>
+      <guid>/post/3392-upcoming-gdi-event-on-march-29th/</guid>
+      <description>&lt;p&gt;Join us to learn about the Global Digital Innovation Program! &lt;strong&gt;WHEN:&lt;/strong&gt; March 29th 2017, 6:30pm – 8:30pm EST &lt;strong&gt;WHERE:&lt;/strong&gt; ME 1130 &lt;strong&gt;WHO SHOULD ATTEND:&lt;/strong&gt; Everybody with interest to learn about the program! &lt;strong&gt;SPEAKERS:&lt;/strong&gt; Prof. Sabine Brunswicker, Prof. Zhang, Prof. Ragu Athinarayanan Visit the &lt;a href=&#34;https://polytechnic.purdue.edu/degrees/global-digital-innovation-dual-degree&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;GDI program website&lt;/a&gt; for more details&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>PURDUE-PLATZI IRONHACKS</title>
+      <link>/post/3394-purdue-platzi-ironhacks/</link>
+      <pubDate>Sun, 19 Mar 2017 00:00:35 +0000</pubDate>
+      <guid>/post/3394-purdue-platzi-ironhacks/</guid>
+      <description>&lt;p&gt;Check out our new IronHack event in association with &lt;a href=&#34;http://www.platzi.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;platzi.com&lt;/a&gt;! This hackathon is a great opportunity to use your creativity to use open data to make something useful and cool. Purdue-Platzi IronHacks is open for everybody. For more information and to sign-up, visit: &lt;a href=&#34;http://www.ironhacks.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;ironhacks.com&lt;/a&gt; Check out the new blogpost from platzi &lt;a href=&#34;https://platzi.com/blog/ironhacks-2017/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;here&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>NEW ARTICLE ON CROWD-SOURCING PUBLISHED</title>
+      <link>/post/3395-new-article-on-crowd-sourcing-published/</link>
+      <pubDate>Fri, 03 Mar 2017 00:00:50 +0000</pubDate>
+      <guid>/post/3395-new-article-on-crowd-sourcing-published/</guid>
+      <description>&lt;p&gt;Our new article on civic crowd-sourcing is published in the special issue on “crowd-sourcing”. Our director, Dr. Sabine Brunswicker and her collaborators Volker Bilgram and Johann Fueller have just published a new article on civic innovation crowd-sourcing in the Business Horizons journal. Check out the article ‘Taming wicked civic challenges with an innovative crowd” &lt;a href=&#34;http://www.sciencedirect.com/science/article/pii/S0007681316301239&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;here&lt;/a&gt;:&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>STUDENT WORKER FOR RESEARCH CENTER OF OPEN DIGITAL INNOVATION WANTED</title>
+      <link>/post/3398-student-worker-for-research-center-of-open-digital-innovation-wanted/</link>
+      <pubDate>Thu, 26 Jan 2017 00:00:14 +0000</pubDate>
+      <guid>/post/3398-student-worker-for-research-center-of-open-digital-innovation-wanted/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Student worker for Research Center of Open Digital Innovation wanted&lt;/strong&gt; &lt;strong&gt;Join a great community of open data hackers and innovators!&lt;/strong&gt; Tasks:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Social media and website content updates (twitter, facebook, word press)&lt;/li&gt;
+&lt;li&gt;Basic clerical work (filing, taking phone calls, organizing receipts, plan and reimburse travel expenses)&lt;/li&gt;
+&lt;li&gt;Information gathering&lt;/li&gt;
+&lt;li&gt;PowerPoint design and editing&lt;/li&gt;
+&lt;li&gt;Help organize campus events&lt;/li&gt;
+&lt;li&gt;Potential for creative tasks such as design work and photography&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Skills:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Reliable, diligent, self-starter, strong communication skills, able to use Excel, Word, PowerPoint, attention to detail&lt;/li&gt;
+&lt;li&gt;Experience with tools for online marketing and social media a plus (twitter, facebook, word press, etc.)&lt;/li&gt;
+&lt;li&gt;Basic skills or interest in developing skills in Adobe Illustrator or InDesign a plus (not a must)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Work-study program preferred Learn more about us on &lt;a href=&#34;http://www.purdue.edu/opendigital&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;www.purdue.edu/opendigital&lt;/a&gt; Start date, hours, and duration:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;As soon as possible!&lt;/li&gt;
+&lt;li&gt;Time frame: Spring with the goal to renew for fall (we like to have sustainability in our team)&lt;/li&gt;
+&lt;li&gt;Hours: Min 10 h, ideally 20 h.&lt;/li&gt;
+&lt;li&gt;Pay: depending on skills (you won’t be unhappy)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Submit now! Send your application to &lt;a href=&#34;mailto:opendigital@purdue.edu&#34;&gt;sbrunswi@purdue.edu&lt;/a&gt; (resume and cover letter); application deadline &lt;strong&gt;February 2, 2017&lt;/strong&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>RCODI VIDEO CHANNEL</title>
+      <link>/post/3399-rcodi-video-channel/</link>
+      <pubDate>Fri, 07 Oct 2016 00:00:32 +0000</pubDate>
+      <guid>/post/3399-rcodi-video-channel/</guid>
+      <description>&lt;p&gt;We are having more and more experts giving their hints about Open Source, Open Data and Open Innovation. This time, for our Purdue IronHack we have Jason Hibbets from Red Hat, Ben Cotton from HackLafayette, William Huang from Purdue Hackers and some others to share their expertise on different topics in order to encourage IronHackers to think out of the box to tackle the challenges behind the Gold and Black IronHacks. In the coming days, we’ll share more videos, interviews and interesting news about what’s going on with our Research Center Open Digital Innovation. Stay tuned. Check it out here: &lt;a href=&#34;https://vimeo.com/opendigital&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://vimeo.com/opendigital&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>NEW ARTICLE IN SCIENTOMETRICS ON THE SCIENTIFIC IMPACT IN DIGITAL SCIENTIFIC COMMUNITIES</title>
+      <link>/post/3404-new-article-in-scientometrics-on-the-scientific-impact-in-digital-scientific-communities-2/</link>
+      <pubDate>Sun, 11 Sep 2016 00:00:41 +0000</pubDate>
+      <guid>/post/3404-new-article-in-scientometrics-on-the-scientific-impact-in-digital-scientific-communities-2/</guid>
+      <description>&lt;p&gt;Modern science has become collaborative and digital. The Internet has supported the emergence of scientific digital platforms that globally connect programmers and users of novel digital scientific products such as scientific interactive software tools. These digital scientific innovations complement traditional text-based products like journal publications. Our new article published in &lt;a href=&#34;http://link.springer.com/journal/11192&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Scientometrics&lt;/a&gt; is focused on the scientific impact of a platform’s programming community that produces these digital scientific innovations. Check it out &lt;a href=&#34;http://goo.gl/ggdULK&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;here&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>NEW ARTICLE IN SCIENTOMETRICS ON THE SCIENTIFIC IMPACT IN DIGITAL SCIENTIFIC COMMUNITIES</title>
+      <link>/post/3402-new-article-in-scientometrics-on-the-scientific-impact-in-digital-scientific-communities/</link>
+      <pubDate>Sun, 11 Sep 2016 00:00:01 +0000</pubDate>
+      <guid>/post/3402-new-article-in-scientometrics-on-the-scientific-impact-in-digital-scientific-communities/</guid>
+      <description>&lt;p&gt;Modern science has become collaborative and digital. The Internet has supported the emergence of scientific digital platforms that globally connect programmers and users of novel digital scientific products such as scientific interactive software tools. These digital scientific innovations complement traditional text-based products like journal publications. Our new article published in &lt;a href=&#34;http://link.springer.com/journal/11192&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Scientometrics&lt;/a&gt; is focused on the scientific impact of a platform’s programming community that produces these digital scientific innovations. Check it out &lt;a href=&#34;http://goo.gl/ggdULK&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;here&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>RCODI STUDENT PLACES 2ND IN IOT CIVIC HACKATHON!</title>
+      <link>/post/3405-rcodi-student-places-2nd-in-iot-civic-hackathon/</link>
+      <pubDate>Thu, 05 May 2016 00:00:02 +0000</pubDate>
+      <guid>/post/3405-rcodi-student-places-2nd-in-iot-civic-hackathon/</guid>
+      <description>&lt;p&gt;Our very own Master’s Student, Charles Song and his team placed 2nd last weekend in the first “Internet of Things Civic Hackathon” in Fishers, Indiana, run by AT&amp;amp;T and Code for America’s Indiana branch, &lt;a href=&#34;http://www.openindybrigade.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Open Indy Brigade&lt;/a&gt;. Using local open data to code mobile apps and hack hardware solutions to help better their community, Charles and his team developed a web application to predict crime in Indianapolis based on 911 dialing records from the Indianapolis Police. Charles was pleased with the outcome and said about the application: “Moving to a new area and picking the best place to live is a monumental decision for anybody and we wanted to make this decision easier for the citizen. Crime can tell you a lot about an area in terms of safety and comfort and this is the first step towards helping future Indianapolis citizens to feel safe in this fantastic city”. Congratulations, Charles and team, for your great effort and 2nd place!&lt;/p&gt;
+&lt;h6 id=&#34;photos-below-courtesy-of-open-indy-brigade&#34;&gt;Photos below courtesy of Open Indy Brigade.&lt;/h6&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.purdue.edu/opendigital/wp-content/uploads/2016/05/13119887_714614685342666_91187029952479204_o.jpg&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;img src=&#34;https://www.purdue.edu/opendigital/wp-content/uploads/2016/05/13119887_714614685342666_91187029952479204_o-300x200.jpg&#34; alt=&#34;13119887_714614685342666_91187029952479204_o&#34;&gt;&lt;/a&gt;&lt;a href=&#34;https://www.purdue.edu/opendigital/wp-content/uploads/2016/05/13123182_714613682009433_8496070906349442002_o.jpg&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;img src=&#34;https://www.purdue.edu/opendigital/wp-content/uploads/2016/05/13123182_714613682009433_8496070906349442002_o-300x200.jpg&#34; alt=&#34;13123182_714613682009433_8496070906349442002_o&#34;&gt;&lt;/a&gt;&lt;a href=&#34;https://www.purdue.edu/opendigital/wp-content/uploads/2016/05/13123355_713948288742639_1041296897016838151_o.jpg&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;img src=&#34;https://www.purdue.edu/opendigital/wp-content/uploads/2016/05/13123355_713948288742639_1041296897016838151_o-300x200.jpg&#34; alt=&#34;13123355_713948288742639_1041296897016838151_o&#34;&gt;&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>ABE SYMPOSIUM AT DLRC A GREAT SUCCESS</title>
+      <link>/post/3408-abe-symposium-at-dlrc-a-great-success/</link>
+      <pubDate>Mon, 22 Feb 2016 00:00:34 +0000</pubDate>
+      <guid>/post/3408-abe-symposium-at-dlrc-a-great-success/</guid>
+      <description>&lt;p&gt;On a lovely Thursday morning and afternoon, Dr. Sabine Brunswicker delivered a plenary speech on the potential for Open Digital Innovation within the agricultural sector for agricultural &amp;amp; biological engineers at the ABE Graduate Symposium. Talking about the potential for platforms such as MyJohnDeere.com and OpenAg.io to bring together various forms of agricultural open data to create more efficient agriculture, interest was high among the participants. We thank the ABE Graduate Student Association for putting together a great event and look forward to the bright future of data-driven agriculture. &lt;a href=&#34;https://www.purdue.edu/opendigital/wp-content/uploads/2016/02/IMG_7407.jpg&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;img src=&#34;https://www.purdue.edu/opendigital/wp-content/uploads/2016/02/IMG_7407-300x200.jpg&#34; alt=&#34;IMG_7407&#34;&gt;&lt;/a&gt;&lt;a href=&#34;https://www.purdue.edu/opendigital/wp-content/uploads/2016/02/IMG_7399.jpg&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;img src=&#34;https://www.purdue.edu/opendigital/wp-content/uploads/2016/02/IMG_7399-300x200.jpg&#34; alt=&#34;IMG_7399&#34;&gt;&lt;/a&gt;&lt;a href=&#34;https://www.purdue.edu/opendigital/wp-content/uploads/2016/02/IMG_7387.jpg&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;img src=&#34;https://www.purdue.edu/opendigital/wp-content/uploads/2016/02/IMG_7387-300x200.jpg&#34; alt=&#34;IMG_7387&#34;&gt;&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>VISITING STUDENT FROM JAPAN AT RCODI</title>
+      <link>/post/3409-visiting-student-from-japan-at-rcodi/</link>
+      <pubDate>Thu, 11 Feb 2016 00:00:10 +0000</pubDate>
+      <guid>/post/3409-visiting-student-from-japan-at-rcodi/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;https://www.purdue.edu/opendigital/wp-content/uploads/2014/02/2016-02-10-14.05.07-1.jpg&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;img src=&#34;https://www.purdue.edu/opendigital/wp-content/uploads/2014/02/2016-02-10-14.05.07-1-225x300.jpg&#34; alt=&#34;2016-02-10 14.05.07&#34;&gt;&lt;/a&gt;This week, the Research Center for Open Digital Innovation is enjoying the visit of Takeshi Ishikawa. Takeshi is a second year Master’s student in the Graduate School of Business &amp;amp; Commerce, Keio University, Japan. His research  focuses on relations between open innovation and organizational features (e.g. organizational culture, organizational capabilities or organizational structures). &lt;em&gt;” Right now, I’m researching about contributing factors in Japanese organizations when adopting technologies outside with conventional organizational theories”&lt;/em&gt;, Takeshi says. The visit will be for a week this year, but he plans to come back for one of the prime open innovation hubs in the US: &lt;em&gt;“I’m planning to stay at the Research Center for Open Digital Innovation in 2017 with help by the Keio Program for Leading Graduate School (PLGS) and I am very excited for this opportunity”&lt;/em&gt;, Takeshi says. We at RCODI will be looking forward to having him on our team in 2017.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>VOLUNTEER OPENINGS</title>
+      <link>/post/3412-volunteer-openings/</link>
+      <pubDate>Thu, 21 Jan 2016 00:00:29 +0000</pubDate>
+      <guid>/post/3412-volunteer-openings/</guid>
+      <description>&lt;p&gt;At the Research Center for Open Digital Innovation we value highly the input from students, so if you are a motivated and engaged individual interested in working with novel innovation research and assisting us in succeeding, we encourage you to check out the volunteer job openings listed below – these will give you highly applicable job experience and the possibility of a recommendation from the ONLY Open Digital Innovation research division in the Midwest. Click here to see available volunteer opportunities. &lt;strong&gt;&lt;a href=&#34;https://www.purdue.edu/opendigital/volunteer-openings/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Openings&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>THE BLUE IRONHACK WAS A GREAT SUCCESS!</title>
+      <link>/post/3414-the-blue-ironhack-was-a-great-success/</link>
+      <pubDate>Fri, 11 Dec 2015 00:00:31 +0000</pubDate>
+      <guid>/post/3414-the-blue-ironhack-was-a-great-success/</guid>
+      <description>&lt;p&gt;With many engaged and motivated developers from Purdue University, the Blue IronHacks awards ceremony came to a great conclusion! With a problem that challenged the students to create a mashup that could help West Lafayette citizens in choosing optimal housing based on a number of criteria, the competition was tough but we witnessed a lot of great solutions. Those that really stood out won great prizes in the form of Amazon giftcards and lots of Socrata and RedHat swag! The winners are as follows:&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;Best Solution: Qing Wei&lt;/li&gt;
+&lt;li&gt;Greatest Improvement and Winning Spirit: En-Hsin Peng&lt;/li&gt;
+&lt;li&gt;Greatest Community Spirit: Gaoping Huang&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;&lt;img src=&#34;https://www.purdue.edu/opendigital/wp-content/uploads/2015/12/Winners-300x225.jpg&#34; alt=&#34;&#34;&gt; Winners were greeted by Chris Metcalf, Director of Developer Experience at Socrata, to whom the winners will be presenting their mashups in order to compete for an internship at Socrata. You can watch the video from Chris &lt;a href=&#34;https://www.youtube.com/watch?v=kKfbrl8FGbE&amp;amp;feature=youtu.be&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;here&lt;/a&gt;. With such great solutions, we look forward to seeing more of the same from our Boilermakers out there whose hearts beat for developing useful applications for the general public good. Look out for upcoming IronHacks next semester and good luck on finals! -Team IronHack&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>THE BLUE IRONHACKS ARE A GREAT SUCCESS</title>
+      <link>/post/3513-the-blue-ironhacks-are-a-great-success/</link>
+      <pubDate>Mon, 17 Nov 2014 00:00:22 +0000</pubDate>
+      <guid>/post/3513-the-blue-ironhacks-are-a-great-success/</guid>
+      <description>&lt;p&gt;A group of motivated hackers finished their second out of three submissions last night at Midnight for the Blue IronHacks and are now up for judging by our expert panel. “The submissions so far have taken into account various problem aspects and settings, and it is truly impressive what the hackers are doing with Open Data”, said Cheryl Hsiang, one of our researchers and judges. Judging will take place over the next three days, before kicking off the final hacking phase on Thursday, November 11, and submitting the final solution Monday, November 23.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>THE RED IRONHACK OFFICIALLY KICKS OFF!</title>
+      <link>/post/3507-the-red-ironhack-officially-kicks-off/</link>
+      <pubDate>Sun, 05 Oct 2014 00:00:20 +0000</pubDate>
+      <guid>/post/3507-the-red-ironhack-officially-kicks-off/</guid>
+      <description>&lt;p&gt;The Red &lt;a href=&#34;https://www.facebook.com/hashtag/ironhack?source=feed_text&amp;amp;story_id=503213856504888&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;‪#‎IronHack‬&lt;/a&gt; officially kicked off at noon! For those of you who did not complete the short yet really important survey, please do so to be eligible for some cool awards! Check your e-mail for the link! – Team IronHack&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>DISCOVERY LECTURE SERIES TALK ON INNOVATION DISRUPTION</title>
+      <link>/post/3508-discovery-lecture-series-talk-on-innovation-disruption/</link>
+      <pubDate>Tue, 30 Sep 2014 00:00:03 +0000</pubDate>
+      <guid>/post/3508-discovery-lecture-series-talk-on-innovation-disruption/</guid>
+      <description>&lt;p&gt;Well-known and renowned business strategist, speaker, and author, Paul Nunes, will give a talk for the Discovery Lecture Series &lt;a href=&#34;http://www.amazon.com/Big-Bang-Disruption-Devastating-Innovation/dp/1591846900/ref=sr_1_1?s=books&amp;amp;ie=UTF8&amp;amp;qid=1443618684&amp;amp;sr=1-1&amp;amp;keywords=paul&amp;#43;nunes&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;“Big Bang Disruption: Strategy in the Age of Devastating Innovation”&lt;/a&gt;. Nunes is the Global Managing Director of the Accenture &lt;a href=&#34;https://www.accenture.com/us-en/institute-for-high-performance.aspx&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Institute for High Performance&lt;/a&gt;, a global “think-and-act-tank” which aims to define and measure high-performance businesses. In his talk, Nunes will discuss the drivers of disruptive innovation in the global marketplace and how these lead to changes in strategy for businesses due to new forms of product lifecycles – innovation is simply more disruptive and happens faster than ever , and companies must learn to think differently. The Research Center for Open Digital Innovation (RCODI) is co-sponsoring this event, which is part of  a larger effort to build on Purdue’s strengths in computational systems, modeling, technology, engineering, the sciences and entrepreneurship in order to advance research and offer a research-based interdisciplinary graduate education in innovation. The talk will take place at 1:30 p.m. on Oct. 7th in Discovery Park’s Burton D. Morgan Center for Entrepreneurship, Room 121. &lt;strong&gt;Source&lt;/strong&gt;: Sabine Brunswicker, 765-494-0880, &lt;a href=&#34;mailto:sbrunswi@purdue.edu&#34;&gt;sbrunswi@purdue.edu&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>KICKOFF OF THE PURDUE RED IRONHACKS</title>
+      <link>/post/3504-kickoff-of-the-purdue-red-ironhacks/</link>
+      <pubDate>Tue, 23 Sep 2014 00:00:26 +0000</pubDate>
+      <guid>/post/3504-kickoff-of-the-purdue-red-ironhacks/</guid>
+      <description>&lt;p&gt;Tomorrow at 5:00 PM in DLRC, RCODI will kick off it’s first training session for the IronHacks. This is your chance to learn about open data, how to do cool visualizations, and hack to create cool and novel applications for society! There is still time to &lt;a href=&#34;https://purdue.qualtrics.com/SE/?SID=SV_cGuUK9LiEs6n909&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;sign up&lt;/a&gt; for this event and all you need to bring is: 1) A Laptop 2) Your creativity and inspiration 3) Energy and good mood! Address: Discovery Learning Resource Center, RM 143A/B, 207 South Martin Jischke Drive, West Lafayette, IN 47907 If you have questions please e-mail us at &lt;a href=&#34;mailto:opendigital@purdue.edu&#34;&gt;opendigital@purdue.edu&lt;/a&gt; and visit our &lt;a href=&#34;https://www.facebook.com/OpenDigitalPurdue&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Facebook&lt;/a&gt;page.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>RCODI EVENT: PURDUE IRONHACKS</title>
+      <link>/post/3503-rcodi-event-purdue-ironhacks/</link>
+      <pubDate>Sun, 14 Sep 2014 00:00:07 +0000</pubDate>
+      <guid>/post/3503-rcodi-event-purdue-ironhacks/</guid>
+      <description>&lt;p&gt;The Research Center for Open Digital Innovation (RCODI) and the Purdue Hackers invite you to an evening event to hear about the new exciting initiative of hack series, the “Purdue IronHacks” which will take place over the fall semester of 2015. Learn about the opportunities to join one of new innovation hacking models to turn open governmental data into innovative website mash-ups that are useful for Purdue students and US citizens at a broader scale. Engage in the open data movement! Are you a coder (also novice coders are welcome) who wants to turn open data into useful applications, gain recognition among your panel of renowned judges, and be rewarded with exciting prizes? Are you excited about the open data movement and to join IronHacks as a sounding board member? Are you a graduate student generally excited about digital innovation who wants to be part of the movement? We invite coders, open data enthusiasts, and graduate students with a research interest in open data, crowds, and innovation to join us and learn more about IronHacks! We will offer free pizza and drinks! When: Wednesday September 16, @6:00pm Where: Discovery Learning Resource Center (DLRC), 207 South Martin Jischke Drive, West Lafayette, Room 143A/B&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>SIGN UP FOR PURDUE IRONHACKS</title>
+      <link>/post/3500-sign-up-for-purdue-ironhacks/</link>
+      <pubDate>Thu, 11 Sep 2014 00:00:34 +0000</pubDate>
+      <guid>/post/3500-sign-up-for-purdue-ironhacks/</guid>
+      <description>&lt;p&gt;The sign up for the Purdue IronHacks is now up! Read about the different problems here: &lt;a href=&#34;https://www.purdue.edu/opendigital/red-ironhack/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Red IronHack&lt;/a&gt; &lt;a href=&#34;https://www.purdue.edu/opendigital/blue-ironhack/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Blue IronHack &lt;/a&gt; &lt;a href=&#34;https://www.purdue.edu/opendigital/green-ironhack/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Green Iron Hack&lt;/a&gt; &lt;a href=&#34;https://www.purdue.edu/opendigital/yellow-ironhack/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Yellow IronHack&lt;/a&gt;&lt;/p&gt;
+&lt;h3 id=&#34;sign-up-herehttpswwwpurdueeduopendigitalsign-up&#34;&gt;&lt;a href=&#34;https://www.purdue.edu/opendigital/sign-up/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;SIGN UP HERE!&lt;/a&gt;&lt;/h3&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>RCODI LUNCHEON: PURDUE IRONHACKS</title>
+      <link>/post/3499-rcodi-luncheon-purdue-ironhacks/</link>
+      <pubDate>Tue, 26 Aug 2014 00:00:15 +0000</pubDate>
+      <guid>/post/3499-rcodi-luncheon-purdue-ironhacks/</guid>
+      <description>&lt;p&gt;The Research Center for Open Digital Innovation (RCODI) in collaboration with the Purdue Hackers, invites you to a luncheon to hear about the new exciting initiative of hack series, the “Purdue IronHacks” which will take place over the fall semester of 2015. Hear about the opportunities to join one of new innovation hacking model to turn open governmental data into innovative website mash-ups that are useful for Purdue students and US citizens at a broader scale. Engage in the open data movement! Are you a coder (also novice coders are welcome) who wants to turn open data into useful applications, gain recognition among your panel of re-known judges, and be rewarded with exciting prizes? Are you excited about the open data movement and join IronHacks as a sounding board member? Are you a graduate student generally excited about innovation and are you thrilled to engage in experimental data-driven research on innovation focused on hacking as a new model of digital innovation? We invite coders, open data enthusiasts, and graduate students with a research interest in innovation and open data to join us and learn more about IronHacks! We will offer free pizza and drinks! When: Thursday September 3, @12:00pm Where: Discovery Learning Resource Center (DLRC), 207 South Martin Jischke Drive, West Lafayette, Room 143A/B   More info? IronHacks &lt;a href=&#34;https://www.purdue.edu/opendigital/purdue-ironhacks/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://www.purdue.edu/opendigital/purdue-ironhacks/&lt;/a&gt; Graduate class: Research in Open Innovation: &lt;a href=&#34;https://www.purdue.edu/opendigital/courses/research-in-open-innovation-course/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://www.purdue.edu/opendigital/courses/research-in-open-innovation-course/&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>RCODI TO BE FEATURED IN DIMENSIONS OF DISCOVERY MAGAZINE</title>
+      <link>/post/3496-rcodi-to-be-featured-in-dimensions-of-discovery-magazine/</link>
+      <pubDate>Fri, 25 Apr 2014 00:00:28 +0000</pubDate>
+      <guid>/post/3496-rcodi-to-be-featured-in-dimensions-of-discovery-magazine/</guid>
+      <description>&lt;p&gt;The Research Center for Open Digital Innovation will have an article in the upcoming issue of Dimensions of Discovery Magazine, produced by Purdue University’s Office of the Vice President for Research. The magazine is issued four times throughout the academic year on a seasonal schedule. Articles include profiles of researchers, announcements of new grants and award winners, information on policies and resources for faculty members, and events. The mailing list includes faculty, research scientists and postdoctoral associates, as well as administrators and staff with responsibilities related to sponsored programs. The article will be mailed out on May 5, 2014. For more information, please click the link below. &lt;a href=&#34;http://www.purdue.edu/research/vpr/publications/dimofdisc.php&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;http://www.purdue.edu/research/vpr/publications/dimofdisc.php&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>DR. BRUNSWICKER TO CHAIR SPECIAL SESSION AT R&amp;D MANAGEMENT CONFERENCE 2014</title>
+      <link>/post/3494-dr-brunswicker-to-chair-special-session-at-rd-management-conference-2014/</link>
+      <pubDate>Sun, 23 Mar 2014 00:00:59 +0000</pubDate>
+      <guid>/post/3494-dr-brunswicker-to-chair-special-session-at-rd-management-conference-2014/</guid>
+      <description>&lt;p&gt;Dr. Sabine Brunswicker of the Research Center for Open Digital Innovation will be chairing a special session focused on the topic of “Open Strategizing in R&amp;amp;D” as a brief description of what will be discussed at the special session please see below: In recent years there has been an increasing interest in “open strategy” among academics and practitioners. The term “open strategy” suggests that openness does not only relate to managing openness in an individual R&amp;amp;D project or in the idea-to-launch process. Open strategizing implies a more open approach towards managing the strategy and policy processes. Open strategy as a process is emerging in private firms which open up their corporate R&amp;amp;D strategy processes. In addition, public organizations emphasize openness when developing strategies and policies. Openness in strategy processes may appear in many different forms, such as the integration of a large number of internal employees. In addition, there are open strategy processes where organizations engage with external stakeholders to co-create novel strategic ideas for emerging strategic areas. In some cases, open strategy making is more concerned with communication to the public. Participatory strategy processes regularly making use of IT (e.g. crowdsourcing platforms) which affords novel ways to engage a large number of participants. There are two key dimensions that characterize open strategy making, namely (1) greater internal and external transparency as well as (2) greater inclusiveness of various actors in strategy-making, internal and external. Greater openness on these dimensions is clearly opposed to conventional notions of strategy which treat it as exclusive and secretive rather than inclusive and transparent. Information systems may both afford or constrain openness in strategy processes. To learn more about the conference, or to register to attend, please go to &lt;a href=&#34;http://www.rnd2014.iao.fraunhofer.de/en/r-d-management-conference-2014.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;http://www.rnd2014.iao.fraunhofer.de/en/r-d-management-conference-2014.html&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>PROF. BRUNSWICKER CHAIRS PANEL SYMPOSIUM AT THE 2014 ACADEMY OF MANAGEMENT MEETING.</title>
+      <link>/post/3493-prof-brunswicker-chairs-panel-symposium-at-the-2014-academy-of-management-meeting/</link>
+      <pubDate>Tue, 18 Mar 2014 00:00:27 +0000</pubDate>
+      <guid>/post/3493-prof-brunswicker-chairs-panel-symposium-at-the-2014-academy-of-management-meeting/</guid>
+      <description>&lt;p&gt;Prof. Sabine Brunswicker will chair a &lt;strong&gt;unique panel symposium&lt;/strong&gt; at the &lt;a href=&#34;http://aom.org/annualmeeting/&#34; title=&#34;Academy of Management Meeting&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;2014 Academy of Management Meeting&lt;/a&gt; taking place August 1-5 in Philadelphia, Pennsylvania: “Resolving the Debate on Competition and Collaboration in Open Innovation Crowds”. To resolve the debate on &lt;em&gt;competition&lt;/em&gt; and &lt;em&gt;collaboration&lt;/em&gt; in open innovation crowds, the panel brings together highly reputed scholars in the field to discuss five major themes that are essential to find a resolution: 1) &lt;em&gt;incentives&lt;/em&gt; in competition and collaboration 2) &lt;em&gt;contingencies&lt;/em&gt; factors shaping performance of collaboration and competition 3) competition and collaboration as &lt;em&gt;network-level phenomenon&lt;/em&gt; 4) the role of &lt;em&gt;technologies and information systems&lt;/em&gt; in affording collaboration and competition and 5) the need for &lt;em&gt;co-creation&lt;/em&gt; in open innovation crowds and &lt;em&gt;governance &amp;amp; facilitation practices&lt;/em&gt; for them. Members of the panel are highly profile academics in the field of Open Innovation such as, &lt;strong&gt;&lt;a href=&#34;http://www.bus.umich.edu/facultybios/FacultyBio.asp?id=000279039&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Allan Afuah&lt;/a&gt; (University of Michigan, USA)&lt;/strong&gt;, &lt;strong&gt;&lt;a href=&#34;https://www.hyve.de/team_member.php?tid=5&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Johann Füller&lt;/a&gt; (University of Innsbruck, Austria), &lt;a href=&#34;http://www.hbs.edu/faculty/Pages/profile.aspx?facId=240491&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Karim Lakhani&lt;/a&gt; (Panelist) (Harvard Business School, USA), &lt;a href=&#34;https://www.uni-kassel.de/fb07/en/institutes/ibwl/faculty-chairs/leimeister-prof-dr/team/prof-dr-jan-marco-leimeister.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Jan-Marco Leimeister&lt;/a&gt; (University of Kassel, Germany &amp;amp; St. Gallen University, Switzerland), &lt;a href=&#34;http://www.marshall.usc.edu/faculty/directory/majchrza&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Ann Majchrzak&lt;/a&gt; (University of Southern California, USA &amp;amp; ESADE Business School, Spain)&lt;/strong&gt;. Our panelist will ignite the debate of the panel via a short contribution to each theme and will invite other panelist as well as the audience to respond to it. Attend the AOM, join the panel and contribute to a lively debate.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>ASSISTANT PROFESSORSHIP AVAILABLE</title>
+      <link>/post/3487-assistant-professorship-available/</link>
+      <pubDate>Thu, 13 Mar 2014 00:00:25 +0000</pubDate>
+      <guid>/post/3487-assistant-professorship-available/</guid>
+      <description>&lt;p&gt;To establish a novel interdisciplinary program in open digital innovation, the Department of Technology Leadership &amp;amp; Innovation (TLI) expects to hire candidates at the Assistant Professor level starting fall 2014. The position involves scholarship in research, teaching, and engagement as it is required for tenure and promotion in rank. RCODI will provide a home to scholars who aspire to shape the future of open and digital innovation and to engage in empirical and action-oriented research. We offer an inspiring, supportive environment to support your immersion into an ambitious international research agenda and global partnerships. &lt;a href=&#34;https://www.purdue.edu/opendigital/careers/assistant-professorship-2/&#34; title=&#34;Assistant Professor in Open Digital Innovation&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Learn more »&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>NEW PUBLICATION BY DR. BRUNSWICKER IN RTM</title>
+      <link>/post/3491-new-publication-by-dr-brunswicker-in-rtm/</link>
+      <pubDate>Wed, 12 Mar 2014 00:00:26 +0000</pubDate>
+      <guid>/post/3491-new-publication-by-dr-brunswicker-in-rtm/</guid>
+      <description>&lt;p&gt;&lt;img src=&#34;data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wCEAAkGBxQSEhIUEhMVFhUXFBUWFhgXGBcVGBgUFxQcGBgYGhQaHCogGBonHBQXLTEnJSkrLi4uFx82ODMsNygtLiwBCgoKDQ0OFxAQGiwkHhw3NywrLCw1LCwsLDcsLzcsNywsLCw0LCwsLCwsNS8tNCw0NC8sNywsLjUsNDQvNy4sLP/AABEIAGEAUAMBIgACEQEDEQH/xAAbAAABBQEBAAAAAAAAAAAAAAADAAIEBQcBBv/EAD4QAAECAwQFBwsCBwEAAAAAAAEAAgMRMQQhQVESYXGB8AUTIjJCwdEUIzNScpGhsbLh8QYHFXOCkqLS4kP/xAAaAQADAAMBAAAAAAAAAAAAAAADBAUAAQIG/8QAIhEAAgEEAQQDAAAAAAAAAAAAAAECAwURMhIhIjFBE4HB/9oADAMBAAIRAxEAPwDcUkCJamjGdaEeKb5a3I4Yt8VrKN4YS12hsNj4juqxrnux6LRM3bAvK8nfuTYIz4TWvit51wbDdEgxIbHOd1QIjm6Mzherf9QWlpslrvl5iMLyL/NmkishsUON5PyJDtdrDrBFdBm1jGMdCiMAdBZEeSSWEiU7qLZrBoUb9z7C15hnynTE+j5PGmQ0yJA0bxPFX/Jf6hgWiNaIEJxMWAWc60ggjTE2kTqNlF5q22ln8esx02y/h8YT0hKfPBeI5Rs0cW7lK02F7eedaxZHgu6PMx4EMCJXsPE95yWGGp8l/rGyWgOdDizDYz4EyCAYjAC4Nu6Qk9t9L1Lb+oLMdGUZnSlKszOcrv6T7lnP7d2RtnhW2BBLy2HyhFYCyJDadFsGEAXadQZGlF6oRYgII5/W0xbNo3apXz7gsMPU2W0siNDmODmmhFEZed5GtTw7zmnKRviRoTh7mY9H/JXnlcP12f3DxWGGBWWDOfQnTAeHEkd1lulzeFdH7JthbOdwNK/gp0VwDjIsGrRnLforyigmsnuG3krOUGAQ4svUfhLslZ3CtUgPNwzdKZbf86rR+UzOHFvB6DqCQ6pwWYtVW3ayJF16yh9kttqEiOahUl1b9taonlQP/lC/tOG9RWBGY3jjJPuRNjBHY5DzPQY3U0SHu4yTOaGQ447lIbD4p+O5O5vj7Z6sKofMLwRDMIZDjjuQ3Qhl8FYGHxUfgfFCfD4295W1M5dNGm2LHq4VRI0QT6zBUHoz15Idj7V06YE55KS55vk3douqoUdT0ktip5UfNkW8HoOvAl2TgsyYFpnKLyYcQn1HfSVmsIKhb30mS7mu6AeG1SoTO6l+w8bUOC3LjLv3bVNhM/FJg1F5r8gmZyE4RONh7O67DZlmUQQ+MdlevnqRWMGYpW6RHrUoMEUN1yxnfcPWpUpdzGFAic1sNKUJ/wBR80J8Lvv1YmlSVYGGMbrr9TcqYprofiaV7LbsliqGOB6xkQtoZTT/ACh3rfJCSUjLLuEAt/oonsO+krOYIWjW70UT2HfSVncDjjiqqW/WRIuW8CdAbPX78acZBToTduJwG3eVDgyxlLG80P3uVhBGycxgfSeACNUYvTQZo/E8fURQ3ffOtXersC5Cwka9W7tdoozNWxt3axKUkxqKGhu+Wup9XcuGHvljcZuOO5HDfhq7Wa7obMqYmq45BOBbJJJJIogLd6KJ7DvpKzyzin24qtDt3oonsO+krO4A441Aqrb9ZEi5bwLKz7/cMbgPferGEDSbq6IOsVdvVdZzsnvF5HgrCCAbhQ3Tn2R2kSqBpEuEJylpDSuGoCqOzMTvuGrWgwxPCWlroApDNhvurQZpOQ5AIBtuu35p2jty35pNHh906XGpCbDJFpyfZxFish6QaXmQJoOJqLylEEGK6G6ZLTKYFx1iZXIrZyunvlLYU0wtLrNado0viV1yofElx7vbydONf5JNS7fSx+jbafNRP5bvpKzuDx3/AAC0S2jzUT2HfSVnUI8cbk5b9ZCFy2gWdncc79uJ25BWEH4HULmCtM1WQDxrN5N+QVhBIyuuJ9kUF2KJVQCmyfD1yvvNx6mG9SWbqX+zgosM57TWuA2KSw/PM3nLYkpj0A442J6G08Xp6Cw6JqSSSANALd6KJ7DvpKzhlONSSSrW7WRHue0SfZcdjvmrBlf6mfJdSRqvkWp+CZZsNrlLh4bCupJGfkep+Ao8E7/pJJBYwj//2Q==&#34; alt=&#34;&#34;&gt;     In a study that surveyed large firms in Europe and the United States, Dr. Brunswicker and Dr. Henry Chesbrough (UC Berkeley) examine the extent to which large firms are practicing open innovation.  As the world continues to move towards a more openly innovative environment, businesses, too, continue to adopt more open innovation practices. This study will be published in the March-April issue of the Research-Technology Management (RTM) Journal. To see this article, please go to &lt;em&gt;Research‐Technology Management&lt;/em&gt; (&lt;em&gt;RTM&lt;/em&gt;) online at &lt;a href=&#34;http://www.iriweb.org/rtm&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;www.iriweb.org/rtm&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>DR. BRUNSWICKER TO SPEAK AT INNOVATION CONVENTION</title>
+      <link>/post/3488-dr-brunswicker-to-speak-at-innovation-convention/</link>
+      <pubDate>Mon, 10 Mar 2014 00:00:02 +0000</pubDate>
+      <guid>/post/3488-dr-brunswicker-to-speak-at-innovation-convention/</guid>
+      <description>&lt;p&gt;&lt;img src=&#34;https://ec.europa.eu/wel/template-2013/images/logo/logo_en.gif&#34; alt=&#34;European Commission logo&#34;&gt; Dr. Sabine Brunswicker  will be a panel speaker on standards and innovation at the European Commission event **&lt;a href=&#34;https://ec.europa.eu/research/innovation-union/ic2014/index_en.cfm&#34; title=&#34;Innovation Convention&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Innovation Convention 2014&lt;/a&gt;. ** The Innovation Convention is an essential part of the &lt;a href=&#34;http://ec.europa.eu/research/innovation-union/index_en.cfm&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Innovation Union flagship initiative&lt;/a&gt;, the European Union strategy which aims to create an &lt;strong&gt;innovation-friendly environment&lt;/strong&gt; that makes it easier for great ideas to be turned into products and services that will bring our economy growth and jobs. The Convention provides &lt;strong&gt;a platform to debate and inform policies&lt;/strong&gt; that will contribute towards the building of a research and innovation eco-system in Europe that can support this objective.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>SABINE JOINS EXPERT PANEL FOR FUTUREENTERPRISE</title>
+      <link>/post/3485-sabine-joins-expert-panel-for-futureenterprise/</link>
+      <pubDate>Thu, 20 Feb 2014 00:00:06 +0000</pubDate>
+      <guid>/post/3485-sabine-joins-expert-panel-for-futureenterprise/</guid>
+      <description>&lt;p&gt;Sabine has recently joined the Experts’ Panel for &lt;a href=&#34;http://www.fines-cluster.eu/jm/Front-Page-News/futureenterprise-csa-kicked-off.html&#34; title=&#34;Introducing the FutureEnterprise CSA&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;FutureEnterprise&lt;/a&gt;, a &lt;a href=&#34;http://ec.europa.eu/research/fp7/understanding/fp7inbrief/funding-schemes_en.html&#34; title=&#34;Funding Schemes - EUROPA&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Coordination and Support Action&lt;/a&gt; (CSA) project funded under the European Commission &lt;a href=&#34;http://cordis.europa.eu/fp7/home_en.html&#34; title=&#34;European Commission: CORDIS: FP7&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;FP7 Programme&lt;/a&gt;. FutureEnterprise aims to support the research activities in Internet-based Enterprise innovation and Future Internet from the perspective and for the benefit of enterprises on the basis of an open mentality to bridge the past with the future. The Experts’ Panel will have an instrumental role in ensuring that the initiative meets its objectives successfully, including providing their expertise in specific research areas and writing ideas, contributions and comments to a number of FutureEnterprise deliverables. Fellow members of the Experts Panel are David Osimo of Open Evidence, David Shrier of MIT, Frank Gielen of iMinds, Gigi Wang of the MIT/Stanford Venture Lab, Jesus Yagüe of AECIM, and Stuart McRae of IBM.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>CALL FOR PAPERS: OPEN STRATEGY: TOWARDS MORE OPENNESS IN STRATEGY PROCESSES IN R&amp;D</title>
+      <link>/post/3480-call-for-papers-open-strategy-towards-more-openness-in-strategy-processes-in-rd/</link>
+      <pubDate>Mon, 13 Jan 2014 00:00:38 +0000</pubDate>
+      <guid>/post/3480-call-for-papers-open-strategy-towards-more-openness-in-strategy-processes-in-rd/</guid>
+      <description>&lt;p&gt;In recent years there has been an increasing interest in “open strategy” among academics and practitioners. The term “open strategy” suggests that openness does not only relate to managing openness in an individual R&amp;amp;D project or in the idea-to-launch process. Open strategizing implies a more open approach towards managing the strategy and policy processes. Open strategy as a process is emerging in private firms which open up their corporate R&amp;amp;D strategy processes. In addition, public organizations emphasize openness when developing strategies and policies. Openness in strategy processes may appear in many different forms, such as the integration of a large number of internal employees. In addition, there are open strategy processes where organizations engage with external stakeholders to co-create novel strategic ideas for emerging strategic areas. In some cases, open strategy making is more concerned with communication to the public. Participatory strategy processes regularly making use of IT (e.g. crowdsourcing platforms) which affords novel ways to engage a large number of participants. There are two key dimensions that characterize open strategy making, namely (1) greater internal and external &lt;em&gt;transparency&lt;/em&gt; as well as (2) greater &lt;em&gt;inclusiveness&lt;/em&gt; of various actors in strategy-making, internal and external. Greater openness on these dimensions is clearly opposed to conventional notions of strategy which treat it as exclusive and secretive rather than inclusive and transparent. Information systems may both &lt;em&gt;afford&lt;/em&gt; or &lt;em&gt;constrain&lt;/em&gt; openness in strategy processes. With this special session we call for papers that tackle open strategy in R&amp;amp;D and the strategic use of information systems in open strategy in R&amp;amp;D from different perspectives and theoretical lenses (e.g. network theory, micro-political approaches, theory of affordances). We are interested in advancing existing theory and strongly encourage empirical contributions that span both the private as well as the public sector. Submit your abstract (300 words) via &lt;a href=&#34;https://www.easychair.org/account/signin.cgi?key=7862068.n2ODscjZmOin9yU5&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://www.easychair.org/account/signin.cgi?key=7862068.n2ODscjZmOin9yU5&lt;/a&gt; &lt;strong&gt;Extended Deadline for Submission&lt;/strong&gt;: January 25, 2014 &lt;strong&gt;Session chairs:&lt;/strong&gt; Sabine Brunswicker, Purdue University Research Center for Open Digital Innovation &lt;strong&gt;Industry Partners:&lt;/strong&gt; Hyve AG (Johann Fueller &amp;amp; Giordano Koch) &lt;strong&gt;Extended Deadline for Submission&lt;/strong&gt;: January 25, 2014 &lt;a href=&#34;http://www.rnd2014.iao.fraunhofer.de/en/r-d-management-conference-2014.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;More Information »&lt;/a&gt; If you have questions related to the special session, please contact &lt;a href=&#34;mailto:sbrunswi@purdue.edu&#34; title=&#34;sbrunswi@purdue.edu&#34;&gt;sbrunswi@purdue.edu&lt;/a&gt; or &lt;a href=&#34;mailto:giordano.koch@hyve.net&#34; title=&#34;giordano.koch@hyve.net&#34;&gt;giordano.koch@hyve.net&lt;/a&gt;. &lt;em&gt;Accepted papers are considered for publication in the R&amp;amp;D Management Journal, Technovation and the International Journal of Technology Management.&lt;/em&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>REGISTRATION NOW OPEN</title>
+      <link>/post/3481-3481-2/</link>
+      <pubDate>Sun, 17 Nov 2013 00:00:53 +0000</pubDate>
+      <guid>/post/3481-3481-2/</guid>
+      <description>&lt;p&gt;&lt;em&gt;This course is now in session and no longer accepting registrants. &lt;a href=&#34;https://www.purdue.edu/opendigital/courses/research-in-open-innovation-tech-621-spring-2014/&#34; title=&#34;Research in Open Innovation – TECH 621 – Spring 2014&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;More about the class »&lt;/a&gt;&lt;/em&gt; Are you a PhD student or potential future PhD candidate and excited about the emerging innovation landscape? Do you want to join and shape the future of innovation research? Are you thrilled to tackle interdisciplinary research questions at the interface of management and economics, information systems, design engineering, data science and public policy in an action-oriented and empirical research setting? If so, sign up for the new interdisciplinary PhD Seminar, entitled &lt;strong&gt;Research In Open Innovation&lt;/strong&gt; (TECH 621), offered in spring 2014, and start an intellectually inspiring journey of potential research on Open Digital Innovation. During this journey you will learn about relevant theories and research settings related to this emerging field of research. You will start planning a research project in the area of Open Digital Innovation and even pilot a potential research question.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>INFORMATION LUNCHEON</title>
+      <link>/post/3475-information-luncheon/</link>
+      <pubDate>Thu, 14 Nov 2013 00:00:12 +0000</pubDate>
+      <guid>/post/3475-information-luncheon/</guid>
+      <description>&lt;p&gt;Interested in our &lt;a href=&#34;http://www.purdue.edu/opendigital/news/2013/10/18/registration-now-open/&#34; title=&#34;Research in Open Innovation&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;new class&lt;/a&gt;? Come to the free luncheon on November 21, 2013 from 12:00 pm to 1:30 in LWSN 1142. &lt;a href=&#34;https://ias.itap.purdue.edu/rgs/wgb_workshop.disp_online_workshop&#34; title=&#34;Register&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Register&lt;/a&gt; by November 19.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>OPEN DIGITAL NOW AN OFFICIAL PURDUE CENTER</title>
+      <link>/post/3478-open-digital-now-an-official-purdue-center/</link>
+      <pubDate>Tue, 12 Nov 2013 00:00:32 +0000</pubDate>
+      <guid>/post/3478-open-digital-now-an-official-purdue-center/</guid>
+      <description>&lt;p&gt;We are pleased to announce that The Research Hub for Open Digital Innovation has been approved by Richard O. Buckius, Purdue Vice President for Research, as an official Center at the Purdue University Discovery Park, which, with its major centers, leads Purdue’s large-scale interdisciplinary research efforts.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>THE BLUE IRONHACK KICKS OFF!</title>
+      <link>/post/3511-the-blue-ironhack-kicks-off/</link>
+      <pubDate>Mon, 11 Nov 2013 00:00:50 +0000</pubDate>
+      <guid>/post/3511-the-blue-ironhack-kicks-off/</guid>
+      <description>&lt;p&gt;The Blue &lt;a href=&#34;https://www.facebook.com/hashtag/ironhack?source=feed_text&amp;amp;story_id=503213856504888&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;‪#‎IronHack‬&lt;/a&gt; officially and virtually kicked off on at Purdue University on Monday, November 9! It is a pleasure to see the hacking spirit alive and well, and we are excited to see the solutions created during the next 21 days!&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>NEW PAPER ON OPEN INNOVATION IN SMES</title>
+      <link>/post/3474-new-paper-on-open-innovation-in-smes/</link>
+      <pubDate>Fri, 08 Nov 2013 00:00:55 +0000</pubDate>
+      <guid>/post/3474-new-paper-on-open-innovation-in-smes/</guid>
+      <description>&lt;p&gt;Sabine Brunswicker and Wim Vanhaverbeke recently authored a paper in the &lt;em&gt;Journal of Small Business Management&lt;/em&gt; on external knowledge sourcing, a form of inbound open innovation in small and medium-sized firms (SMEs). Earlier work on SMEs indicates that by nature, innovation in such firms has an external focus and is often strongly embedded in social and personal ties. However, the literature also has many gaps. This paper discusses how SMEs purposively source external knowledge in innovation as well as the role of integrative managerial practices for innovation in external knowledge sourcing. &lt;a href=&#34;http://papers.ssrn.com/sol3/papers.cfm?abstract_id=2351047&#34; title=&#34;Abstract/Download&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Read more at SSRN »&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>SABINE GIVES KEYNOTE AT TRANSHAL</title>
+      <link>/post/3472-sabine-gives-keynote-at-transhal/</link>
+      <pubDate>Tue, 05 Nov 2013 00:00:32 +0000</pubDate>
+      <guid>/post/3472-sabine-gives-keynote-at-transhal/</guid>
+      <description>&lt;h3 id=&#34;sabine-gives-keynote-at-transhal&#34;&gt;SABINE GIVES KEYNOTE AT TRANSHAL&lt;/h3&gt;
+&lt;p&gt;Sabine Brunswicker was invited to give the keynote talk at TransHAL [German], the first in a series of events organized by the city of Halle (Saale), Martin Luther University of Halle-Wittenberg (MLU), and the district of Saalekreis to promote cooperation between science and industry. The conference was held on October 29, 2013 in Halle (Saale), Germany. Her talk on open innovation inspired the 150+ gathered entrepreneurs and scientists in their discussions. no-repeat;center top;;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>LECTURE ON INNOVATION &amp; OPEN DATA</title>
+      <link>/post/3469-lecture-on-innovation-open-data/</link>
+      <pubDate>Fri, 18 Oct 2013 00:00:11 +0000</pubDate>
+      <guid>/post/3469-lecture-on-innovation-open-data/</guid>
+      <description>&lt;p&gt;Purdue University Libraries Seminar Committee recently welcomed Jonathan Reichental, an award-winning CIO for Palo Alto, Calif., for a seminar on innovation and open data in local government. A recording of the presentation is now available. &lt;a href=&#34;http://www.kaltura.com/tiny/urfrk&#34; title=&#34;Video of seminar&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;» Watch&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>NEW REPORT EXAMINES HOW LARGE COMPANIES PRACTICE OPEN INNOVATION</title>
+      <link>/post/3468-new-report-examines-how-large-companies-practice-open-innovation/</link>
+      <pubDate>Mon, 07 Oct 2013 00:00:50 +0000</pubDate>
+      <guid>/post/3468-new-report-examines-how-large-companies-practice-open-innovation/</guid>
+      <description>&lt;p&gt;Sabine Brunswicker and Henry Chesbrough have conducted the first large-sample survey of open innovation adoption among large companies. Their study of European and U.S. companies gives an extensive overview of the ways that companies are now practicing open innovation, along with the trends that can be discerned. The results show that large companies consider open innovation to be very important and are expecting it to grow even further. The biggest challenge, however, lies within the organization: managing the journey from closed to open innovation by setting up new structures, processes and responsibilities. &lt;a href=&#34;http://www.iao.fraunhofer.de/lang-en/business-areas/technology-innovation-management/1060-open-innovation-a-fad-or-a-phenomenon.html&#34; title=&#34;Read More&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Read more at Fraunhofer »&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>WELCOME TO OPEN DIGITAL</title>
+      <link>/post/3463-welcome-to-open-digital/</link>
+      <pubDate>Fri, 04 Oct 2013 00:00:36 +0000</pubDate>
+      <guid>/post/3463-welcome-to-open-digital/</guid>
+      <description>&lt;p&gt;Purdue University’s Research Hub for Open Digital Innovation is a team of researchers striving to quantify how releasing data from both government and industry spurs innovation in both the public and private sectors. We are based at Purdue University, a leading research institution in West Lafayette, IN, and our team consists of scientists and engineers from around the world. &lt;a href=&#34;http://www.purdue.edu/opendigital/about/&#34; title=&#34;About Us&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Learn more »&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>SABINE GIVES TALK AT RED HAT</title>
+      <link>/post/3466-sabine-gives-talk-at-red-hat/</link>
+      <pubDate>Fri, 04 Oct 2013 00:00:18 +0000</pubDate>
+      <guid>/post/3466-sabine-gives-talk-at-red-hat/</guid>
+      <description>&lt;p&gt;Sabine Brunswicker was chosen to give the closing keynote at the 2013 Red Hat Europe, Middle East and Africa (EMEA) Partner Conference. The conference was held September 29-October 2 in Madrid, Spain for Red Hat partners who want to collaborate and innovate with Red Hat and each other to thrive and succeed in the changing global economy. Sabine’s presentation, “Not a Fad but a Phenomenon: The Role of Open Innovation and Innovation Ecosystems in Today’s Global and Digital Economy”, focuses on the adoption of open innovation practices in large firms and the shift in the open innovation landscape towards an innovation ecosystem perspective. &lt;a href=&#34;http://www.slideshare.net/christophervoeglein/open-innovation-not-a&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;View on Slideshare »&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>New Year, New Opportunities</title>
+      <link>/post/2022-1-1-new-year-new-opportunities/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/post/2022-1-1-new-year-new-opportunities/</guid>
+      <description>&lt;blockquote&gt;
+&lt;p&gt;It&amp;rsquo;s a new year, and RCODI is embarking on some exciting new research endeavors. Are you?&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;We hope you&amp;rsquo;re becoming the person you want to be. RCODI wants to inspire growth, change, and inspire you to pave the road of the future. We hope your experiences this year are not hindered by COVID, are not lessened by remote working, and we hope that you are able to live your life to its fullest potential this year!&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Your friends at RCODI&lt;/em&gt;
+&lt;em&gt;&lt;a href=&#34;https://rcodi.org/about/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Learn more about RCODI from our About page!&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;Interested in partnering or have a question?
+&lt;a href=&#34;mailto:sbrunswi@purdue.edu&#34;&gt;Email us&lt;/a&gt;&lt;/p&gt;
+&lt;h3 id=&#34;follow-us-on-twitter-httpstwittercompurdue_rcodi&#34;&gt;&lt;a href=&#34;https://twitter.com/purdue_rcodi&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Follow us on Twitter! 🙌&lt;/a&gt;&lt;/h3&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>RCODI Welcomes Vineet Mohanty!</title>
+      <link>/post/welcome_vineet/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/post/welcome_vineet/</guid>
+      <description>&lt;h3 id=&#34;a-new-member-joined-the-team&#34;&gt;A new member joined the team!&lt;/h3&gt;
+&lt;p&gt;RCODI Welcomes Vineet Mohanty to the research center. Vineet is currently pursuing his doctoral research at Purdue. His research focus is at the intersection of Machine Learning and Big Data for Open-Source Software (OSS) supply chain. Using techniques from network science and graph analytics, he is analyzing the criticality of a software package in an OSS ecosystem. Vineet is a Mechanical Engineer by training with special interests in computational techniques and algorithm development for designing smart energy systems.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

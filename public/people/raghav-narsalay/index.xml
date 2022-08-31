@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Raghav Narsalay | RCODI</title>
+    <link>/people/raghav-narsalay/</link>
+      <atom:link href="/people/raghav-narsalay/index.xml" rel="self" type="application/rss+xml" />
+    <description>Raghav Narsalay</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>Purdue Research Center for Open Digital Innovation © 2022</copyright><lastBuildDate>Sun, 01 Jan 2017 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/media/logo_hue831a1547d228cf33d75a995b069998a_11256_300x300_fit_lanczos_2.png</url>
+      <title>Raghav Narsalay</title>
+      <link>/people/raghav-narsalay/</link>
+    </image>
+    
+    <item>
+      <title>Open Innovation Smart Solutions for R&amp;D Piplelines</title>
+      <link>/publication/narsalay-open-2017/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>/publication/narsalay-open-2017/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Managing Open Innovation Projects with Impact</title>
+      <link>/publication/brunswicker-managing-2016/</link>
+      <pubDate>Fri, 01 Jul 2016 00:00:00 +0000</pubDate>
+      <guid>/publication/brunswicker-managing-2016/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A Smart Way to Open Your Innovation Process</title>
+      <link>/publication/narsalay-smart-2016/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      <guid>/publication/narsalay-smart-2016/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Four Approaches to Open Innovation</title>
+      <link>/publication/narsalay-four-2016/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      <guid>/publication/narsalay-four-2016/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Managing Open Innovation Projects with Impact</title>
+      <link>/publication/brunswicker-managing-2016-1/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      <guid>/publication/brunswicker-managing-2016-1/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

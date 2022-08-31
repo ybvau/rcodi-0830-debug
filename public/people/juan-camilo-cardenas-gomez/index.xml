@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Juan Camilo Cárdenas Gomez | RCODI</title>
+    <link>/people/juan-camilo-cardenas-gomez/</link>
+      <atom:link href="/people/juan-camilo-cardenas-gomez/index.xml" rel="self" type="application/rss+xml" />
+    <description>Juan Camilo Cárdenas Gomez</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>Purdue Research Center for Open Digital Innovation © 2022</copyright>
+    <image>
+      <url>/people/juan-camilo-cardenas-gomez/avatar_hub03599cffc294b7e6c67e437cf6181cd_7265_270x270_fill_q75_lanczos_center.jpg</url>
+      <title>Juan Camilo Cárdenas Gomez</title>
+      <link>/people/juan-camilo-cardenas-gomez/</link>
+    </image>
+    
+  </channel>
+</rss>

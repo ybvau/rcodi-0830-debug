@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Peng Li | RCODI</title>
+    <link>/people/peng-li/</link>
+      <atom:link href="/people/peng-li/index.xml" rel="self" type="application/rss+xml" />
+    <description>Peng Li</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>Purdue Research Center for Open Digital Innovation © 2022</copyright>
+    <image>
+      <url>/people/peng-li/avatar_hu290f006c6667bf224e26470e7eeb7582_32179_270x270_fill_q75_lanczos_center.jpg</url>
+      <title>Peng Li</title>
+      <link>/people/peng-li/</link>
+    </image>
+    
+    <item>
+      <title>goldironhack/2017-Fall-Purdue-UNAL-IronHack-Tutorials: Fall 2017 IronHacks Tutorials</title>
+      <link>/publication/research-center-for-open-digital-innovation-rcodi-goldironhack-2017-fall-purdue-unal-ironhack-tutorials-2017/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>/publication/research-center-for-open-digital-innovation-rcodi-goldironhack-2017-fall-purdue-unal-ironhack-tutorials-2017/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

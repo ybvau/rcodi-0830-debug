@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Pekham Dey | RCODI</title>
+    <link>/people/pekham-dey/</link>
+      <atom:link href="/people/pekham-dey/index.xml" rel="self" type="application/rss+xml" />
+    <description>Pekham Dey</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>Purdue Research Center for Open Digital Innovation © 2022</copyright>
+    <image>
+      <url>/people/pekham-dey/avatar_hu919aa032dbdfa60330ec29eff929bdf9_35248_270x270_fill_q75_lanczos_center.jpg</url>
+      <title>Pekham Dey</title>
+      <link>/people/pekham-dey/</link>
+    </image>
+    
+  </channel>
+</rss>

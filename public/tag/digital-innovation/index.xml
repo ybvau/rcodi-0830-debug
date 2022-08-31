@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>digital-innovation | RCODI</title>
+    <link>/tag/digital-innovation/</link>
+      <atom:link href="/tag/digital-innovation/index.xml" rel="self" type="application/rss+xml" />
+    <description>digital-innovation</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>Purdue Research Center for Open Digital Innovation © 2022</copyright><lastBuildDate>Sun, 11 Jul 2010 22:24:09 +0000</lastBuildDate>
+    <image>
+      <url>/media/logo_hue831a1547d228cf33d75a995b069998a_11256_300x300_fit_lanczos_2.png</url>
+      <title>digital-innovation</title>
+      <link>/tag/digital-innovation/</link>
+    </image>
+    
+    <item>
+      <title>Transparency in Open Data Contest</title>
+      <link>/project/transparency-in-open-data-contest/</link>
+      <pubDate>Sun, 11 Jul 2010 22:24:09 +0000</pubDate>
+      <guid>/project/transparency-in-open-data-contest/</guid>
+      <description>&lt;p&gt;This study measures the degree of &lt;em&gt;innovation performance transparency&lt;/em&gt; and &lt;em&gt;solution transparency&lt;/em&gt; to determine the effect of transparency on participation and innovation.&lt;/p&gt;
+&lt;h3 id=&#34;transparency-in-open-data-contest&#34;&gt;Transparency in Open Data Contest&lt;/h3&gt;
+&lt;p&gt;&lt;strong&gt;Primary Research Questions:&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;What are the effects of &lt;em&gt;innovation performance transparency&lt;/em&gt; and solution &lt;em&gt;transparency&lt;/em&gt; on participation and innovativeness of Open Data solutions in Open Data contests?&lt;/li&gt;
+&lt;li&gt;How does transparency in open data contests affect civic participation?&lt;/li&gt;
+&lt;li&gt;How does transparency influence the novelty, usefulness, and popularity of open data solutions?&lt;/li&gt;
+&lt;li&gt;Are there differences in the way agencies and citizens evaluate the innovativeness of these solutions?&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;p&gt;In a series of &amp;lsquo;first-of-its-kind&amp;rsquo; 3 weeks fully virtual hacks known as &amp;ldquo;&lt;a href=&#34;https://www.purdue.edu/opendigital/purdue-ironhacks/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;The Purdue IronHacks&lt;/a&gt;&amp;rdquo;, we explore &lt;em&gt;transparency&lt;/em&gt; and &lt;em&gt;participation&lt;/em&gt; in Open Data (OD) solutions in OD contests. The OD project introduces the concept of &lt;em&gt;innovation performance transparency&lt;/em&gt; and &lt;em&gt;solution transparency&lt;/em&gt; in OD contests. We draw upon the theory of private-collective innovation, self-organizing governance and our previous research in organizing innovation contests, collective action, and open public policy and problem solving. The goal of this project is to provide a new perspective on how to promote impact from governmental OD. Using machine readable open datasets from &lt;a href=&#34;http://www.data.gov/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Data.gov&lt;/a&gt; focusing on the areas of: Health, Energy, Climate, Education, Finance, Public Safety, and Global Development, we conduct an empirical quantitative study to explain the effect of &lt;em&gt;innovation performance transparency&lt;/em&gt; and &lt;em&gt;solution transparency&lt;/em&gt; on governmental OD impact.&lt;/p&gt;
+&lt;p&gt;Following a data driven and computational research approach, in a series of quasi-experimental OD contests, several hundred citizens, developers, and students will participate in a ‘virtual’ lab environment. Non-expert citizens and developers will collaborate to identify problems, share different perspectives, critical decisions, and seek solutions. The degree of &lt;em&gt;innovation performance transparency&lt;/em&gt; and &lt;em&gt;solution transparency&lt;/em&gt; will be measured in order to determine the effect of transparency on participation and innovation. Findings from these experiments will be implemented in larger national OD contests, such as the &lt;a href=&#34;http://hackforchange.org/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;National Day of Civic Hacking&lt;/a&gt;. In sum, this study will provide evidence-based guidelines for the design of OD contests and how to utilize transparency and knowledge sharing to increase the impact of governmental OD.&lt;/p&gt;
+&lt;p&gt;Duration: 24 months&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Investigators: &lt;a href=&#34;https://www.purdue.edu/opendigital/about/sabine/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Sabine Brunswicker&lt;/a&gt;, &lt;a href=&#34;https://www.purdue.edu/opendigital/about/research-team/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Ann Majchrzak&lt;/a&gt;, &lt;a href=&#34;https://www.purdue.edu/opendigital/about/research-team/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Esteve Almirall.&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;
+&lt;h3 id=&#34;partners--sponsorship&#34;&gt;&lt;strong&gt;Partners &amp;amp; Sponsorship&lt;/strong&gt;&lt;/h3&gt;
+&lt;p&gt;Partners: &lt;a href=&#34;http://www.redhat.com/en&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;RedHat&lt;/a&gt;, &lt;a href=&#34;https://www.socrata.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Socrata&lt;/a&gt;, &lt;a href=&#34;http://www.westlafayette.in.gov/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;City of West Lafayette&lt;/a&gt;, &amp;amp; &lt;a href=&#34;http://purduehackers.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Purdue Hackers&lt;br&gt;
+&lt;/a&gt;Sponsor(s): &lt;a href=&#34;http://www.nsf.gov/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;NSF&lt;/a&gt;, &lt;a href=&#34;http://www.nsf.gov/funding/pgm_summ.jsp?pims_id=501084&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Science of Science and Innovation Policy (SciSPI)&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>I. Mergel | RCODI</title>
+    <link>/people/i.-mergel/</link>
+      <atom:link href="/people/i.-mergel/index.xml" rel="self" type="application/rss+xml" />
+    <description>I. Mergel</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>Purdue Research Center for Open Digital Innovation © 2022</copyright><lastBuildDate>Sat, 01 Aug 2015 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/media/logo_hue831a1547d228cf33d75a995b069998a_11256_300x300_fit_lanczos_2.png</url>
+      <title>I. Mergel</title>
+      <link>/people/i.-mergel/</link>
+    </image>
+    
+    <item>
+      <title>Opening Governance with a Public Intent: Studying Opening Governance at Multiple Scales</title>
+      <link>/publication/brunswicker-opening-2015/</link>
+      <pubDate>Sat, 01 Aug 2015 00:00:00 +0000</pubDate>
+      <guid>/publication/brunswicker-opening-2015/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

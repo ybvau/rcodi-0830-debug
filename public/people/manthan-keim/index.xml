@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Manthan Keim | RCODI</title>
+    <link>/people/manthan-keim/</link>
+      <atom:link href="/people/manthan-keim/index.xml" rel="self" type="application/rss+xml" />
+    <description>Manthan Keim</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>Purdue Research Center for Open Digital Innovation © 2022</copyright>
+    <image>
+      <url>/people/manthan-keim/avatar_hu1efe112eb1ca8dc3cd20522a698c0540_362776_270x270_fill_q75_lanczos_center.jpg</url>
+      <title>Manthan Keim</title>
+      <link>/people/manthan-keim/</link>
+    </image>
+    
+  </channel>
+</rss>

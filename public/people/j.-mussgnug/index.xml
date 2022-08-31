@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>J. Mussgnug | RCODI</title>
+    <link>/people/j.-mussgnug/</link>
+      <atom:link href="/people/j.-mussgnug/index.xml" rel="self" type="application/rss+xml" />
+    <description>J. Mussgnug</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>Purdue Research Center for Open Digital Innovation © 2022</copyright><lastBuildDate>Wed, 01 Oct 2003 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/media/logo_hue831a1547d228cf33d75a995b069998a_11256_300x300_fit_lanczos_2.png</url>
+      <title>J. Mussgnug</title>
+      <link>/people/j.-mussgnug/</link>
+    </image>
+    
+    <item>
+      <title>Eyetracking the use of a simulated prototype of an inflight-entertainment-system. (German title: Analyse der Augenbewegungen bei der Bedienung eines simulierten Prototypen eines, Inflight-Entertainment-Systems)</title>
+      <link>/publication/mussgnug-eyetracking-2003/</link>
+      <pubDate>Wed, 01 Oct 2003 00:00:00 +0000</pubDate>
+      <guid>/publication/mussgnug-eyetracking-2003/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

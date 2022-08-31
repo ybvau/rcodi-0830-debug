@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Cheryl Hsiang | RCODI</title>
+    <link>/people/cheryl-hsiang/</link>
+      <atom:link href="/people/cheryl-hsiang/index.xml" rel="self" type="application/rss+xml" />
+    <description>Cheryl Hsiang</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>Purdue Research Center for Open Digital Innovation © 2022</copyright>
+    <image>
+      <url>/people/cheryl-hsiang/avatar_huae3114e107f9922e403d3d2ad6b3d92d_44884_270x270_fill_q75_lanczos_center.jpg</url>
+      <title>Cheryl Hsiang</title>
+      <link>/people/cheryl-hsiang/</link>
+    </image>
+    
+  </channel>
+</rss>

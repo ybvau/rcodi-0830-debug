@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Concluded | RCODI</title>
+    <link>/category/concluded/</link>
+      <atom:link href="/category/concluded/index.xml" rel="self" type="application/rss+xml" />
+    <description>Concluded</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>Purdue Research Center for Open Digital Innovation © 2022</copyright><lastBuildDate>Sun, 14 Mar 2010 22:24:06 +0000</lastBuildDate>
+    <image>
+      <url>/media/logo_hue831a1547d228cf33d75a995b069998a_11256_300x300_fit_lanczos_2.png</url>
+      <title>Concluded</title>
+      <link>/category/concluded/</link>
+    </image>
+    
+    <item>
+      <title>Governance  and Risk-mitigation of Open Innovation</title>
+      <link>/project/governance-and-risk-mitigation-of-open-innovation/</link>
+      <pubDate>Sun, 14 Mar 2010 22:24:06 +0000</pubDate>
+      <guid>/project/governance-and-risk-mitigation-of-open-innovation/</guid>
+      <description>&lt;p&gt;This project tests a moderated mediation model in which external search breadth and depth influence open innovation project performance through their effects by different governance mechanisms.&lt;/p&gt;
+&lt;h3 id=&#34;governance-and-risk-mitigation-of-open-innovation&#34;&gt;Governance and Risk-mitigation of Open Innovation&lt;/h3&gt;
+&lt;p&gt;Since Henry Chesbrough’s (2003) landmark work on open innovation, much attention has been given to the phenomenon of firms’ using a wide range of external actors and sources to help them achieve and sustain innovation (Laursen and Salter, 2006). Prior studies have highlighted the positive influences of open innovation activities on innovation outcomes in large firms (Parida et al., 2012).&lt;/p&gt;
+&lt;p&gt;However, few studies have investigated the key governance mechanism of open innovation and their interaction to induce higher level of innovation performance in specific collaborative open innovation projects. We simultaneously examine the influence of external search breadth and depth in open innovation partners’ interactions on project performance. We contend that: (a) these two dimensions influence open innovation project performance through different governance mechanisms (process control, outcome control); and (b) the project’s related innovation complexity alters the effect of external search breadth and depth on open innovation project performance.&lt;/p&gt;
+&lt;p&gt;We develop and test a moderated mediation model in which external search breadth and depth influence open innovation project performance through their effects by different governance mechanisms, and these indirect effects are moderated by different levels of innovation complexity.&lt;/p&gt;
+&lt;p&gt;We applied structural equation modelling (SEM) using the MPlus 7.31 (Muthén &amp;amp; Muthén, 2015) to test for the hypothesized relationships among the constructs: external search breadth and depth, process control, outcome control, innovation complexity and open innovation project performance, as well as for the interaction effects of process control, outcome control and innovation complexity on open innovation project performance.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Intellectual Merit and&lt;/strong&gt; &lt;strong&gt;Broader Impacts&lt;/strong&gt;**:**&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Development of a moderated mediation model where the project performance is moderated by the different levels of innovation complexity.&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
